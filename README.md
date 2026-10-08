@@ -43,6 +43,26 @@ Checks cover preset consistency, localization, selected gem allocation and delet
 
 The executable is unsigned. Test changes on a backed-up copy before replacing a save you rely on. No saves or game files are included.
 
+## FAQ
+
+See the [FAQ](docs/faq.md) for help choosing a download, opening character files, saving changes, and restoring backups. It also explains why gem creation may reject a save layout.
+
+## Help and bug reports
+
+Check the FAQ and [existing issues](https://github.com/Trit0N10/bloodborne-save-editor-gems/issues) first. If the problem remains, [open a bug report](https://github.com/Trit0N10/bloodborne-save-editor-gems/issues/new/choose). Include the editor version, Windows version, game/emulator or port version, exact error, and steps to reproduce it. Screenshots or logs can help; remove personal information before posting them. You do not need to upload your save to file a report.
+
+## Documentation
+
+| Document | Contents |
+| --- | --- |
+| [FAQ](docs/faq.md) | Downloads, save files, troubleshooting, and backup recovery |
+| [Changelog](CHANGELOG.md) | Changes by release |
+| [Release notes](https://github.com/Trit0N10/bloodborne-save-editor-gems/releases) | Downloads and release-specific notes |
+| [Testing](docs/testing.md) | Checks, commands, and validation limits |
+| [Architecture](docs/architecture.md) | Save editing and gem registry implementation |
+| [Asset provenance](docs/assets.md) | Original graphics and regeneration |
+| [Credits](NOTICE.md) | Upstream authors and metadata sources |
+
 ## Build from source
 
 Install **Node.js 22.12 or newer**, stable Rust, and the [Tauri Windows prerequisites](https://v2.tauri.app/start/prerequisites/), including MSVC C++ build tools and WebView2 Runtime. A game installation is not needed to build.

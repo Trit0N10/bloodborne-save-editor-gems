@@ -1,0 +1,57 @@
+name: 问题反馈（简体中文）
+description: 反馈编辑器的问题，并提供复现步骤。
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请先查看[常见问题](https://github.com/Trit0N10/bloodborne-save-editor-gems/blob/main/docs/faq.zh-CN.md)和已有反馈。
+        不需要上传存档。发布截图或日志前，请去除个人信息。
+  - type: input
+    id: version
+    attributes:
+      label: 编辑器版本
+      placeholder: "例如：0.11.0"
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 运行环境与存档来源
+      description: 填写 Windows 版本、游戏／模拟器或移植版的名称与版本，以及角色文件是否已解密。提供文件名即可，不需要包含个人目录的完整路径。
+      placeholder: |
+        Windows 版本：
+        游戏／模拟器或移植版：
+        存档文件名与来源：
+        角色文件是否已解密：
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: 复现步骤
+      description: 说明打开了什么文件、使用了哪个页面或工具，以及哪些操作会触发问题。
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 预期结果
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: 实际结果与完整报错
+      description: 提供完整报错，并说明每次都会发生，还是偶尔发生。
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: 截图或日志（可选）
+      description: 去除个人信息后，可补充相关截图或日志片段。请勿附上凭据或存档文件。

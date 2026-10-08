@@ -43,6 +43,26 @@
 
 程序没有数字签名。请先在备份副本上验证修改，再替换需要继续使用的存档。下载包不包含存档或游戏文件。
 
+## 常见问题
+
+[FAQ](docs/faq.zh-CN.md) 介绍下载包的选择、角色存档的打开、修改的保存和备份恢复，也说明为什么部分存档布局会被拒绝添加宝石。
+
+## 帮助与问题反馈
+
+先查看 FAQ 和[已有问题](https://github.com/Trit0N10/bloodborne-save-editor-gems/issues)。若仍无法解决，可以[提交问题反馈](https://github.com/Trit0N10/bloodborne-save-editor-gems/issues/new/choose)，选择简体中文表单，填写编辑器版本、Windows 版本、游戏／模拟器或移植版版本、完整报错和复现步骤。截图或日志有助于定位问题，发布前请去除个人信息。提交反馈不需要上传存档。
+
+## 文档导航
+
+| 文档 | 内容 |
+| --- | --- |
+| [常见问题](docs/faq.zh-CN.md) | 下载、存档文件、问题排查与备份恢复 |
+| [更新记录](CHANGELOG.md)（英语） | 各版本的改动 |
+| [发布页](https://github.com/Trit0N10/bloodborne-save-editor-gems/releases) | 下载文件与版本说明，提供简中入口 |
+| [测试说明](docs/testing.md)（英语） | 检查命令、覆盖范围与验证限制 |
+| [架构说明](docs/architecture.md)（英语） | 存档编辑与宝石注册表的实现 |
+| [素材来源](docs/assets.md)（英语） | 自制图形与重新生成方法 |
+| [致谢](NOTICE.md)（英语） | 上游作者及资料来源 |
+
 ## 从源码构建
 
 安装 **Node.js 22.12 或更新版本**、Rust stable，以及 [Tauri Windows 构建依赖](https://v2.tauri.app/start/prerequisites/)，包括 MSVC C++ 工具和 WebView2 Runtime。构建无需安装游戏。

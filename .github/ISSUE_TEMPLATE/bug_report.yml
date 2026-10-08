@@ -1,0 +1,57 @@
+name: Bug report (English)
+description: Report a reproducible problem with the editor.
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Check the [FAQ](https://github.com/Trit0N10/bloodborne-save-editor-gems/blob/main/docs/faq.md) and existing issues first.
+        You do not need to upload a save. Remove personal information from screenshots and logs.
+  - type: input
+    id: version
+    attributes:
+      label: Editor version
+      placeholder: "For example: 0.11.0"
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment and save source
+      description: Include your Windows version, game/emulator or port name and version, and whether the character file is decrypted. File names are enough; full personal paths are not needed.
+      placeholder: |
+        Windows:
+        Game/emulator or port:
+        Save file name and source:
+        Decrypted character file:
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Describe what you opened, which page or tool you used, and the actions that trigger the problem.
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior and exact error
+      description: Include the full error text and whether the problem happens every time or occasionally.
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Screenshots or logs (optional)
+      description: Add relevant screenshots or log excerpts after removing personal information. Do not attach credentials or save files.
