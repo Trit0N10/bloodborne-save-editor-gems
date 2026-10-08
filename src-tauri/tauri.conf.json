@@ -1,0 +1,70 @@
+{
+  "build": {
+    "beforeBuildCommand": "node node_modules/vite/bin/vite.js build",
+    "beforeDevCommand": "npx cross-env BROWSER=none npm run dev",
+    "frontendDist": "../dist",
+    "devUrl": "http://localhost:5173"
+  },
+  "bundle": {
+    "createUpdaterArtifacts": false,
+    "active": false,
+    "category": "DeveloperTool",
+    "copyright": "",
+    "targets": "all",
+    "externalBin": [],
+    "icon": [
+      "icons/32x32.png",
+      "icons/128x128.png",
+      "icons/128x128@2x.png",
+      "icons/icon.icns",
+      "icons/icon.ico"
+    ],
+    "windows": {
+      "certificateThumbprint": null,
+      "digestAlgorithm": "sha256",
+      "timestampUrl": ""
+    },
+    "longDescription": "",
+    "macOS": {
+      "entitlements": null,
+      "exceptionDomain": "",
+      "frameworks": [],
+      "providerShortName": null,
+      "signingIdentity": null
+    },
+    "resources": [
+      "resources/*"
+    ],
+    "shortDescription": "",
+    "linux": {
+      "deb": {
+        "depends": []
+      }
+    }
+  },
+  "productName": "Bloodborne Save Editor Gems",
+  "mainBinaryName": "Bloodborne Save Editor Gems",
+  "version": "0.11.0",
+  "identifier": "io.github.trit0n10.bloodborne-save-editor-gems",
+  "plugins": {},
+  "app": {
+    "withGlobalTauri": true,
+    "windows": [
+      {
+        "fullscreen": false,
+        "height": 700,
+        "width": 1290,
+        "minWidth": 1290,
+        "minHeight": 700,
+        "center": true,
+        "resizable": true,
+        "maximizable": true,
+        "title": "Bloodborne Save Editor Gems",
+        "useHttpsScheme": true
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  }
+}

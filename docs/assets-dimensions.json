@@ -1,0 +1,4845 @@
+{
+  "source": "Noxde/Bloodborne-save-editor 0.10.0 (filenames and PNG dimensions only; no image data)",
+  "assets": [
+    {
+      "path": "public/assets/bg.png",
+      "width": 1916,
+      "height": 1081
+    },
+    {
+      "path": "public/assets/botoncito.png",
+      "width": 159,
+      "height": 10
+    },
+    {
+      "path": "public/assets/button2.png",
+      "width": 52,
+      "height": 34
+    },
+    {
+      "path": "public/assets/circle.png",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "path": "public/assets/closed.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/filterHover.png",
+      "width": 90,
+      "height": 90
+    },
+    {
+      "path": "public/assets/filters/armor.png",
+      "width": 80,
+      "height": 79
+    },
+    {
+      "path": "public/assets/filters/chalices.png",
+      "width": 80,
+      "height": 79
+    },
+    {
+      "path": "public/assets/filters/consumables.png",
+      "width": 80,
+      "height": 79
+    },
+    {
+      "path": "public/assets/filters/gems.png",
+      "width": 80,
+      "height": 79
+    },
+    {
+      "path": "public/assets/filters/key.png",
+      "width": 80,
+      "height": 79
+    },
+    {
+      "path": "public/assets/filters/left_hand.png",
+      "width": 80,
+      "height": 79
+    },
+    {
+      "path": "public/assets/filters/materials.png",
+      "width": 80,
+      "height": 79
+    },
+    {
+      "path": "public/assets/filters/right_hand.png",
+      "width": 80,
+      "height": 79
+    },
+    {
+      "path": "public/assets/filters/runes.png",
+      "width": 80,
+      "height": 79
+    },
+    {
+      "path": "public/assets/gems/circle/blue/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/blue/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/blue/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/blue/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/blue/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/blue/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/blue/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/blue/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/blue/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/blue/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/blue/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/blue/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/blue/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/blue/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/green/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/green/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/green/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/green/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/green/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/green/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/green/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/green/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/green/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/green/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/green/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/green/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/green/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/green/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/orange/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/orange/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/orange/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/orange/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/orange/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/orange/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/orange/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/orange/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/orange/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/orange/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/orange/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/orange/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/orange/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/orange/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/purple/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/purple/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/purple/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/purple/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/purple/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/purple/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/purple/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/purple/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/purple/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/purple/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/purple/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/purple/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/purple/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/purple/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/red/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/red/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/red/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/red/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/red/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/red/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/red/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/red/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/red/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/red/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/red/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/red/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/red/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/red/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/white/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/white/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/white/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/white/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/white/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/white/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/white/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/white/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/white/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/white/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/white/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/white/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/white/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/white/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/yellow/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/yellow/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/yellow/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/yellow/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/yellow/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/yellow/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/yellow/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/yellow/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/yellow/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/yellow/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/yellow/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/yellow/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/yellow/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/circle/yellow/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/blue/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/blue/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/blue/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/blue/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/blue/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/blue/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/blue/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/blue/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/blue/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/blue/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/blue/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/blue/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/blue/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/blue/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/green/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/green/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/green/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/green/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/green/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/green/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/green/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/green/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/green/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/green/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/green/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/green/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/green/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/green/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/orange/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/orange/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/orange/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/orange/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/orange/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/orange/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/orange/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/orange/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/orange/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/orange/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/orange/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/orange/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/orange/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/orange/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/purple/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/purple/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/purple/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/purple/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/purple/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/purple/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/purple/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/purple/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/purple/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/purple/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/purple/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/purple/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/purple/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/purple/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/red/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/red/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/red/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/red/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/red/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/red/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/red/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/red/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/red/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/red/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/red/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/red/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/red/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/red/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/white/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/white/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/white/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/white/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/white/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/white/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/white/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/white/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/white/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/white/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/white/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/white/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/white/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/white/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/yellow/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/yellow/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/yellow/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/yellow/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/yellow/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/yellow/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/yellow/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/yellow/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/yellow/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/yellow/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/yellow/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/yellow/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/yellow/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/droplet/yellow/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/gem_bg.png",
+      "width": 406,
+      "height": 406
+    },
+    {
+      "path": "public/assets/gems/gem_effects_bg.png",
+      "width": 371,
+      "height": 495
+    },
+    {
+      "path": "public/assets/gems/radial/blue/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/blue/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/blue/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/blue/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/blue/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/blue/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/blue/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/blue/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/blue/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/blue/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/blue/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/blue/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/blue/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/blue/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/green/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/green/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/green/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/green/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/green/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/green/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/green/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/green/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/green/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/green/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/green/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/green/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/green/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/green/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/orange/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/orange/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/orange/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/orange/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/orange/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/orange/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/orange/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/orange/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/orange/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/orange/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/orange/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/orange/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/orange/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/orange/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/purple/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/purple/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/purple/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/purple/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/purple/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/purple/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/purple/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/purple/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/purple/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/purple/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/purple/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/purple/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/purple/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/purple/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/red/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/red/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/red/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/red/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/red/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/red/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/red/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/red/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/red/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/red/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/red/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/red/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/red/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/red/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/white/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/white/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/white/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/white/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/white/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/white/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/white/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/white/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/white/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/white/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/white/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/white/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/white/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/white/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/yellow/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/yellow/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/yellow/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/yellow/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/yellow/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/yellow/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/yellow/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/yellow/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/yellow/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/yellow/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/yellow/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/yellow/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/yellow/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/radial/yellow/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/blue/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/blue/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/blue/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/blue/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/blue/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/blue/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/blue/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/blue/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/blue/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/blue/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/blue/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/blue/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/blue/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/blue/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/green/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/green/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/green/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/green/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/green/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/green/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/green/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/green/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/green/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/green/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/green/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/green/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/green/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/green/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/orange/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/orange/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/orange/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/orange/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/orange/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/orange/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/orange/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/orange/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/orange/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/orange/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/orange/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/orange/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/orange/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/orange/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/purple/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/purple/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/purple/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/purple/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/purple/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/purple/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/purple/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/purple/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/purple/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/purple/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/purple/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/purple/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/purple/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/purple/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/red/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/red/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/red/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/red/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/red/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/red/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/red/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/red/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/red/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/red/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/red/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/red/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/red/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/red/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/white/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/white/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/white/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/white/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/white/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/white/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/white/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/white/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/white/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/white/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/white/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/white/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/white/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/white/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/yellow/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/yellow/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/yellow/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/yellow/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/yellow/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/yellow/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/yellow/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/yellow/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/yellow/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/yellow/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/yellow/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/yellow/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/yellow/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/triangle/yellow/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/unique/brooch.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/unique/gold.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/unique/tear.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/blue/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/blue/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/blue/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/blue/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/blue/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/blue/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/blue/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/blue/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/blue/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/blue/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/blue/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/blue/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/blue/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/blue/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/green/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/green/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/green/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/green/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/green/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/green/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/green/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/green/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/green/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/green/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/green/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/green/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/green/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/green/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/orange/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/orange/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/orange/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/orange/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/orange/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/orange/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/orange/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/orange/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/orange/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/orange/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/orange/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/orange/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/orange/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/orange/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/purple/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/purple/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/purple/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/purple/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/purple/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/purple/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/purple/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/purple/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/purple/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/purple/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/purple/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/purple/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/purple/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/purple/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/red/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/red/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/red/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/red/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/red/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/red/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/red/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/red/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/red/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/red/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/red/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/red/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/red/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/red/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/white/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/white/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/white/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/white/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/white/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/white/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/white/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/white/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/white/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/white/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/white/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/white/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/white/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/white/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/yellow/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/yellow/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/yellow/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/yellow/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/yellow/5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/yellow/6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/yellow/7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/yellow/cursed_1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/yellow/cursed_2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/yellow/cursed_3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/yellow/cursed_4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/yellow/cursed_5.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/yellow/cursed_6.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/gems/waning/yellow/cursed_7.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/hover.png",
+      "width": 793,
+      "height": 88
+    },
+    {
+      "path": "public/assets/icon.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "path": "public/assets/itemImages/a_call_beyond.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/accursed_brew.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/ailing_loran_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/ailing_loran_root_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/amygdalan_arm.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/antidote.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/arcane_haze.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/arianna's_shoes.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/ashen_hunter_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/ashen_hunter_gloves.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/ashen_hunter_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/astral_clocktower_key.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/augur_of_ebrietas.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/balcony_key.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/bastard_of_loran.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/beak_mask.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/beast_blood_pellet.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/beast_claw.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/beast_cutter.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/beast_hide_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/beast_roar.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/beasthunter_saif.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/beckoning_bell.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/black_church_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/black_church_hat.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/black_church_trousers_or_dress.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/black_hood.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/black_hooded_iron_helm.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/black_messenger_hat.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/blacksky_eye.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/blade_of_mercy.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/blindfold_cap.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/blood_dreg.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/blood_gem_workshop_tool.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/blood_of_adeline.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/blood_of_adella.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/blood_of_arianna.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/blood_rock.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/blood_stone_chunk.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/blood_stone_shard.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/blood_vial.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/bloodied_arm_bands.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/bloodied_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/bloodletter.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/bloodshot_eyeball.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/bloody_messenger_head_bandage.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/blooming_coldblood_flower.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/blue_elixir.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/bold_hunter's_mark.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/bolt_paper.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/bone_ash_armor.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/bone_ash_gauntlets.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/bone_ash_leggings.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/bone_ash_mask.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/bone_marrow_ash.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/boom_hammer.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/brador's_testimony.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/brain_fluid.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/burial_blade.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/butcher_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/butcher_gloves.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/butcher_mask.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/butcher_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/cainhurst_armor.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/cainhurst_badge.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/cainhurst_gauntlets.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/cainhurst_helmet.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/cainhurst_leggings.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/cainhurst_summons.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/cannon.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/celestial_dial.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/central_pthumeru_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/central_pthumeru_root_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/charred_hunter_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/charred_hunter_gloves.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/charred_hunter_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/chikage.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/choir_bell.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/choir_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/choir_gloves.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/choir_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/church_cannon.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/church_pick.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/coldblood_dew_(1).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/coldblood_dew_(2).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/coldblood_dew_(3).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/coldblood_flower_bulb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/coldblood_flowerbud.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/constable's_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/constable's_gloves.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/constable's_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/cosmic_eye_watcher_badge.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/crow_hunter_badge.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/crowfeather_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/crowfeather_manchettes.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/crowfeather_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/crown_of_illusions.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/cursed_and_defiled_root_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/cutAntiClockwise.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/itemImages/cutBeast.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/itemImages/cutCircle.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/itemImages/cutClockwise.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/itemImages/cutCommunion.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/itemImages/cutDeepSea.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/itemImages/cutDestroyer.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/itemImages/cutDroplet.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/itemImages/cutEye.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/itemImages/cutHeir.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/itemImages/cutLake.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/itemImages/cutLiaison.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/itemImages/cutMoon.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/itemImages/cutOedon.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/itemImages/cutRadial.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/itemImages/cutReveller.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/itemImages/cutTriangle.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/itemImages/cutWaning.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/itemImages/decorative_old_hunter_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/decorative_old_hunter_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/defiled_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/delayed_molotov.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/delayed_rope_molotov.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/doll_clothes.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/doll_gloves.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/doll_hat.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/doll_skirt.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/empty_phantasm_shell.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/empty.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/en5304.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/en5305.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/enlarged_head.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/evelyn.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/executioner_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/executioner_gauntlets.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/executioner_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/executioner's_gloves.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/eye_of_a_blood-drunk_hunter.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/eye_pendant.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/fire_paper.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/firing_hammer_badge.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/fist_of_gratia.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/flamesprayer.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/foreign_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/foreign_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/frenzied_coldblood_(7).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/frenzied_coldblood_(8).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/frenzied_coldblood_(9).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/gascoigne's_cap.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/gascoigne's_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/gascoigne's_gloves.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/gascoigne's_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/gatling_gun.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/gehrman's_hunter_cap.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/gehrman's_hunter_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/gehrman's_hunter_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/gold_ardeo.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/gold_pendant.png",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "path": "public/assets/itemImages/graveguard_kilt.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/graveguard_manchettes.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/graveguard_mask.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/graveguard_robe.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/great_isz_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/great_one_coldblood.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/great_one's_wisdom.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/great_pthumeru_ihyll_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/grey_wolf_cap.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/hand_lantern.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/harrowed_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/harrowed_gloves.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/harrowed_hood.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/harrowed_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/henryk's_hunter_cap.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/henryk's_hunter_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/henryk's_hunter_gloves.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/henryk's_hunter_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/hintertomb_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/hintertomb_root_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/holy_moonlight_sword.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/hunter_axe.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/hunter_blunderbuss.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/hunter_chief_emblem.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/hunter_garb_(cape).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/hunter_garb.png",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "path": "public/assets/itemImages/hunter_gloves.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/hunter_hat.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/hunter_pistol.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/hunter_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/hunter's_mark.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/hunter's_torch.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/inflicted_organ.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/iosefka's_blood_vial.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/iron_door_key.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/iron_yahar'gul_helm.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/isz_root_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/khaki_haori.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/kin_coldblood_(10).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/kin_coldblood_(11).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/kin_coldblood_(12).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/kirkhammer.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/knight's_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/knight's_gloves.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/knight's_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/knight's_wig.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/kos_parasite.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/laurence's_skull.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/lead_elixir.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/league_staff.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/lecture_theatre_key.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/living_string.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/loch_shield.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/logarius'_wheel.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/lower_ailing_loran_root_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/lower_hintertomb_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/lower_hintertomb_root_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/lower_loran_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/lower_pthumeru_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/lower_pthumeru_root_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/ludwig's_holy_blade.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/ludwig's_rifle.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/lunarium_key.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/madaras_whistle.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/madman_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/madman_hood.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/madman_leggings.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/madman_manchettes.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/madman's_knowledge.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/maria_hunter_cap.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/maria_hunter_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/maria_hunter_gloves.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/maria_hunter_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/master's_iron_helm.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/mensis_cage.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/messenger_head_bandage.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/messenger_top_hat.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/messenger_urn_festival.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/messengers's_gift.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/molotov_cocktail.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/monocular.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/noble_dress.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/notebook.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/numbing_mist.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/oedon_tomb_key.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/oil_urn.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/old_great_one_coldblood.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/old_hunter_arm_bands.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/old_hunter_badge.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/old_hunter_bell.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/old_hunter_bone.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/old_hunter_cap.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/old_hunter_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/old_hunter_gloves.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/old_hunter_top_hat.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/old_hunter_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/orphanage_key.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/pearl_slug.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/pebble.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/piercing_rifle.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/poison_knife.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/powder_keg_hunter_badge.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/pthumeru_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/pthumeru_ihyll_root_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/pthumeru_root_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/pungent_blood_cocktail.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/queenly_blood.png",
+      "width": 77,
+      "height": 77
+    },
+    {
+      "path": "public/assets/itemImages/queenly_flesh.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/quicksilver_bullets.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/radiant_sword_hunter_badge.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/rakuyo.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/red_jelly.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/red_jeweled_brooch.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/red_messenger_ribbon.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/reiterpallasch.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/repeating_pistol.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/revered_great_one_coldblood.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/rifle_spear.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/ring_of_betrothal.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/ritual_blood_(1).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/ritual_blood_(2).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/ritual_blood_(3).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/ritual_blood_(4).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/ritual_blood_(5).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/rope_molotov_cocktail.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/rosmarinus.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/rumpled_yharnam_hat.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/rune_workshop_tool.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/sage's_hair.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/sage's_wrist.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/saw_cleaver.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/saw_hunter_badge.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/saw_spear.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/sedatives.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/shaman_bone_blade.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/shining_coins.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/short_ritual_root_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/silencing_blank.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/simon's_bowblade.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/sinister_hintertomb_root_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/sinister_isz_root_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/sinister_lower_loran_root_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/sinister_lower_pthumeru_root_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/sinister_pthumeru_ihyll_root_chalice.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/sinister_resonant_bell.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/small_hair_ornament.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/small_resonant_bell.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/spark_hunter_badge.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/stake_driver.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/student_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/student_uniform_(cape).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/student_uniform.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/sullied_bandage.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/surgical_long_gloves.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/sweaty_clothes.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/sword_hunter_badge.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/tear_stone.png",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "path": "public/assets/itemImages/thick_coldblood_(4).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/thick_coldblood_(5).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/thick_coldblood_(6).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/third_umbilical_cord.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/threaded_cane.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/throwing_knife.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/tiny_music_box.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/tiny_tonitrus.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/tomb_mold_(1).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/tomb_mold_(2).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/tomb_mold_(3).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/tomb_mold_(4).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/tomb_mold_(5).png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/tomb_prospector_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/tomb_prospector_gloves.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/tomb_prospector_hood.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/tomb_prospector_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/tonitrus.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/tonsil_stone.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/top_hat.png",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "path": "public/assets/itemImages/torch.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/twin_blood_stone_shards.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/underground_cell_inner_chamber_key.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/underground_cell_key.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/unopened_summons.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/upper_cathedral_key.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/vermin.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/vileblood_register.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/wheel_hunter_badge.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/whirligig_saw.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/white_church_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/white_church_hat.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/white_church_trousers_or_dress.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/white_messenger_ribbon.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/wine_hakama.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/wooden_shield.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/workshop_haze_extractor.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/worn_messenger_top_hat.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/yahar'gul_black_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/yahar'gul_black_gloves.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/yahar'gul_black_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/yamamura_hunter_hat.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/yellow_backbone.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/yharnam_hunter_cap.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/yharnam_hunter_garb.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/yharnam_hunter_gloves.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/yharnam_hunter_trousers.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/yharnam_messenger_hat.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemImages/yharnam_stone.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "public/assets/itemsBg/armor.png",
+      "width": 795,
+      "height": 90
+    },
+    {
+      "path": "public/assets/itemsBg/chalice.png",
+      "width": 795,
+      "height": 90
+    },
+    {
+      "path": "public/assets/itemsBg/gem.png",
+      "width": 795,
+      "height": 90
+    },
+    {
+      "path": "public/assets/itemsBg/item_small.png",
+      "width": 526,
+      "height": 90
+    },
+    {
+      "path": "public/assets/itemsBg/item.png",
+      "width": 795,
+      "height": 90
+    },
+    {
+      "path": "public/assets/itemsBg/statsBg.png",
+      "width": 1150,
+      "height": 673
+    },
+    {
+      "path": "public/assets/itemsBg/weapon.png",
+      "width": 795,
+      "height": 90
+    },
+    {
+      "path": "public/assets/line.png",
+      "width": 349,
+      "height": 1
+    },
+    {
+      "path": "public/assets/radial.png",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "path": "public/assets/runes/anti-clockwise_metamorphosis/0.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/anti-clockwise_metamorphosis/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/anti-clockwise_metamorphosis/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/beast/0.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/beast/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/beast/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/blood_rapture/0.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/blood_rapture/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/blood_rapture/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/clawmark/0.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/clawmark/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/clawmark/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/clockwise_metamorphosis/0.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/clockwise_metamorphosis/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/clockwise_metamorphosis/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/communion/0.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/communion/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/communion/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/communion/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/communion/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/deep_sea/0.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/deep_sea/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/deep_sea/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/eye/0.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/eye/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/eye/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/formless_oedon/0.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/formless_oedon/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/formless_oedon/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/formless_oedon/3.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/formless_oedon/4.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/guidance/0.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/guidance/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/guidance/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/heir/0.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/heir/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/heir/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/lake/0.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/lake/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/lake/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/moon/0.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/moon/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/moon/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/oath/beast's_embrace.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/oath/corruption.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/oath/hunter.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/oath/impurity.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/oath/milkweed.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/oath/radiance.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/oedon_writhe/0.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/oedon_writhe/1.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/oedon_writhe/2.png",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "path": "public/assets/runes/rune_effects_bg.png",
+      "width": 371,
+      "height": 495
+    },
+    {
+      "path": "public/assets/shape_bg.png",
+      "width": 84,
+      "height": 84
+    },
+    {
+      "path": "public/assets/stats/arcane.png",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "path": "public/assets/stats/bloodtinge.png",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "path": "public/assets/stats/echoes.png",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "path": "public/assets/stats/endurance.png",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "path": "public/assets/stats/health.png",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "path": "public/assets/stats/insight.png",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "path": "public/assets/stats/level.png",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "path": "public/assets/stats/skill.png",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "path": "public/assets/stats/stamina.png",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "path": "public/assets/stats/strength.png",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "path": "public/assets/stats/vitality.png",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "path": "public/assets/triangle.png",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "path": "public/assets/underline.png",
+      "width": 360,
+      "height": 10
+    },
+    {
+      "path": "public/assets/waning.png",
+      "width": 80,
+      "height": 80
+    },
+    {
+      "path": "public/logo192.png",
+      "width": 192,
+      "height": 192
+    },
+    {
+      "path": "public/logo512.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "path": "src-tauri/icons/128x128.png",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "path": "src-tauri/icons/128x128@2x.png",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "src-tauri/icons/32x32.png",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "path": "src-tauri/icons/64x64.png",
+      "width": 64,
+      "height": 64
+    },
+    {
+      "path": "src-tauri/icons/icon.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "path": "src-tauri/icons/Square107x107Logo.png",
+      "width": 107,
+      "height": 107
+    },
+    {
+      "path": "src-tauri/icons/Square142x142Logo.png",
+      "width": 142,
+      "height": 142
+    },
+    {
+      "path": "src-tauri/icons/Square150x150Logo.png",
+      "width": 150,
+      "height": 150
+    },
+    {
+      "path": "src-tauri/icons/Square284x284Logo.png",
+      "width": 284,
+      "height": 284
+    },
+    {
+      "path": "src-tauri/icons/Square30x30Logo.png",
+      "width": 30,
+      "height": 30
+    },
+    {
+      "path": "src-tauri/icons/Square310x310Logo.png",
+      "width": 310,
+      "height": 310
+    },
+    {
+      "path": "src-tauri/icons/Square44x44Logo.png",
+      "width": 44,
+      "height": 44
+    },
+    {
+      "path": "src-tauri/icons/Square71x71Logo.png",
+      "width": 71,
+      "height": 71
+    },
+    {
+      "path": "src-tauri/icons/Square89x89Logo.png",
+      "width": 89,
+      "height": 89
+    },
+    {
+      "path": "src-tauri/icons/StoreLogo.png",
+      "width": 50,
+      "height": 50
+    }
+  ]
+}

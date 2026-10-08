@@ -1,0 +1,2360 @@
+[
+  {
+    "id": "tempering-physical-27-2",
+    "name": "诅咒锻炼湿气血宝石（物理 27.2%）",
+    "englishName": "Cursed Tempering Damp Blood Gem (6) — Physical 27.2%",
+    "category": "物理攻击",
+    "rating": 19,
+    "shapes": [
+      "Radial",
+      "Triangle"
+    ],
+    "effects": [
+      126619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "迷宫守望者首领掉落；放射状来自苏美鲁衣乎尔，三角形来自伊兹。此预设选用体力消耗增加 3.3% 的诅咒。"
+  },
+  {
+    "id": "tempering-abyssal-24-8-physical-15",
+    "name": "诅咒锻炼深渊血宝石（物理 24.8%＋15）",
+    "englishName": "Cursed Tempering Abyssal Blood Gem — Physical 24.8% + 15",
+    "category": "物理攻击",
+    "rating": 20,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      126520,
+      17120,
+      41220,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "苏美鲁衣乎尔放血怪兽掉落；物理攻击提升并附加固定物理攻击力。体力消耗增加 3.4%。"
+  },
+  {
+    "id": "heavy-abyssal-65-physical-15",
+    "name": "诅咒沉重深渊血宝石（力量补正 65＋物理 15）",
+    "englishName": "Cursed Heavy Abyssal Blood Gem — STR Scaling 65 + Physical 15",
+    "category": "能力补正",
+    "rating": 20,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      129520,
+      17120,
+      41220,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "苏美鲁衣乎尔无头放血怪兽掉落；提高武器的力量能力补正，收益依武器和力量数值而定。体力消耗增加 3.4%。"
+  },
+  {
+    "id": "adept-blunt-32-6",
+    "name": "诅咒精通湿气血宝石（钝器 32.6%）",
+    "englishName": "Cursed Adept Damp Blood Gem (6) — Blunt 32.6%",
+    "category": "特殊物理攻击",
+    "rating": 19,
+    "shapes": [
+      "Radial",
+      "Triangle"
+    ],
+    "effects": [
+      120619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "迷宫守望者首领掉落；只强化钝器伤害，需配合武器招式。体力消耗增加 3.3%。"
+  },
+  {
+    "id": "adept-thrust-32-6",
+    "name": "诅咒精通湿气血宝石（穿刺 32.6%）",
+    "englishName": "Cursed Adept Damp Blood Gem (6) — Thrust 32.6%",
+    "category": "特殊物理攻击",
+    "rating": 19,
+    "shapes": [
+      "Radial",
+      "Triangle"
+    ],
+    "effects": [
+      121619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "迷宫守望者首领掉落；只强化穿刺伤害，需配合武器招式。体力消耗增加 3.3%。"
+  },
+  {
+    "id": "striking-charge-36-3",
+    "name": "诅咒动人湿气血宝石（蓄力攻击 36.3%）",
+    "englishName": "Cursed Striking Damp Blood Gem (6) — Charge ATK 36.3%",
+    "category": "特殊物理攻击",
+    "rating": 19,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      142619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "苏美鲁衣乎尔迷宫守望者首领稀有掉落；强化蓄力攻击的物理伤害。体力消耗增加 3.3%。"
+  },
+  {
+    "id": "fire-27-2",
+    "name": "诅咒火焰湿气血宝石（火焰 27.2%）",
+    "englishName": "Cursed Fire Damp Blood Gem (6) — Fire 27.2%",
+    "category": "属性攻击",
+    "rating": 19,
+    "shapes": [
+      "Radial",
+      "Triangle"
+    ],
+    "effects": [
+      124619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "迷宫守望者首领掉落；伊兹三角形较常见，苏美鲁衣乎尔放射状极稀有。体力消耗增加 3.3%。"
+  },
+  {
+    "id": "bolt-27-2",
+    "name": "诅咒闪电湿气血宝石（闪电 27.2%）",
+    "englishName": "Cursed Bolt Damp Blood Gem (6) — Bolt 27.2%",
+    "category": "属性攻击",
+    "rating": 19,
+    "shapes": [
+      "Radial",
+      "Triangle"
+    ],
+    "effects": [
+      125619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "迷宫守望者首领掉落；伊兹三角形较常见，苏美鲁衣乎尔放射状极稀有。体力消耗增加 3.3%。"
+  },
+  {
+    "id": "arcane-27-2",
+    "name": "诅咒秘法湿气血宝石（秘法 27.2%）",
+    "englishName": "Cursed Arcane Damp Blood Gem (6) — Arcane 27.2%",
+    "category": "属性攻击",
+    "rating": 19,
+    "shapes": [
+      "Radial",
+      "Triangle"
+    ],
+    "effects": [
+      123619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "迷宫守望者首领掉落；伊兹三角形较常见，苏美鲁衣乎尔放射状极稀有。体力消耗增加 3.3%。"
+  },
+  {
+    "id": "fire-abyssal-24-8-fire-15",
+    "name": "诅咒火焰深渊血宝石（火焰 24.8%＋15）",
+    "englishName": "Cursed Fire Abyssal Blood Gem — Fire 24.8% + 15",
+    "category": "属性攻击",
+    "rating": 20,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      124520,
+      15120,
+      41220,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "罗伦城下层旧主看门狗掉落；此固定火焰副效果对应衰弱形组合。体力消耗增加 3.4%。"
+  },
+  {
+    "id": "bolt-abyssal-24-8-bolt-15",
+    "name": "诅咒闪电深渊血宝石（闪电 24.8%＋15）",
+    "englishName": "Cursed Bolt Abyssal Blood Gem — Bolt 24.8% + 15",
+    "category": "属性攻击",
+    "rating": 20,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      125520,
+      16120,
+      41220,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "罗伦城下层罗伦黑暗怪兽掉落；闪电攻击提升并附加固定闪电攻击力。体力消耗增加 3.4%。"
+  },
+  {
+    "id": "bolt-abhorrent-22-5-bolt-33-8",
+    "name": "诅咒闪电深渊血宝石（闪电 22.5%＋33.8）",
+    "englishName": "Cursed Bolt Abyssal Blood Gem — Bolt 22.5% + 33.8",
+    "category": "属性攻击",
+    "rating": 20,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      125420,
+      16220,
+      41220,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "罗伦城下层可憎怪兽掉落；采用其较高的固定闪电副效果。体力消耗增加 3.4%。"
+  },
+  {
+    "id": "arcane-abyssal-24-8-arcane-15",
+    "name": "诅咒秘法深渊血宝石（秘法 24.8%＋15）",
+    "englishName": "Cursed Arcane Abyssal Blood Gem — Arcane 24.8% + 15",
+    "category": "属性攻击",
+    "rating": 20,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      123520,
+      14120,
+      41220,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "伊兹宇宙之女伊碧塔丝掉落；秘法攻击提升并附加固定秘法攻击力。体力消耗增加 3.4%。"
+  },
+  {
+    "id": "cold-abyssal-65-fire-15",
+    "name": "诅咒寒冷深渊血宝石（秘法补正 65＋火焰 15）",
+    "englishName": "Cursed Cold Abyssal Blood Gem — Arcane Scaling 65 + Fire 15",
+    "category": "能力补正",
+    "rating": 20,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      132420,
+      15120,
+      41220,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "伊兹苏美鲁长老掉落；提高秘法能力补正，并附加火焰攻击力。体力消耗增加 3.4%。"
+  },
+  {
+    "id": "cold-abyssal-65-bolt-15",
+    "name": "诅咒寒冷深渊血宝石（秘法补正 65＋闪电 15）",
+    "englishName": "Cursed Cold Abyssal Blood Gem — Arcane Scaling 65 + Bolt 15",
+    "category": "能力补正",
+    "rating": 20,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      132420,
+      16120,
+      41220,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "伊兹苏美鲁长老掉落；提高秘法能力补正，并附加闪电攻击力。体力消耗增加 3.4%。"
+  },
+  {
+    "id": "nourishing-abyssal-21-5-arcane-15",
+    "name": "诅咒滋养深渊血宝石（全攻击 21.5%＋秘法 15）",
+    "englishName": "Cursed Nourishing Abyssal Blood Gem — ATK 21.5% + Arcane 15",
+    "category": "全攻击强化",
+    "rating": 20,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      127520,
+      14120,
+      41220,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "伊兹亚弥达拉掉落；全攻击强化，并附加秘法攻击力。体力消耗增加 3.4%。"
+  },
+  {
+    "id": "nourishing-abyssal-21-5-fire-15",
+    "name": "诅咒滋养深渊血宝石（全攻击 21.5%＋火焰 15）",
+    "englishName": "Cursed Nourishing Abyssal Blood Gem — ATK 21.5% + Fire 15",
+    "category": "全攻击强化",
+    "rating": 20,
+    "shapes": [
+      "Triangle",
+      "Waning"
+    ],
+    "effects": [
+      127520,
+      15120,
+      41220,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "亚弥达拉掉落；三角形来自伊兹，衰弱形来自罗伦城下层。体力消耗增加 3.4%。"
+  },
+  {
+    "id": "nourishing-abyssal-21-5-bolt-15",
+    "name": "诅咒滋养深渊血宝石（全攻击 21.5%＋闪电 15）",
+    "englishName": "Cursed Nourishing Abyssal Blood Gem — ATK 21.5% + Bolt 15",
+    "category": "全攻击强化",
+    "rating": 20,
+    "shapes": [
+      "Triangle",
+      "Waning"
+    ],
+    "effects": [
+      127520,
+      16120,
+      41220,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "亚弥达拉掉落；三角形来自伊兹，衰弱形来自罗伦城下层。体力消耗增加 3.4%。"
+  },
+  {
+    "id": "nourishing-abyssal-21-5-physical-15",
+    "name": "诅咒滋养深渊血宝石（全攻击 21.5%＋物理 15）",
+    "englishName": "Cursed Nourishing Abyssal Blood Gem — ATK 21.5% + Physical 15",
+    "category": "全攻击强化",
+    "rating": 20,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      127520,
+      17120,
+      41220,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "伊兹亚弥达拉掉落；资料列于神圣月光之剑组合，附加固定物理攻击力。体力消耗增加 3.4%。"
+  },
+  {
+    "id": "bloodtinge-31-5-circle",
+    "name": "诅咒湿气血质宝石（血质 31.5%）",
+    "englishName": "Cursed Bloodtinge Damp Blood Gem (6) — Blood 31.5%",
+    "category": "血质攻击",
+    "rating": 18,
+    "shapes": [
+      "Circle"
+    ],
+    "effects": [
+      122618,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "伊兹持散弹枪的迷宫守望者掉落；圆形宝石适用于有圆形槽的枪械。体力消耗增加 3.2%。"
+  },
+  {
+    "id": "bloodtinge-28-7-blood-7-3-circle",
+    "name": "诅咒湿气血质宝石（血质 28.7%＋7.3）",
+    "englishName": "Cursed Bloodtinge Damp Blood Gem (6) — Blood 28.7% + 7.3",
+    "category": "血质攻击",
+    "rating": 19,
+    "shapes": [
+      "Circle"
+    ],
+    "effects": [
+      122519,
+      13119,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "罗伦城下层渴血怪兽掉落；血质攻击提升并附加固定血质攻击力。体力消耗增加 3.3%。"
+  },
+  {
+    "id": "dirty-rapid-poison-21-7",
+    "name": "诅咒污秽湿气血宝石（急性毒素 21.7）",
+    "englishName": "Cursed Dirty Damp Blood Gem (6) — Rapid Poison 21.7",
+    "category": "中毒效果",
+    "rating": 19,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      138619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "伊兹迷宫守望者首领稀有掉落；增加急性毒素累积，不是攻击力百分比。体力消耗增加 3.3%。"
+  },
+  {
+    "id": "murky-slow-poison-18-1",
+    "name": "诅咒混浊湿气血宝石（慢性毒素 18.1）",
+    "englishName": "Cursed Murky Damp Blood Gem (6) — Slow Poison 18.1",
+    "category": "中毒效果",
+    "rating": 19,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      137619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "伊兹迷宫守望者首领稀有掉落；增加慢性毒素累积。体力消耗增加 3.3%。"
+  },
+  {
+    "id": "pulsing-recovery-5-triangle",
+    "name": "诅咒脉动湿气血宝石（持续回复 5）",
+    "englishName": "Cursed Pulsing Damp Blood Gem (6) — HP Recovery 5",
+    "category": "生命回复",
+    "rating": 19,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      143619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "伊兹迷宫守望者首领极稀有掉落；选用没有额外正面副效果的持续回复组合。体力消耗增加 3.3%。"
+  },
+  {
+    "id": "tempering-brainsucker-9-8-arcane-72-5",
+    "name": "诅咒锻炼湿气血宝石（物理 9.8%＋秘法 72.5）",
+    "englishName": "Cursed Tempering Damp Blood Gem (6) — Physical 9.8% + Arcane 72.5",
+    "category": "复合攻击",
+    "rating": 19,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      126219,
+      14419,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "伊兹吸脑怪首领掉落；低比例物理强化搭配高固定秘法副效果。体力消耗增加 3.3%。"
+  },
+  {
+    "id": "unique-red-blood-gem",
+    "name": "红血宝石（物理 2.7%＋回复能力 1.8%）",
+    "englishName": "Red Blood Gem",
+    "category": "独特宝石",
+    "rating": 4,
+    "shapes": [
+      "Droplet"
+    ],
+    "effects": [
+      3126204,
+      3045204,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "sourceId": 2147633648,
+    "source": "https://www.bloodborne-wiki.com/2015/03/red-blood-gem.html",
+    "notes": "原游戏由红色宝石胸针取得的小粒血宝石；固定物理强化与回复能力，无诅咒。"
+  },
+  {
+    "id": "unique-gold-blood-gem",
+    "name": "金血宝石（对怪兽攻击 12.6%）",
+    "englishName": "Gold Blood Gem",
+    "category": "独特宝石",
+    "rating": 7,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      3133407,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "sourceId": 2147633650,
+    "source": "https://www.bloodborne-wiki.com/2015/03/gold-blood-gem.html",
+    "notes": "原游戏由主教阿梅莉亚的金坠子取得；固定提升对怪兽攻击，无诅咒。"
+  },
+  {
+    "id": "unique-tear-blood-gem",
+    "name": "泪血宝石（持续回复 2）",
+    "englishName": "Tear Blood Gem",
+    "category": "独特宝石",
+    "rating": 8,
+    "shapes": [
+      "Droplet"
+    ],
+    "effects": [
+      3143408,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "sourceId": 2147633649,
+    "source": "https://www.bloodborne-wiki.com/2015/03/tear-blood-gem.html",
+    "notes": "原游戏由人偶赠送的泪石取得的小粒血宝石；1.09 版持续回复为 2，无诅咒。"
+  },
+  {
+    "id": "fixed-cathedral-physical-1-1-recovery-1",
+    "name": "锻炼血宝石（物理 1.1%＋持续回复 1）",
+    "englishName": "Tempering Blood Gemstone (1) — Physical ATK UP +1.1%; HP continues to recover +1",
+    "category": "物理攻击",
+    "rating": 1,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      126301,
+      43101,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "教堂区雅南小路尽头宝箱，铁球教会巨人后方。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-cathedral-physical-7-3-full-hp-2-7",
+    "name": "锻炼血宝石（物理 7.3%＋满血物理 2.7%）",
+    "englishName": "Tempering Blood Gemstone (2) — Physical ATK UP +7.3%; Phys. UP at full HP +2.7%",
+    "category": "条件攻击",
+    "rating": 7,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      126307,
+      48107,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "教堂区广场通往禁忌森林的道路拾取。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-hemwick-thrust-7-2",
+    "name": "精通血宝石（穿刺 7.2%）",
+    "englishName": "Adept Blood Gemstone (1) — Thrust ATK UP +7.2%",
+    "category": "特殊物理攻击",
+    "rating": 4,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      121404,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "汉威克阴森小巷马厩二楼横梁对面拾取。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-hemwick-physical-4-2-slow-poison-0-8",
+    "name": "锻炼血宝石（物理 4.2%＋慢性毒素 0.8）",
+    "englishName": "Tempering Blood Gemstone (1) — Physical ATK UP +4.2%; Add slow poison effect +0.8",
+    "category": "复合攻击",
+    "rating": 4,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      126304,
+      37104,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "汉威克通往女巫住处的道路宝箱，刽子手看守。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-old-yharnam-physical-0-7",
+    "name": "锻炼血宝石（物理 0.7%）",
+    "englishName": "Tempering Blood Gemstone (1) — Physical ATK UP +0.7%",
+    "category": "物理攻击",
+    "rating": 1,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      126201,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "旧雅南灯前下层教堂地下室拾取。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-old-yharnam-physical-2-1-charge-0-4",
+    "name": "锻炼血宝石（物理 2.1%＋蓄力攻击 0.4%）",
+    "englishName": "Tempering Blood Gemstone (1) — Physical ATK UP +2.1%; Charge ATKs UP +0.4%",
+    "category": "特殊物理攻击",
+    "rating": 2,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      126302,
+      42101,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "旧雅南烧焦猎人套装所在建筑一楼宝箱。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-old-yharnam-blood-1-8",
+    "name": "血质宝石（血质 1.8%）",
+    "englishName": "Bloodtinge Blood Gemstone (1) — Blood ATK UP +1.8%",
+    "category": "血质攻击",
+    "rating": 1,
+    "shapes": [
+      "Circle"
+    ],
+    "effects": [
+      122401,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "旧雅南旧教堂庭院前拾取。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-workshop-blood-12-6",
+    "name": "血质宝石（血质 12.6%）",
+    "englishName": "Bloodtinge Blood Gemstone (2) — Blood ATK UP +12.6%",
+    "category": "血质攻击",
+    "rating": 7,
+    "shapes": [
+      "Circle"
+    ],
+    "effects": [
+      122407,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "治愈教会工场塔楼第一段宝箱。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-workshop-fire-8-4-recovery-1",
+    "name": "火焰血宝石（火焰 8.4%＋持续回复 1）",
+    "englishName": "Fire Blood Gemstone (3) — Fire ATK UP +8.4%; HP continues to recover +1",
+    "category": "属性攻击",
+    "rating": 8,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      124308,
+      43108,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "治愈教会工场下层街道尸体拾取。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-woods-blunt-12-6",
+    "name": "精通血宝石（钝器 12.6%）",
+    "englishName": "Adept Blood Gemstone (2) — Blunt ATK UP +12.6%",
+    "category": "特殊物理攻击",
+    "rating": 7,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      120407,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "禁忌森林从教堂区进入后右侧悬崖洞穴拾取。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-woods-arcane-10-5",
+    "name": "秘法血宝石（秘法 10.5%）",
+    "englishName": "Arcane Blood Gemstone (2) — Arcane ATK UP +10.5%",
+    "category": "属性攻击",
+    "rating": 7,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      123407,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "禁忌森林通往约瑟夫卡诊所的地下洞穴入口拾取。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-woods-nourishing-9-1",
+    "name": "滋养血宝石（全攻击 9.1%）",
+    "englishName": "Nourishing Blood Gemstone (2) — ATK UP +9.1%",
+    "category": "全攻击强化",
+    "rating": 7,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      127407,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "禁忌森林通往约瑟夫卡诊所的地下洞穴后部拾取。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-woods-rapid-poison-9-6",
+    "name": "污秽血宝石（急性毒素 9.6）",
+    "englishName": "Dirty Blood Gemstone (3) — Add rapid poison effect +9.6",
+    "category": "中毒效果",
+    "rating": 8,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      138408,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "禁忌森林通往约瑟夫卡诊所的地下洞穴后部拾取。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-woods-skill-12",
+    "name": "锐利血宝石（技巧补正 12）",
+    "englishName": "Sharp Blood Gemstone (3) — SKL scaling +12",
+    "category": "能力补正",
+    "rating": 8,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      130408,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "禁忌森林通往雅南之影的野猪溪流篝火旁拾取。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-cainhurst-physical-9-5-near-death-3-6",
+    "name": "锻炼血宝石（物理 9.5%＋濒死物理 3.6%）",
+    "englishName": "Tempering Blood Gemstone (3) — Physical ATK UP +9.5%; Phys. UP near death +3.6%",
+    "category": "条件攻击",
+    "rating": 9,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      126309,
+      49109,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "该隐赫斯特城堡庭院的蠕虫沟道拾取。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-cainhurst-bloodtinge-scaling-13-5",
+    "name": "温暖血宝石（血质补正 13.5）",
+    "englishName": "Warm Blood Gemstone (3) — Bloodtinge scaling +13.5",
+    "category": "能力补正",
+    "rating": 9,
+    "shapes": [
+      "Droplet"
+    ],
+    "effects": [
+      131409,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "该隐赫斯特城堡图书馆三楼主楼梯旁拾取。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-yahargul-bolt-16-5",
+    "name": "闪电湿气血宝石（闪电 16.5%）",
+    "englishName": "Bolt Damp Blood Gem (4) — Bolt ATK UP +16.5%",
+    "category": "属性攻击",
+    "rating": 12,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      125412,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "血月后的亚哈古尔第一名摇铃女附近拾取。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-physical-18",
+    "name": "锻炼湿气血宝石（物理 18%）",
+    "englishName": "Tempering Damp Blood Gem (5) — Physical ATK UP +18",
+    "category": "物理攻击",
+    "rating": 14,
+    "shapes": [
+      "Radial",
+      "Droplet"
+    ],
+    "effects": [
+      126414,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "放射状来自血月亚哈古尔捷径之后；水滴状来自曼希斯噩梦通往放下大脑拉杆的上层桥。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-mensis-arcane-18",
+    "name": "秘法湿气血宝石（秘法 18%）",
+    "englishName": "Arcane Damp Blood Gem (5) — Arcane ATK UP +18",
+    "category": "属性攻击",
+    "rating": 14,
+    "shapes": [
+      "Droplet"
+    ],
+    "effects": [
+      123414,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "曼希斯噩梦大脑附近中层桥破墙旁拾取。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-mensis-physical-12-6-rally-2-3",
+    "name": "锻炼湿气血宝石（物理 12.6%＋回复能力 2.3%）",
+    "englishName": "Tempering Damp Blood Gem (5) — Physical ATK UP +12.6%; Boosts rally potential +2.3%",
+    "category": "物理攻击",
+    "rating": 14,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      126314,
+      45113,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "曼希斯噩梦梅高的高楼阳台之后，楼梯旁吊笼拾取。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-mensis-blood-21-6",
+    "name": "湿气血质宝石（血质 21.6%）",
+    "englishName": "Bloodtinge Damp Blood Gem (5) — Blood ATK UP +21.6%",
+    "category": "血质攻击",
+    "rating": 14,
+    "shapes": [
+      "Droplet"
+    ],
+    "effects": [
+      122414,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "曼希斯噩梦大脑附近中层桥远端拾取。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-mensis-nourishing-15",
+    "name": "滋养湿气血宝石（全攻击 15%）",
+    "englishName": "Nourishing Damp Blood Gem (4) — ATK UP +15",
+    "category": "全攻击强化",
+    "rating": 13,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      127413,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "曼希斯噩梦通往梅高的乳母途中，食人野猪之后拾取。依据来源页“本篇固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-research-rapid-poison-10-5-stamina-1-3",
+    "name": "污秽湿气血宝石（急性毒素 10.5＋体力消耗减少 1.3%）",
+    "englishName": "Dirty Damp Blood Gem (5) — Add rapid poison effect +10.5; Reduces stamina costs +1.3%",
+    "category": "中毒效果",
+    "rating": 15,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      138315,
+      40115,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "研究大厅四楼病房侧面平台拾取。依据来源页“老猎人 DLC 固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-research-open-foes-10-8-physical-8-1",
+    "name": "精工湿气血宝石（破绽攻击 10.8%＋物理 8.1%）",
+    "englishName": "Finestrike Damp Blood Gem (5) — ATK vs open foes UP +10.8%; Physical ATK UP +8.1%",
+    "category": "特殊物理攻击",
+    "rating": 14,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      139214,
+      26214,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "研究大厅高层阁楼天花板下，三只乌鸦围绕的宝箱。依据来源页“老猎人 DLC 固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-research-rally-12-5",
+    "name": "致命湿气血宝石（回复能力 12.5%）",
+    "englishName": "Lethal Damp Blood Gem (5) — Boosts rally potential +12.5%",
+    "category": "回复能力",
+    "rating": 15,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      145415,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "研究大厅转动楼梯后，大水池尸体堆拾取。依据来源页“老猎人 DLC 固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-research-recovery-4",
+    "name": "脉动湿气血宝石（持续回复 4）",
+    "englishName": "Pulsing Damp Blood Gem (5) — HP continues to recover +4",
+    "category": "生命回复",
+    "rating": 15,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      143415,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "研究大厅大教堂二楼天花板平台拾取。依据来源页“老猎人 DLC 固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-hamlet-physical-9-1-thrust-10-9",
+    "name": "锻炼湿气血宝石（物理 9.1%＋穿刺 10.9%）",
+    "englishName": "Tempering Damp Blood Gem (6) — Physical ATK UP +9.1%; Thrust ATK UP +10.9%",
+    "category": "特殊物理攻击",
+    "rating": 17,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      126217,
+      21217,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村灯与水井之间，绿灯入口平台旁尸体堆拾取。依据来源页“老猎人 DLC 固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-hamlet-fire-27-fire-8-1",
+    "name": "奇异火焰湿气血宝石（火焰 27＋火焰 8.1%）",
+    "englishName": "Odd Fire Damp Blood Gem (5) — Add fire ATK +27; Fire ATK UP +8.1%",
+    "category": "属性攻击",
+    "rating": 14,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      115214,
+      24214,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村广场水井附近，炸药仓库二楼拾取。依据来源页“老猎人 DLC 固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-hamlet-physical-9-1-blunt-10-9",
+    "name": "锻炼湿气血宝石（物理 9.1%＋钝器 10.9%）",
+    "englishName": "Tempering Damp Blood Gem (6) — Physical ATK UP +9.1%; Blunt ATK UP +10.9%",
+    "category": "特殊物理攻击",
+    "rating": 17,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      126217,
+      20217,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村淹水村落海边破屋后方外墙拾取。依据来源页“老猎人 DLC 固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-hamlet-arcane-47-3-arcane-4-1",
+    "name": "奇异秘法湿气血宝石（秘法 47.3＋秘法 4.1%）",
+    "englishName": "Odd Arcane Damp Blood Gem (6) — Add arcane ATK +47.3; Arcane ATK UP +4.1%",
+    "category": "属性攻击",
+    "rating": 17,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      114317,
+      23117,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村灯塔洞穴寄生虫区域上层平台拾取。依据来源页“老猎人 DLC 固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-hamlet-kin-26-7-beast-down-10-9",
+    "name": "诅咒同族类猎人湿气血宝石（对眷族 26.7%）",
+    "englishName": "Cursed Kinhunter's Damp Blood Gem (6) — ATK vs the kin UP +26.7%; ATK vs beasts DOWN -10.9%",
+    "category": "种族攻击",
+    "rating": 17,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      135517,
+      34217,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村灯塔洞穴通往海滩处的升降机井底拾取；对怪兽攻击降低 10.9%。依据来源页“老猎人 DLC 固定宝石表”的完整效果与形状；保留所列负面效果。"
+  },
+  {
+    "id": "fixed-hamlet-physical-8-8-blood-11-3-circle",
+    "name": "锻炼湿气血宝石（物理 8.8%＋血质 11.3%）",
+    "englishName": "Tempering Damp Blood Gem (5) — Physical ATK UP +8.8%; Blood ATK UP +11.3%",
+    "category": "复合攻击",
+    "rating": 16,
+    "shapes": [
+      "Circle"
+    ],
+    "effects": [
+      126216,
+      22218,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村灯塔洞穴通往水井的洞窟拾取；原资料明确为圆形。依据来源页“老猎人 DLC 固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fixed-hamlet-bolt-42-bolt-4-1",
+    "name": "奇异闪电湿气血宝石（闪电 42＋闪电 4.1%）",
+    "englishName": "Odd Bolt Damp Blood Gem (5) — Add bolt ATK +42; Bolt ATK UP +4.1%",
+    "category": "属性攻击",
+    "rating": 14,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      116314,
+      25117,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村灯塔洞穴寄生虫区域下层平台拾取。依据来源页“老猎人 DLC 固定宝石表”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "hamlet-droplet-physical-22-3",
+    "name": "诅咒锻炼湿气血宝石（物理 22.3%）",
+    "englishName": "Cursed Tempering Damp Blood Gem (6) — Physical ATK UP +22.3%; Increases stamina costs +3",
+    "category": "物理攻击",
+    "rating": 17,
+    "shapes": [
+      "Droplet"
+    ],
+    "effects": [
+      126517,
+      41217,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村冬灯人的水滴状掉落，选取评级 17 的效果和体力消耗增加 3% 的诅咒。依据来源页“老猎人 DLC 掉落表：Fishing Hamlet / Winter Lantern”的完整效果与形状；保留所列负面效果。"
+  },
+  {
+    "id": "hamlet-droplet-blunt-26-7",
+    "name": "诅咒精通湿气血宝石（钝器 26.7%）",
+    "englishName": "Cursed Adept Damp Blood Gem (6) — Blunt ATK UP +26.7%; Increases stamina costs +3",
+    "category": "特殊物理攻击",
+    "rating": 17,
+    "shapes": [
+      "Droplet"
+    ],
+    "effects": [
+      120517,
+      41217,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村冬灯人的水滴状掉落，选取评级 17 的效果和体力消耗增加 3% 的诅咒。依据来源页“老猎人 DLC 掉落表：Fishing Hamlet / Winter Lantern”的完整效果与形状；保留所列负面效果。"
+  },
+  {
+    "id": "hamlet-droplet-thrust-26-7",
+    "name": "诅咒精通湿气血宝石（穿刺 26.7%）",
+    "englishName": "Cursed Adept Damp Blood Gem (6) — Thrust ATK UP +26.7%; Increases stamina costs +3",
+    "category": "特殊物理攻击",
+    "rating": 17,
+    "shapes": [
+      "Droplet"
+    ],
+    "effects": [
+      121517,
+      41217,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村冬灯人的水滴状掉落，选取评级 17 的效果和体力消耗增加 3% 的诅咒。依据来源页“老猎人 DLC 掉落表：Fishing Hamlet / Winter Lantern”的完整效果与形状；保留所列负面效果。"
+  },
+  {
+    "id": "hamlet-droplet-charge-29-7",
+    "name": "诅咒动人湿气血宝石（蓄力攻击 29.7%）",
+    "englishName": "Cursed Striking Damp Blood Gem (6) — Charge ATKs UP +29.7%; Increases stamina costs +3",
+    "category": "特殊物理攻击",
+    "rating": 17,
+    "shapes": [
+      "Droplet"
+    ],
+    "effects": [
+      142517,
+      41217,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村冬灯人的水滴状掉落，选取评级 17 的效果和体力消耗增加 3% 的诅咒。依据来源页“老猎人 DLC 掉落表：Fishing Hamlet / Winter Lantern”的完整效果与形状；保留所列负面效果。"
+  },
+  {
+    "id": "hamlet-droplet-full-hp-28-2",
+    "name": "诅咒愚者湿气血宝石（满血物理 28.2%）",
+    "englishName": "Cursed Fool's Damp Blood Gem (6) — Phys. UP at full HP +28.2%; Increases stamina costs +3",
+    "category": "条件攻击",
+    "rating": 17,
+    "shapes": [
+      "Droplet"
+    ],
+    "effects": [
+      148517,
+      41217,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村冬灯人的水滴状掉落，选取评级 17 的效果和体力消耗增加 3% 的诅咒。依据来源页“老猎人 DLC 掉落表：Fishing Hamlet / Winter Lantern”的完整效果与形状；保留所列负面效果。"
+  },
+  {
+    "id": "hamlet-droplet-near-death-29-7",
+    "name": "诅咒穷人湿气血宝石（濒死物理 29.7%）",
+    "englishName": "Cursed Poorman's Damp Blood Gem (6) — Phys. UP near death +29.7%; Increases stamina costs +3",
+    "category": "条件攻击",
+    "rating": 17,
+    "shapes": [
+      "Droplet"
+    ],
+    "effects": [
+      149517,
+      41217,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村冬灯人的水滴状掉落，选取评级 17 的效果和体力消耗增加 3% 的诅咒。依据来源页“老猎人 DLC 掉落表：Fishing Hamlet / Winter Lantern”的完整效果与形状；保留所列负面效果。"
+  },
+  {
+    "id": "hamlet-blood-17-blood-6-8-circle",
+    "name": "湿气血质宝石（血质 17%＋6.8）",
+    "englishName": "Bloodtinge Damp Blood Gem (6) — Blood ATK UP +17; Add blood ATK +6.8",
+    "category": "血质攻击",
+    "rating": 17,
+    "shapes": [
+      "Circle"
+    ],
+    "effects": [
+      122317,
+      13117,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村持锚巨型鱼人评级 17 掉落；表中两类主效果均固定附加血质 6.8。依据来源页“老猎人 DLC 掉落表：Giant Fishman (Anchor)”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "hamlet-warm-14-2-blood-6-8-circle",
+    "name": "温暖湿气血宝石（血质补正 14.2＋血质 6.8）",
+    "englishName": "Warm Damp Blood Gem (6) — Bloodtinge scaling +14.2; Add blood ATK +6.8",
+    "category": "能力补正",
+    "rating": 17,
+    "shapes": [
+      "Circle"
+    ],
+    "effects": [
+      131317,
+      13117,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村持锚巨型鱼人评级 17 掉落；表中两类主效果均固定附加血质 6.8。依据来源页“老猎人 DLC 掉落表：Giant Fishman (Anchor)”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "warm-scaling-26-3-circle",
+    "name": "诅咒温暖湿气血宝石（血质补正 26.3）",
+    "englishName": "Cursed Warm Damp Blood Gem (6) — Bloodtinge scaling +26.3; Increases stamina costs +3.2%",
+    "category": "能力补正",
+    "rating": 18,
+    "shapes": [
+      "Circle"
+    ],
+    "effects": [
+      131618,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "伊兹持散弹枪的迷宫守望者，评级 18；此预设选用体力消耗增加 3.2% 的诅咒。依据来源页“Best Gems / Bloodtinge Scaling Improving Gems”的完整效果与形状；保留所列负面效果。"
+  },
+  {
+    "id": "bloodtinge-26-7-blood-6-8-circle",
+    "name": "诅咒湿气血质宝石（血质 26.7%＋6.8）",
+    "englishName": "Cursed Bloodtinge Damp Blood Gem (6) — Blood ATK UP +26.7%; Add blood ATK +6.8; Increases stamina costs +3",
+    "category": "血质攻击",
+    "rating": 17,
+    "shapes": [
+      "Circle"
+    ],
+    "effects": [
+      122517,
+      13117,
+      41217,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "苏美鲁衣乎尔蹲伏的迷宫仪式师，评级 17；此预设选用体力消耗增加 3% 的诅咒。依据来源页“Best Gems / Bloodtinge Gems”的完整效果与形状；保留所列负面效果。"
+  },
+  {
+    "id": "hamlet-waning-physical-14-2",
+    "name": "锻炼湿气血宝石（物理 14.2%）",
+    "englishName": "Tempering Damp Blood Gem (6) — Physical ATK UP +14.2%",
+    "category": "物理攻击",
+    "rating": 17,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      126317,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村持刀鱼人评级 17 的通常衰弱形掉落。依据来源页“老猎人 DLC 掉落表：Fishman (Cleaver)”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "hamlet-waning-thrust-17",
+    "name": "精通湿气血宝石（穿刺 17%）",
+    "englishName": "Adept Damp Blood Gem (6) — Thrust ATK UP +17",
+    "category": "特殊物理攻击",
+    "rating": 17,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      121317,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村持刀鱼人评级 17 的衰弱形穿刺掉落。依据来源页“老猎人 DLC 掉落表：Fishman (Cleaver)”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "hamlet-waning-full-hp-18",
+    "name": "愚者湿气血宝石（满血物理 18%）",
+    "englishName": "Fool's Damp Blood Gem (6) — Phys. UP at full HP +18",
+    "category": "条件攻击",
+    "rating": 17,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      148317,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村无壳蜗牛女评级 17 的通常衰弱形掉落。依据来源页“老猎人 DLC 掉落表：Snail Woman (Bare)”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "hamlet-waning-near-death-18-9",
+    "name": "穷人湿气血宝石（濒死物理 18.9%）",
+    "englishName": "Poorman's Damp Blood Gem (6) — Phys. UP near death +18.9%",
+    "category": "条件攻击",
+    "rating": 17,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      149317,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "渔村带壳蜗牛女评级 17 的通常衰弱形掉落。依据来源页“老猎人 DLC 掉落表：Snail Woman (Shell)”的完整效果与形状；无诅咒。"
+  },
+  {
+    "id": "fools-physical-full-hp-34-4",
+    "name": "诅咒愚者湿气血宝石（满血物理 34.4%）",
+    "englishName": "Cursed Fool's Damp Blood Gem (6) — Phys. UP at full HP +34.4%; Increases stamina costs +3.3%",
+    "category": "条件攻击",
+    "rating": 19,
+    "shapes": [
+      "Radial",
+      "Triangle"
+    ],
+    "effects": [
+      148619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "苏美鲁衣乎尔或伊兹迷宫守望者首领稀有掉落；体力消耗增加 3.3%。依据来源页“Best Gems / HP Based ATK Boosting Gems”的完整效果与形状；保留所列负面效果。"
+  },
+  {
+    "id": "poormans-physical-near-death-36-3",
+    "name": "诅咒穷人湿气血宝石（濒死物理 36.3%）",
+    "englishName": "Cursed Poorman's Damp Blood Gem (6) — Phys. UP near death +36.3%; Increases stamina costs +3.3%",
+    "category": "条件攻击",
+    "rating": 19,
+    "shapes": [
+      "Radial",
+      "Triangle"
+    ],
+    "effects": [
+      149619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "苏美鲁衣乎尔或伊兹迷宫守望者首领稀有掉落；体力消耗增加 3.3%。依据来源页“Best Gems / HP Based ATK Boosting Gems”的完整效果与形状；保留所列负面效果。"
+  },
+  {
+    "id": "nourishing-atk-23-6-triangle",
+    "name": "诅咒滋养湿气血宝石（全攻击 23.6%）",
+    "englishName": "Cursed Nourishing Damp Blood Gem (6) — ATK UP +23.6%; Increases stamina costs +3.3%",
+    "category": "全攻击强化",
+    "rating": 19,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      127619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "伊兹迷宫守望者首领极稀有掉落；体力消耗增加 3.3%。依据来源页“Best Gems / ATK UP Gems”的完整效果与形状；保留所列负面效果。"
+  },
+  {
+    "id": "sharp-skill-27-2",
+    "name": "诅咒锐利湿气血宝石（技巧补正 27.2）",
+    "englishName": "Cursed Sharp Damp Blood Gem (6) — SKL scaling +27.2; Increases stamina costs +3.3%",
+    "category": "能力补正",
+    "rating": 19,
+    "shapes": [
+      "Radial",
+      "Triangle"
+    ],
+    "effects": [
+      130619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "苏美鲁衣乎尔或伊兹迷宫守望者首领稀有掉落；体力消耗增加 3.3%。依据来源页“Best Gems / Skill Scaling Improving Gems”的完整效果与形状；保留所列负面效果。"
+  },
+  {
+    "id": "madman-physical-21-flat-18-9",
+    "name": "诅咒锻炼湿气血宝石（物理 21%＋18.9）",
+    "englishName": "Cursed Tempering Damp Blood Gem (6) — Physical 21% + 18.9",
+    "category": "物理攻击",
+    "rating": 18,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      126418,
+      17218,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "红色光环迷宫狂人；衣乎尔放射状组合，非罗伦衰弱形状的副属性池。此预设选用体力消耗增加 3.2% 的诅咒。"
+  },
+  {
+    "id": "brainsucker-physical-9-1-arcane-67-5",
+    "name": "诅咒锻炼湿气血宝石（物理 9.1%＋秘法 67.5）",
+    "englishName": "Cursed Tempering Damp Blood Gem (6) — Physical 9.1% + Arcane 67.5",
+    "category": "复合攻击",
+    "rating": 17,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      126217,
+      14417,
+      41217,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "衣乎尔吸脑怪；物理百分比与固定秘法攻击组合。此预设选用体力消耗增加 3% 的诅咒。"
+  },
+  {
+    "id": "spirit-physical-9-1-near-death-27",
+    "name": "诅咒锻炼湿气血宝石（物理 9.1%＋濒死物理 27%）",
+    "englishName": "Cursed Tempering Damp Blood Gem (6) — Physical 9.1% + Near-death physical 27%",
+    "category": "条件攻击",
+    "rating": 17,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      126217,
+      76417,
+      41217,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "衣乎尔迷宫幽灵；额外物理增伤有濒死血量条件。此预设选用体力消耗增加 3% 的诅咒。"
+  },
+  {
+    "id": "spirit-charge-12-2-near-death-27",
+    "name": "诅咒动人湿气血宝石（蓄力 12.2%＋濒死物理 27%）",
+    "englishName": "Cursed Striking Damp Blood Gem (6) — Charge 12.2% + Near-death physical 27%",
+    "category": "条件攻击",
+    "rating": 17,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      142217,
+      76417,
+      41217,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "衣乎尔迷宫幽灵；蓄力攻击与濒死物理增伤组合。此预设选用体力消耗增加 3% 的诅咒。"
+  },
+  {
+    "id": "spirit-near-death-12-2-and-27",
+    "name": "诅咒穷人湿气血宝石（濒死物理 12.2%＋27%）",
+    "englishName": "Cursed Poorman's Damp Blood Gem (6) — Near-death physical 12.2% + 27%",
+    "category": "条件攻击",
+    "rating": 17,
+    "shapes": [
+      "Radial",
+      "Triangle"
+    ],
+    "effects": [
+      149217,
+      76417,
+      41217,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "衣乎尔或伊兹迷宫幽灵；保留两条独立濒死物理词条，不将百分比简单相加。此预设选用体力消耗增加 3% 的诅咒。"
+  },
+  {
+    "id": "fools-all-atk-full-hp-29",
+    "name": "诅咒愚者湿气血宝石（满血全攻击 29%）",
+    "englishName": "Cursed Fool's Damp Blood Gem (6) — All ATK at full HP 29%",
+    "category": "条件攻击",
+    "rating": 19,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      151619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "伊兹守望者首领；提升满血时的全攻击，区别于现有满血物理预设。此预设选用体力消耗增加 3.3% 的诅咒。"
+  },
+  {
+    "id": "beasthunter-32-6-triangle",
+    "name": "诅咒怪兽猎人湿气血宝石（对野兽 32.6%）",
+    "englishName": "Cursed Beasthunter's Damp Blood Gem (6) — ATK vs beasts 32.6%",
+    "category": "种族攻击",
+    "rating": 19,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      133619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "伊兹守望者首领；增伤仅针对野兽类敌人。此预设选用体力消耗增加 3.3% 的诅咒。"
+  },
+  {
+    "id": "kinhunter-32-6-triangle",
+    "name": "诅咒同族类猎人湿气血宝石（对眷族 32.6%）",
+    "englishName": "Cursed Kinhunter's Damp Blood Gem (6) — ATK vs kin 32.6%",
+    "category": "种族攻击",
+    "rating": 19,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      135619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "伊兹守望者首领；增伤仅针对眷族类敌人。此预设选用体力消耗增加 3.3% 的诅咒。"
+  },
+  {
+    "id": "odd-physical-flat-46-2",
+    "name": "诅咒奇异锻炼湿气血宝石（固定物理 46.2）",
+    "englishName": "Cursed Odd Tempering Damp Blood Gem (6) — Flat physical 46.2",
+    "category": "物理攻击",
+    "rating": 18,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      117518,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "衣乎尔迷宫棺材宝物；固定物理攻击，不是百分比提升。此预设选用体力消耗增加 3.2% 的诅咒。"
+  },
+  {
+    "id": "heavy-strength-27-2",
+    "name": "诅咒沉重湿气血宝石（力量补正 27.2）",
+    "englishName": "Cursed Heavy Damp Blood Gem (6) — STR scaling 27.2",
+    "category": "能力补正",
+    "rating": 19,
+    "shapes": [
+      "Radial",
+      "Triangle"
+    ],
+    "effects": [
+      129619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "衣乎尔或伊兹守望者首领；收益取决于武器及力量属性。此预设选用体力消耗增加 3.3% 的诅咒。"
+  },
+  {
+    "id": "cold-arcane-scaling-27-2",
+    "name": "诅咒寒冷湿气血宝石（秘法补正 27.2）",
+    "englishName": "Cursed Cold Damp Blood Gem (6) — Arcane scaling 27.2",
+    "category": "能力补正",
+    "rating": 19,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      132619,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "伊兹守望者首领；秘法能力补正，非直接增加固定秘法攻击。此预设选用体力消耗增加 3.3% 的诅咒。"
+  },
+  {
+    "id": "warm-23-9-blood-7-3-circle",
+    "name": "诅咒温暖湿气血宝石（血质补正 23.9＋血 7.3）",
+    "englishName": "Cursed Warm Damp Blood Gem (6) — Bloodtinge scaling 23.9 + Blood 7.3",
+    "category": "能力补正",
+    "rating": 19,
+    "shapes": [
+      "Circle"
+    ],
+    "effects": [
+      131519,
+      13119,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "罗伦下层渴血怪兽首领；圆形血质补正配固定血攻击。此预设选用体力消耗增加 3.3% 的诅咒。"
+  },
+  {
+    "id": "warm-22-3-blood-6-8-circle",
+    "name": "诅咒温暖湿气血宝石（血质补正 22.3＋血 6.8）",
+    "englishName": "Cursed Warm Damp Blood Gem (6) — Bloodtinge scaling 22.3 + Blood 6.8",
+    "category": "能力补正",
+    "rating": 17,
+    "shapes": [
+      "Circle"
+    ],
+    "effects": [
+      131517,
+      13117,
+      41217,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "衣乎尔蹲伏祭祀者；圆形血质补正配固定血攻击。此预设选用体力消耗增加 3% 的诅咒。"
+  },
+  {
+    "id": "nourishing-19-3-physical-8-1",
+    "name": "诅咒滋养湿气血宝石（全攻击 19.3%＋物理 8.1）",
+    "englishName": "Cursed Nourishing Damp Blood Gem (6) — All ATK 19.3% + Physical 8.1",
+    "category": "全攻击强化",
+    "rating": 17,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      127517,
+      17117,
+      41217,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "衣乎尔古老失落之子（石像鬼）；全攻击与固定物理的完整组合。此预设选用体力消耗增加 3% 的诅咒。"
+  },
+  {
+    "id": "brainsucker-blunt-10-9-arcane-67-5",
+    "name": "诅咒精通湿气血宝石（钝器 10.9%＋秘法 67.5）",
+    "englishName": "Cursed Adept Damp Blood Gem (6) — Blunt 10.9% + Arcane 67.5",
+    "category": "复合攻击",
+    "rating": 17,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      120217,
+      14417,
+      41217,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "衣乎尔吸脑怪；钝器攻击与固定秘法组合，可供车轮等混合伤害武器选择。此预设选用体力消耗增加 3% 的诅咒。"
+  },
+  {
+    "id": "brainsucker-blunt-11-7-arcane-72-5",
+    "name": "诅咒精通湿气血宝石（钝器 11.7%＋秘法 72.5）",
+    "englishName": "Cursed Adept Damp Blood Gem (6) — Blunt 11.7% + Arcane 72.5",
+    "category": "复合攻击",
+    "rating": 19,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      120219,
+      14419,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "伊兹吸脑怪首领；钝器攻击与固定秘法组合。此预设选用体力消耗增加 3.3% 的诅咒。"
+  },
+  {
+    "id": "madman-physical-21-open-foes-12-6",
+    "name": "诅咒锻炼湿气血宝石（物理 21%＋破绽攻击 12.6%）",
+    "englishName": "Cursed Tempering Damp Blood Gem (6) — Physical 21% + Open foes 12.6%",
+    "category": "条件攻击",
+    "rating": 18,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      126418,
+      39218,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "衣乎尔红色光环迷宫狂人；额外增伤针对处于破绽状态的敌人。此预设选用体力消耗增加 3.2% 的诅咒。"
+  },
+  {
+    "id": "possessed-physical-23-1-open-foes-5-6",
+    "name": "诅咒锻炼湿气血宝石（物理 23.1%＋破绽攻击 5.6%）",
+    "englishName": "Cursed Tempering Damp Blood Gem (6) — Physical 23.1% + Open foes 5.6%",
+    "category": "条件攻击",
+    "rating": 18,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      126518,
+      39118,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "迷宫中的兽魂附身者；物理与破绽状态增伤组合。此预设选用体力消耗增加 3.2% 的诅咒。"
+  },
+  {
+    "id": "physical-23-1-rally-2-8",
+    "name": "诅咒锻炼湿气血宝石（物理 23.1%＋回复能力 2.8%）",
+    "englishName": "Cursed Tempering Damp Blood Gem (6) — Physical 23.1% + Rally 2.8%",
+    "category": "回复能力",
+    "rating": 18,
+    "shapes": [
+      "Radial",
+      "Triangle"
+    ],
+    "effects": [
+      126518,
+      45118,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "罗伦下层骨灰猎人掉放射状，兽魂附身者掉三角形；回复能力指受伤后反击夺回生命，不是自动回血。此预设选用体力消耗增加 3.2% 的诅咒。"
+  },
+  {
+    "id": "madman-physical-21-rally-6-3",
+    "name": "诅咒锻炼湿气血宝石（物理 21%＋回复能力 6.3%）",
+    "englishName": "Cursed Tempering Damp Blood Gem (6) — Physical 21% + Rally 6.3%",
+    "category": "回复能力",
+    "rating": 18,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      126418,
+      45218,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "罗伦下层红色光环迷宫狂人；增强反击夺回生命的回复能力，不是自动回血。此预设选用体力消耗增加 3.2% 的诅咒。"
+  },
+  {
+    "id": "brainsucker-rapid-poison-7-8-arcane-72-5",
+    "name": "诅咒污秽湿气血宝石（急性毒素 7.8＋秘法 72.5）",
+    "englishName": "Cursed Dirty Damp Blood Gem (6) — Rapid poison 7.8 + Arcane 72.5",
+    "category": "中毒效果",
+    "rating": 19,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      138219,
+      14419,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "伊兹吸脑怪首领；急性毒素累积与固定秘法攻击组合。此预设选用体力消耗增加 3.3% 的诅咒。"
+  },
+  {
+    "id": "fire-madman-21-fire-31-5",
+    "name": "诅咒火焰湿气血宝石（火焰 21%＋31.5）",
+    "englishName": "Cursed Fire Damp Blood Gem (6) — Fire 21% + 31.5",
+    "category": "属性攻击",
+    "rating": 18,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      124418,
+      15218,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "罗伦下层红光迷宫狂人掉落。本预设采用普通体力消耗增加 3.2% 的诅咒。"
+  },
+  {
+    "id": "fire-bone-ash-23-1-fire-14",
+    "name": "诅咒火焰湿气血宝石（火焰 23.1%＋14）",
+    "englishName": "Cursed Fire Damp Blood Gem (6) — Fire 23.1% + 14",
+    "category": "属性攻击",
+    "rating": 18,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      124518,
+      15118,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "罗伦下层骨灰猎人掉落。本预设采用普通体力消耗增加 3.2% 的诅咒。"
+  },
+  {
+    "id": "fire-cleric-9-1-fire-67-5",
+    "name": "诅咒火焰湿气血宝石（火焰 9.1%＋67.5）",
+    "englishName": "Cursed Fire Damp Blood Gem (6) — Fire 9.1% + 67.5",
+    "category": "属性攻击",
+    "rating": 17,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      124217,
+      15417,
+      41217,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "罗伦下层罗伦教士掉落。本预设采用普通体力消耗增加 3% 的诅咒。"
+  },
+  {
+    "id": "bolt-madman-21-bolt-31-5",
+    "name": "诅咒闪电湿气血宝石（闪电 21%＋31.5）",
+    "englishName": "Cursed Bolt Damp Blood Gem (6) — Bolt 21% + 31.5",
+    "category": "属性攻击",
+    "rating": 18,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      125418,
+      16218,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "罗伦下层红光迷宫狂人掉落。本预设采用普通体力消耗增加 3.2% 的诅咒。"
+  },
+  {
+    "id": "bolt-bone-ash-23-1-bolt-14",
+    "name": "诅咒闪电湿气血宝石（闪电 23.1%＋14）",
+    "englishName": "Cursed Bolt Damp Blood Gem (6) — Bolt 23.1% + 14",
+    "category": "属性攻击",
+    "rating": 18,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      125518,
+      16118,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "罗伦下层骨灰猎人掉落。本预设采用普通体力消耗增加 3.2% 的诅咒。"
+  },
+  {
+    "id": "arcane-bone-ash-23-1-arcane-14",
+    "name": "诅咒秘法湿气血宝石（秘法 23.1%＋14）",
+    "englishName": "Cursed Arcane Damp Blood Gem (6) — Arcane 23.1% + 14",
+    "category": "属性攻击",
+    "rating": 18,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      123518,
+      14118,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "伊兹骨灰猎人掉落；配装资料明确列出秘法百分比与固定秘法的完整组合。本预设采用普通体力消耗增加 3.2% 的诅咒。"
+  },
+  {
+    "id": "arcane-brainsucker-9-8-arcane-72-5",
+    "name": "诅咒秘法湿气血宝石（秘法 9.8%＋72.5）",
+    "englishName": "Cursed Arcane Damp Blood Gem (6) — Arcane 9.8% + 72.5",
+    "category": "属性攻击",
+    "rating": 19,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      123219,
+      14419,
+      41219,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "伊兹吸脑怪首领掉落；附加较高固定秘法攻击力。本预设采用普通体力消耗增加 3.3% 的诅咒。"
+  },
+  {
+    "id": "arcane-brainsucker-9-1-arcane-67-5",
+    "name": "诅咒秘法湿气血宝石（秘法 9.1%＋67.5）",
+    "englishName": "Cursed Arcane Damp Blood Gem (6) — Arcane 9.1% + 67.5",
+    "category": "属性攻击",
+    "rating": 17,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      123217,
+      14417,
+      41217,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "苏美鲁衣乎尔吸脑怪稀有掉落。本预设采用普通体力消耗增加 3% 的诅咒。"
+  },
+  {
+    "id": "odd-fire-77-waning",
+    "name": "诅咒奇异火焰湿气血宝石（固定火焰 77）",
+    "englishName": "Cursed Odd Fire Damp Blood Gem (6) — Fire +77",
+    "category": "属性攻击",
+    "rating": 18,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      115518,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "罗伦下层棺材宝箱；提供固定火焰攻击力。本预设采用普通体力消耗增加 3.2% 的诅咒。"
+  },
+  {
+    "id": "odd-bolt-77-waning",
+    "name": "诅咒奇异闪电湿气血宝石（固定闪电 77）",
+    "englishName": "Cursed Odd Bolt Damp Blood Gem (6) — Bolt +77",
+    "category": "属性攻击",
+    "rating": 18,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      116518,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "罗伦下层棺材宝箱；提供固定闪电攻击力。本预设采用普通体力消耗增加 3.2% 的诅咒。"
+  },
+  {
+    "id": "odd-arcane-74-3-triangle",
+    "name": "诅咒奇异秘法湿气血宝石（固定秘法 74.3）",
+    "englishName": "Cursed Odd Arcane Damp Blood Gem (6) — Arcane +74.3",
+    "category": "属性攻击",
+    "rating": 17,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      114517,
+      41217,
+      4294967295,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/individual-blood-gems.html",
+    "notes": "伊兹宝箱；提供固定秘法攻击力。本预设采用普通体力消耗增加 3% 的诅咒。"
+  },
+  {
+    "id": "bolt-23-1-rally-2-8",
+    "name": "诅咒闪电湿气血宝石（闪电 23.1%＋回复能力 2.8%）",
+    "englishName": "Cursed Bolt Damp Blood Gem (6) — Bolt 23.1% + Rally 2.8%",
+    "category": "属性攻击",
+    "rating": 18,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      125518,
+      45118,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "罗伦下层骨灰猎人掉落；回复能力强化受伤后反击夺回生命，并非自动回血。本预设采用普通体力消耗增加 3.2% 的诅咒。"
+  },
+  {
+    "id": "cold-abyssal-65-rally-3",
+    "name": "诅咒寒冷深渊血宝石（秘法补正 65＋回复能力 3%）",
+    "englishName": "Cursed Cold Abyssal Blood Gem — ARC Scaling 65 + Rally 3%",
+    "category": "能力补正",
+    "rating": 20,
+    "shapes": [
+      "Triangle"
+    ],
+    "effects": [
+      132420,
+      45120,
+      41220,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "伊兹苏美鲁长老掉落；提高秘法能力补正并强化受伤后反击夺回生命，并非自动回血。本预设采用普通体力消耗增加 3.4% 的诅咒。"
+  },
+  {
+    "id": "bolt-abhorrent-22-5-rally-6-7",
+    "name": "诅咒闪电深渊血宝石（闪电 22.5%＋回复能力 6.7%）",
+    "englishName": "Cursed Bolt Abyssal Blood Gem — Bolt 22.5% + Rally 6.7%",
+    "category": "属性攻击",
+    "rating": 20,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      125420,
+      45220,
+      41220,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "罗伦下层憎恶怪兽首领掉落；强化闪电与受伤后反击夺回生命，并非自动回血。本预设采用普通体力消耗增加 3.4% 的诅咒。"
+  },
+  {
+    "id": "bolt-madman-21-rally-6-3",
+    "name": "诅咒闪电湿气血宝石（闪电 21%＋回复能力 6.3%）",
+    "englishName": "Cursed Bolt Damp Blood Gem (6) — Bolt 21% + Rally 6.3%",
+    "category": "属性攻击",
+    "rating": 18,
+    "shapes": [
+      "Waning"
+    ],
+    "effects": [
+      125418,
+      45218,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "罗伦下层红光迷宫狂人掉落；强化闪电与受伤后反击夺回生命，并非自动回血。本预设采用普通体力消耗增加 3.2% 的诅咒。"
+  },
+  {
+    "id": "beasthunter-27-7-fire-14",
+    "name": "诅咒怪兽猎人湿气血宝石（对野兽 27.7%＋火焰 14）",
+    "englishName": "Cursed Beasthunter's Damp Blood Gem (6) — Beasts 27.7% + Fire 14",
+    "category": "种族攻击",
+    "rating": 18,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      133518,
+      15118,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "罗伦下层骨灰猎人掉落；对野兽增伤并附加固定火焰攻击力。本预设采用普通体力消耗增加 3.2% 的诅咒。"
+  },
+  {
+    "id": "kinhunter-27-7-bolt-14",
+    "name": "诅咒同族类猎人湿气血宝石（对眷族 27.7%＋闪电 14）",
+    "englishName": "Cursed Kinhunter's Damp Blood Gem (6) — Kin 27.7% + Bolt 14",
+    "category": "种族攻击",
+    "rating": 18,
+    "shapes": [
+      "Radial"
+    ],
+    "effects": [
+      135518,
+      16118,
+      41218,
+      4294967295,
+      4294967295,
+      4294967295
+    ],
+    "source": "https://www.bloodborne-wiki.com/2015/10/best-blood-gems-setups.html",
+    "notes": "罗伦下层骨灰猎人掉落；对眷族增伤并附加固定闪电攻击力。本预设采用普通体力消耗增加 3.2% 的诅咒。"
+  }
+]

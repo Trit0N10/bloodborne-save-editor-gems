@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/Noxde/Bloodborne-save-editor",
+  "tag": "0.10.0",
+  "commit": "3759062d9629631683868d33d006c5633b3bbb56",
+  "license": "GPL-3.0",
+  "verification": "GitHub tags API checked during publication preparation",
+  "relationship": "Independent maintained derivative; upstream attribution retained, not a from-scratch save parser"
+}

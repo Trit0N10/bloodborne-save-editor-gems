@@ -1,0 +1,106 @@
+.gem-manager,
+.gem-manager-confirm {
+  position: fixed;
+  margin: auto;
+  padding: 0;
+  color: #e7e1d8;
+  background: #151716;
+  border: 1px solid #82745e;
+  border-radius: 8px;
+  box-shadow: 0 18px 70px #000b;
+  font-family: "Microsoft YaHei UI", "Microsoft YaHei", sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.gem-manager::backdrop,
+.gem-manager-confirm::backdrop { background: #000b; }
+.gem-manager { width: min(1240px, calc(100vw - 24px)); height: min(800px, calc(100vh - 24px)); max-width: none; max-height: none; }
+.gem-manager[open] { display: flex; flex-direction: column; }
+.gem-manager h2, .gem-manager-confirm h2 { font-size: 23px; font-weight: 600; }
+.gem-manager h3, .gem-manager-confirm h3 { font-size: 19px; font-weight: 600; }
+.gem-manager h2 span { font-size: 17px; font-weight: 400; color: #bdb5a6; }
+.gem-manager button, .gem-manager-confirm button { font-size: 15px; padding: 7px 15px; border: 1px solid #706756; border-radius: 4px; background: #282b28; }
+.gem-manager button:hover:enabled, .gem-manager-confirm button:hover:enabled { background: #383d37; }
+.gem-manager button:focus-visible, .gem-manager input:focus-visible, .gem-manager select:focus-visible,
+.gem-manager a:focus-visible, .gem-manager-confirm button:focus-visible { outline: 2px solid #d9bb79; outline-offset: 2px; }
+.gem-manager-header { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding: 15px 22px 12px; border-bottom: 1px solid #414238; flex-shrink: 0; }
+.gem-manager-header p { margin-top: 3px; color: #c2bba9; }
+.gem-manager-header-actions { display:flex; align-items:center; gap:12px; flex-shrink:0; }
+.gem-manager-confirm-heading { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px; }
+.gem-manager-toolbar { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 24px; padding: 12px 22px; border-bottom: 1px solid #414238; flex-shrink: 0; }
+.gem-manager-toolbar-overview, .gem-manager-toolbar-filters { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.gem-manager-toolbar-overview > p { margin: 0; }
+.gem-manager-toolbar-filters { border-left: 1px solid #414238; padding-left: 24px; }
+.gem-manager-toolbar-search { display: flex; flex-direction: column; gap: 5px; }
+.gem-manager-toolbar-search label { font-size: 13px; color: #c8c2b5; }
+.gem-manager-status { display: flex; align-items: center; flex-wrap: wrap; gap: 8px 16px; padding: 0; flex-shrink: 0; }
+.gem-manager-status strong { color: #e8cc8d; }
+.gem-manager-status button { padding: 3px 10px; }
+.gem-manager-muted { color: #b5b0a5; font-size: 13px; }
+.gem-manager-feedback { flex-shrink: 0; max-height: 92px; overflow-y: auto; padding: 0 22px; }
+.gem-manager-feedback p { margin: 0 0 7px; padding: 6px 10px; border-radius: 3px; }
+.gem-manager-success { color: #c4e6b8; background: #263b27; }
+.gem-manager-error { color: #ffd0c7; background: #462821; }
+.gem-manager-tabs { display: flex; flex-wrap: wrap; gap: 8px; padding: 0; margin-top: auto; flex-shrink: 0; }
+.gem-manager-tabs button[aria-pressed="true"] { border-color: #beaa7f; color: #f7dd9d; background: #3a3527; }
+.gem-manager-shape-filter { display: flex; align-items: center; flex-wrap: wrap; gap: 6px 10px; padding: 0; flex-shrink: 0; }
+.gem-manager-shape-filter select { padding: 5px 10px; min-width: 170px; }
+.gem-manager-body { display: grid; grid-template-columns: minmax(320px, 48%) minmax(0, 1fr); gap: 22px; padding: 12px 22px; min-height: 0; flex: 1; overflow: hidden; }
+.gem-manager-list-pane { display: flex; flex-direction: column; gap: 7px; min-height: 0; }
+.gem-manager input, .gem-manager select { color: #e7e1d8; background: #202320; border: 1px solid #706756; border-radius: 3px; font-family: inherit; font-size: 15px; }
+.gem-manager input { flex-shrink: 0; width: 100%; padding: 7px 9px; }
+.gem-manager-image-list { list-style: none; margin: 0; padding: 4px; min-height: 90px; flex: 1; overflow-y: auto; overscroll-behavior: contain; border: 1px solid #57594d; border-radius: 4px; background: #1b1e1b; }
+.gem-manager-image-list li + li { margin-top: 5px; }
+.gem-manager button.gem-manager-image-row { display: flex; align-items: center; gap: 10px; width: 100%; padding: 7px; text-align: left; background: #232723; border-color: transparent; }
+.gem-manager button.gem-manager-image-row[aria-pressed="true"] { background: #3b3528; border-color: #b59a61; color: #fff0cc; }
+.gem-manager button.gem-manager-image-row:hover:enabled { background: #353c33; }
+.gem-manager-row-copy { display: flex; flex-direction: column; gap: 4px; min-width: 0; overflow-wrap: anywhere; }
+.gem-manager-row-copy strong { font-size: 15px; font-weight: 500; line-height: 1.55; }
+.gem-manager-row-copy > span { color: #bdb8aa; font-size: 13px; }
+.gem-artwork { display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; width: 58px; height: 58px; overflow: hidden; border: 1px solid #494c40; border-radius: 5px; background: #101410 url('/assets/gems/gem_bg.png') center / cover; }
+.gem-artwork img { display: block; width: 100%; height: 100%; object-fit: contain; }
+.gem-artwork-large { width: 116px; height: 116px; }
+.gem-artwork-unavailable { padding: 4px; color: #aca998; font-size: 12px; text-align: center; }
+.gem-manager-identity { display: flex; align-items: center; gap: 15px; margin-bottom: 12px; }
+.gem-manager-identity > div { min-width: 0; overflow-wrap: anywhere; }
+.gem-manager-identity p { margin-top: 5px; }
+.gem-manager-identity .gem-manager-curse { display: inline-block; margin: 6px 0 0; }
+.gem-manager-detail { min-height: 0; overflow-y: auto; padding: 0 10px 8px 0; }
+.gem-manager-detail > p { margin-top: 5px; }
+.gem-manager-english { color: #aaa89e; font-size: 13px; }
+.gem-manager-curse { color: #ffc1a8; background: #4a3026; font-size: 12px; padding: 2px 7px; margin-left: 10px; border-radius: 3px; white-space: nowrap; }
+.gem-manager-shape { display: flex; align-items: center; gap: 12px; margin: 13px 0; }
+.gem-manager-shape select { padding: 5px 10px; min-width: 125px; }
+.gem-manager-effects { list-style: none; margin: 12px 0; }
+.gem-manager-effects li { padding: 7px 10px; margin-bottom: 6px; background: #222723; border-left: 2px solid #90825c; overflow-wrap: anywhere; }
+.gem-manager-effects li.gem-manager-negative { background: #382720; color: #ffc4b2; border-left-color: #bb7966; }
+.gem-manager-effects strong { font-weight: 500; }
+.gem-manager-notes { font-size: 13px; color: #c4beaf; }
+.gem-manager-source { display: inline-block; margin-top: 8px; font-size: 13px; text-decoration: underline; color: #dac69b; }
+.gem-manager-empty { color: #b5b0a5; padding: 24px 6px; }
+.gem-manager-footer { display: flex; justify-content: space-between; align-items: center; gap: 16px; padding: 12px 22px; border-top: 1px solid #414238; flex-shrink: 0; }
+.gem-manager-footer p { font-size: 13px; color: #b5b0a5; }
+.gem-manager-add-options { min-width: 0; }
+.gem-manager-quantity { display: flex; align-items: center; gap: 10px; margin-bottom: 6px; }
+.gem-manager-quantity input { width: 110px; padding: 5px 8px; text-align: right; }
+.gem-manager-quantity input[aria-invalid="true"] { border-color: #d88f78; }
+.gem-manager-footer .gem-manager-quantity-error { margin-top: 4px; color: #ffc4b2; }
+.gem-manager-footer > button { flex-shrink: 0; }
+.gem-manager .gem-manager-primary { background: #51472c; border-color: #bba273; color: #fff0c8; }
+.gem-manager .gem-manager-danger, .gem-manager-confirm .gem-manager-danger { background: #4a2b25; border-color: #a87262; color: #ffd2c0; }
+.gem-manager-confirm { width: min(560px, calc(100vw - 48px)); max-height: calc(100vh - 64px); padding: 24px; overflow-y: auto; }
+.gem-manager-confirm > p { margin-top: 9px; }
+.gem-manager-delete-preview { margin: 16px 0; padding: 14px; background: #1e211e; border: 1px solid #48483d; }
+.gem-manager-delete-preview p { margin-top: 4px; color: #c4beaf; }
+.gem-manager-actions { display: flex; justify-content: flex-end; gap: 12px; margin-top: 20px; }
+@media (max-width: 720px) {
+  .gem-manager-toolbar { grid-template-columns: minmax(0, 1fr); gap: 12px; padding: 10px 12px; }
+  .gem-manager-toolbar-filters { border-left: 0; border-top: 1px solid #414238; padding: 10px 0 0; }
+  .gem-manager-body { grid-template-columns: minmax(230px, 45%) minmax(0, 1fr); gap: 12px; padding: 12px; }
+  .gem-manager-header, .gem-manager-footer { padding-left: 12px; padding-right: 12px; }
+  .gem-manager-footer { flex-wrap: wrap; gap: 10px; }
+  .gem-manager-footer > button { margin-left: auto; }
+  .gem-manager-identity { align-items: flex-start; flex-direction: column; gap: 8px; }
+  .gem-artwork-large { width: 96px; height: 96px; }
+}

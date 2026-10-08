@@ -1,0 +1,28 @@
+name: Build and publication checks
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - uses: dtolnay/rust-toolchain@stable
+      - run: npm ci
+      - run: npm run check
+      - run: npm run build
+      - run: cargo test --locked --manifest-path src-tauri/Cargo.toml --lib publication_
+      - run: npm run tauri -- build --no-bundle -- --locked
+      - uses: actions/upload-artifact@v4
+        with:
+          name: windows-x64-build
+          path: |
+            src-tauri/target/release/Bloodborne Save Editor Gems.exe
+            src-tauri/resources/

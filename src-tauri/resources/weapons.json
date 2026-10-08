@@ -1,0 +1,1267 @@
+{
+  "rightHand": {
+    "900000": {
+      "item_name": "Adella's End-Quest Dagger",
+      "item_img": "",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "-",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "2000000": {
+      "item_name": "Chikage",
+      "item_img": "chikage.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "92",
+        "blood": "92",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "2010000": {
+      "item_name": "Uncanny Chikage",
+      "item_img": "chikage.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "92",
+        "blood": "92",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "2020000": {
+      "item_name": "Lost Chikage",
+      "item_img": "chikage.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "92",
+        "blood": "92",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "4000000": {
+      "item_name": "Blade of Mercy",
+      "item_img": "blade_of_mercy.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "60",
+        "blood": "-",
+        "arcane": "30",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "4010000": {
+      "item_name": "Uncanny Blade of Mercy",
+      "item_img": "blade_of_mercy.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "60",
+        "blood": "-",
+        "arcane": "30",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "4020000": {
+      "item_name": "Lost Blade of Mercy",
+      "item_img": "blade_of_mercy.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "60",
+        "blood": "-",
+        "arcane": "30",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "5000000": {
+      "item_name": "Hunter Axe",
+      "item_img": "hunter_axe.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "98",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "5010000": {
+      "item_name": "Uncanny Hunter Axe",
+      "item_img": "hunter_axe.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "98",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "5020000": {
+      "item_name": "Lost Hunter Axe",
+      "item_img": "hunter_axe.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "98",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "5100000": {
+      "item_name": "Burial Blade",
+      "item_img": "burial_blade.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "80",
+        "blood": "-",
+        "arcane": "30",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "5110000": {
+      "item_name": "Uncanny Burial Blade",
+      "item_img": "burial_blade.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "80",
+        "blood": "-",
+        "arcane": "30",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "5120000": {
+      "item_name": "Lost Burial Blade",
+      "item_img": "burial_blade.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "80",
+        "blood": "-",
+        "arcane": "30",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "7000000": {
+      "item_name": "Saw Cleaver",
+      "item_img": "saw_cleaver.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "90",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "7010000": {
+      "item_name": "Uncanny Saw Cleaver",
+      "item_img": "saw_cleaver.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "90",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "7020000": {
+      "item_name": "Lost Saw Cleaver",
+      "item_img": "saw_cleaver.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "90",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "7100000": {
+      "item_name": "Saw Spear",
+      "item_img": "saw_spear.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "85",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "7110000": {
+      "item_name": "Uncanny Saw Spear",
+      "item_img": "saw_spear.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "85",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "7120000": {
+      "item_name": "Lost Saw Spear",
+      "item_img": "saw_spear.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "85",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "8000000": {
+      "item_name": "Kirkhammer",
+      "item_img": "kirkhammer.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "105",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "8010000": {
+      "item_name": "Uncanny Kirkhammer",
+      "item_img": "kirkhammer.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "105",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "8020000": {
+      "item_name": "Lost Kirkhammer",
+      "item_img": "kirkhammer.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "105",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "8100000": {
+      "item_name": "Ludwig's Holy Blade",
+      "item_img": "ludwig's_holy_blade.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "100",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "8110000": {
+      "item_name": "Ludwig's Uncanny Holy Blade",
+      "item_img": "ludwig's_holy_blade.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "100",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "8120000": {
+      "item_name": "Ludwig's Lost Holy Blade",
+      "item_img": "ludwig's_holy_blade.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "100",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "9000000": {
+      "item_name": "Beast Claw",
+      "item_img": "beast_claw.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "75",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "9010000": {
+      "item_name": "Uncanny Beast Claw",
+      "item_img": "beast_claw.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "75",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "9020000": {
+      "item_name": "Lost Beast Claw",
+      "item_img": "beast_claw.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "75",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "10000000": {
+      "item_name": "Rifle Spear",
+      "item_img": "rifle_spear.png",
+      "item_desc": "",
+      "qsUse": "1",
+      "damage": {
+        "physical": "85",
+        "blood": "85",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "10010000": {
+      "item_name": "Uncanny Rifle Spear",
+      "item_img": "rifle_spear.png",
+      "item_desc": "",
+      "qsUse": "1",
+      "damage": {
+        "physical": "85",
+        "blood": "85",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "10020000": {
+      "item_name": "Lost Rifle Spear",
+      "item_img": "rifle_spear.png",
+      "item_desc": "",
+      "qsUse": "1",
+      "damage": {
+        "physical": "85",
+        "blood": "85",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "10100000": {
+      "item_name": "Reiterpallasch",
+      "item_img": "reiterpallasch.png",
+      "item_desc": "",
+      "qsUse": "1",
+      "damage": {
+        "physical": "75",
+        "blood": "75",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "10110000": {
+      "item_name": "Uncanny Reiterpallasch",
+      "item_img": "reiterpallasch.png",
+      "item_desc": "",
+      "qsUse": "1",
+      "damage": {
+        "physical": "75",
+        "blood": "75",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "10120000": {
+      "item_name": "Lost Reiterpallasch",
+      "item_img": "reiterpallasch.png",
+      "item_desc": "",
+      "qsUse": "1",
+      "damage": {
+        "physical": "75",
+        "blood": "75",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "11000000": {
+      "item_name": "Stake Driver",
+      "item_img": "stake_driver.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "85",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "11010000": {
+      "item_name": "Uncanny Stake Driver",
+      "item_img": "stake_driver.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "85",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "11020000": {
+      "item_name": "Lost Stake Driver",
+      "item_img": "stake_driver.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "85",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "12000000": {
+      "item_name": "Logarius' Wheel",
+      "item_img": "logarius'_wheel.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "100",
+        "blood": "-",
+        "arcane": "25",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "12010000": {
+      "item_name": "Logarius' Uncanny Wheel",
+      "item_img": "logarius'_wheel.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "100",
+        "blood": "-",
+        "arcane": "25",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "12020000": {
+      "item_name": "Logarius' Lost Wheel",
+      "item_img": "logarius'_wheel.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "100",
+        "blood": "-",
+        "arcane": "25",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "12080000": {
+      "item_name": "Bloody Logarius' Wheel",
+      "item_img": "logarius'_wheel.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "100",
+        "blood": "-",
+        "arcane": "10",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "13000000": {
+      "item_name": "Tonitrus",
+      "item_img": "tonitrus.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "80",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "40"
+      }
+    },
+    "13010000": {
+      "item_name": "Uncanny Tonitrus",
+      "item_img": "tonitrus.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "80",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "40"
+      }
+    },
+    "13020000": {
+      "item_name": "Lost Tonitrus",
+      "item_img": "tonitrus.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "80",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "40"
+      }
+    },
+    "22000000": {
+      "item_name": "Threaded Cane",
+      "item_img": "threaded_cane.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "78",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "22010000": {
+      "item_name": "Uncanny Threaded Cane",
+      "item_img": "threaded_cane.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "78",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "22020000": {
+      "item_name": "Lost Threaded Cane",
+      "item_img": "threaded_cane.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "78",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "23000000": {
+      "item_name": "Beasthunter Saif",
+      "item_img": "beasthunter_saif.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "90",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "23010000": {
+      "item_name": "Uncanny Beasthunter Saif",
+      "item_img": "beasthunter_saif.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "90",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "23020000": {
+      "item_name": "Lost Beasthunter Saif",
+      "item_img": "beasthunter_saif.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "90",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "24000000": {
+      "item_name": "Beast Cutter",
+      "item_img": "beast_cutter.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "92",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "24010000": {
+      "item_name": "Uncanny Beast Cutter",
+      "item_img": "beast_cutter.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "92",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "24020000": {
+      "item_name": "Lost Beast Cutter",
+      "item_img": "beast_cutter.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "92",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "25000000": {
+      "item_name": "Amygdalan Arm",
+      "item_img": "amygdalan_arm.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "80",
+        "blood": "-",
+        "arcane": "40",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "25010000": {
+      "item_name": "Uncanny Amygdalan Arm",
+      "item_img": "amygdalan_arm.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "80",
+        "blood": "-",
+        "arcane": "40",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "25020000": {
+      "item_name": "Lost Amygdalan Arm",
+      "item_img": "amygdalan_arm.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "80",
+        "blood": "-",
+        "arcane": "40",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "26000000": {
+      "item_name": "Holy Moonlight Sword",
+      "item_img": "holy_moonlight_sword.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "90",
+        "blood": "-",
+        "arcane": "50",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "26010000": {
+      "item_name": "Uncanny Holy Moonlight Sword",
+      "item_img": "holy_moonlight_sword.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "90",
+        "blood": "-",
+        "arcane": "50",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "26020000": {
+      "item_name": "Lost Holy Moonlight Sword",
+      "item_img": "holy_moonlight_sword.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "90",
+        "blood": "-",
+        "arcane": "50",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "27000000": {
+      "item_name": "Rakuyo",
+      "item_img": "rakuyo.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "82",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "27010000": {
+      "item_name": "Uncanny Rakuyo",
+      "item_img": "rakuyo.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "82",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "27020000": {
+      "item_name": "Lost Rakuyo",
+      "item_img": "rakuyo.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "82",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "28000000": {
+      "item_name": "Boom Hammer",
+      "item_img": "boom_hammer.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "90",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "60",
+        "bolt": "-"
+      }
+    },
+    "28010000": {
+      "item_name": "Uncanny Boom Hammer",
+      "item_img": "boom_hammer.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "90",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "60",
+        "bolt": "-"
+      }
+    },
+    "28020000": {
+      "item_name": "Lost Boom Hammer",
+      "item_img": "boom_hammer.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "90",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "60",
+        "bolt": "-"
+      }
+    },
+    "29000000": {
+      "item_name": "Bloodletter",
+      "item_img": "bloodletter.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "90",
+        "blood": "90",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "29010000": {
+      "item_name": "Uncanny Bloodletter",
+      "item_img": "bloodletter.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "90",
+        "blood": "90",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "29020000": {
+      "item_name": "Lost Bloodletter",
+      "item_img": "bloodletter.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "90",
+        "blood": "90",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "30000000": {
+      "item_name": "Church Pick",
+      "item_img": "church_pick.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "88",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "30010000": {
+      "item_name": "Uncanny Church Pick",
+      "item_img": "church_pick.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "88",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "30020000": {
+      "item_name": "Lost Church Pick",
+      "item_img": "church_pick.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "88",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "31000000": {
+      "item_name": "Whirligig Saw",
+      "item_img": "whirligig_saw.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "95",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "31010000": {
+      "item_name": "Uncanny Whirligig Saw",
+      "item_img": "whirligig_saw.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "95",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "31020000": {
+      "item_name": "Lost Whirligig Saw",
+      "item_img": "whirligig_saw.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "95",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "32000000": {
+      "item_name": "Simon's Bowblade",
+      "item_img": "simon's_bowblade.png",
+      "item_desc": "",
+      "qsUse": "1",
+      "damage": {
+        "physical": "80",
+        "blood": "80",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "32010000": {
+      "item_name": "Simon's Uncanny Bowblade",
+      "item_img": "simon's_bowblade.png",
+      "item_desc": "",
+      "qsUse": "1",
+      "damage": {
+        "physical": "80",
+        "blood": "80",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "32020000": {
+      "item_name": "Simon's Lost Bowblade",
+      "item_img": "simon's_bowblade.png",
+      "item_desc": "",
+      "qsUse": "1",
+      "damage": {
+        "physical": "80",
+        "blood": "80",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "38000000": {
+      "item_name": "Kos Parasite",
+      "item_img": "kos_parasite.png",
+      "item_desc": "",
+      "qsUse": "2",
+      "damage": {
+        "physical": "-",
+        "blood": "-",
+        "arcane": "30",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "38010000": {
+      "item_name": "Uncanny Parasite",
+      "item_img": "kos_parasite.png",
+      "item_desc": "",
+      "qsUse": "2",
+      "damage": {
+        "physical": "-",
+        "blood": "-",
+        "arcane": "30",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "38020000": {
+      "item_name": "Lost Parasite",
+      "item_img": "kos_parasite.png",
+      "item_desc": "",
+      "qsUse": "2",
+      "damage": {
+        "physical": "-",
+        "blood": "-",
+        "arcane": "30",
+        "fire": "-",
+        "bolt": "-"
+      }
+    }
+  },
+  "leftHand": {
+    "6000000": {
+      "item_name": "Hunter Blunderbuss",
+      "item_img": "hunter_blunderbuss.png",
+      "item_desc": "",
+      "qsUse": "1",
+      "damage": {
+        "physical": "-",
+        "blood": "20",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "6100000": {
+      "item_name": "Ludwig's Rifle",
+      "item_img": "ludwig's_rifle.png",
+      "item_desc": "",
+      "qsUse": "1",
+      "damage": {
+        "physical": "-",
+        "blood": "20",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "6180000": {
+      "item_name": "Bloody Ludwig's Rifle",
+      "item_img": "ludwig's_rifle.png",
+      "item_desc": "",
+      "qsUse": "1",
+      "damage": {
+        "physical": "-",
+        "blood": "20",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "14000000": {
+      "item_name": "Hunter Pistol",
+      "item_img": "hunter_pistol.png",
+      "item_desc": "",
+      "qsUse": "1",
+      "damage": {
+        "physical": "-",
+        "blood": "70",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "14100000": {
+      "item_name": "Evelyn",
+      "item_img": "evelyn.png",
+      "item_desc": "",
+      "qsUse": "1",
+      "damage": {
+        "physical": "-",
+        "blood": "60",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "14200000": {
+      "item_name": "Repeating Pistol",
+      "item_img": "repeating_pistol.png",
+      "item_desc": "",
+      "qsUse": "2",
+      "damage": {
+        "physical": "-",
+        "blood": "90",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "15000000": {
+      "item_name": "Cannon",
+      "item_img": "cannon.png",
+      "item_desc": "",
+      "qsUse": "12",
+      "damage": {
+        "physical": "-",
+        "blood": "200",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "18000000": {
+      "item_name": "Rosmarinus",
+      "item_img": "rosmarinus.png",
+      "item_desc": "",
+      "qsUse": "1",
+      "damage": {
+        "physical": "-",
+        "blood": "-",
+        "arcane": "30",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "18100000": {
+      "item_name": "Flamesprayer",
+      "item_img": "flamesprayer.png",
+      "item_desc": "",
+      "qsUse": "1",
+      "damage": {
+        "physical": "-",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "45",
+        "bolt": "-"
+      }
+    },
+    "19000000": {
+      "item_name": "Wooden Shield",
+      "item_img": "wooden_shield.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "-",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "19100000": {
+      "item_name": "Loch Shield",
+      "item_img": "loch_shield.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "-",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "20000000": {
+      "item_name": "Hunter's Torch",
+      "item_img": "hunter's_torch.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "-",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "50",
+        "bolt": "-"
+      }
+    },
+    "20100000": {
+      "item_name": "Torch",
+      "item_img": "torch.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "-",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "25",
+        "bolt": "-"
+      }
+    },
+    "33000000": {
+      "item_name": "Gatling Gun",
+      "item_img": "gatling_gun.png",
+      "item_desc": "",
+      "qsUse": "1",
+      "damage": {
+        "physical": "-",
+        "blood": "80",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "34000000": {
+      "item_name": "Fist of Gratia",
+      "item_img": "fist_of_gratia.png",
+      "item_desc": "",
+      "qsUse": "-",
+      "damage": {
+        "physical": "60",
+        "blood": "-",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "35000000": {
+      "item_name": "Church Cannon",
+      "item_img": "church_cannon.png",
+      "item_desc": "",
+      "qsUse": "10",
+      "damage": {
+        "physical": "-",
+        "blood": "160",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    },
+    "36000000": {
+      "item_name": "Piercing Rifle",
+      "item_img": "piercing_rifle.png",
+      "item_desc": "",
+      "qsUse": "1",
+      "damage": {
+        "physical": "-",
+        "blood": "80",
+        "arcane": "-",
+        "fire": "-",
+        "bolt": "-"
+      }
+    }
+  }
+}

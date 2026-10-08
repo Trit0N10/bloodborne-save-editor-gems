@@ -1,0 +1,5867 @@
+{
+  "10000": {
+    "item_img": "grey_wolf_cap.png",
+    "item_name": "Grey Wolf Cap",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 40,
+      "thrust": 40,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 20,
+      "fire": 50,
+      "bolt": 30
+    },
+    "resistance": {
+      "slowPoison": 9,
+      "rapidPoison": 12,
+      "frenzy": 19
+    },
+    "beasthood": 37,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "11000": {
+    "item_img": "charred_hunter_garb.png",
+    "item_name": "Charred Hunter Garb",
+    "physicalDefense": {
+      "physical": 110,
+      "blunt": 100,
+      "thrust": 70,
+      "blood": 100
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 140,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 29,
+      "rapidPoison": 37,
+      "frenzy": 45
+    },
+    "beasthood": 58,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "12000": {
+    "item_img": "charred_hunter_gloves.png",
+    "item_name": "Charred Hunter Gloves",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 40,
+      "thrust": 40,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 70,
+      "bolt": 40
+    },
+    "resistance": {
+      "slowPoison": 15,
+      "rapidPoison": 20,
+      "frenzy": 24
+    },
+    "beasthood": 30,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "13000": {
+    "item_img": "charred_hunter_trousers.png",
+    "item_name": "Charred Hunter Trousers",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 60,
+      "thrust": 50,
+      "blood": 60
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 80,
+      "bolt": 40
+    },
+    "resistance": {
+      "slowPoison": 17,
+      "rapidPoison": 21,
+      "frenzy": 27
+    },
+    "beasthood": 33,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "20000": {
+    "item_img": "black_hooded_iron_helm.png",
+    "item_name": "Black Hooded Iron Helm",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 40,
+      "thrust": 10,
+      "blood": 20
+    },
+    "elementalDefense": {
+      "arcane": 20,
+      "fire": 30,
+      "bolt": 20
+    },
+    "resistance": {
+      "slowPoison": 13,
+      "rapidPoison": 12,
+      "frenzy": 12
+    },
+    "beasthood": 8,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "21000": {
+    "item_img": "yahar'gul_black_garb.png",
+    "item_name": "Yahar'gul Black Garb",
+    "physicalDefense": {
+      "physical": 110,
+      "blunt": 90,
+      "thrust": 90,
+      "blood": 80
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 40,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 45,
+      "rapidPoison": 37,
+      "frenzy": 41
+    },
+    "beasthood": 37,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "22000": {
+    "item_img": "yahar'gul_black_gloves.png",
+    "item_name": "Yahar'gul Black Gloves",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 60,
+      "thrust": 60,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 40,
+      "bolt": 40
+    },
+    "resistance": {
+      "slowPoison": 24,
+      "rapidPoison": 20,
+      "frenzy": 22
+    },
+    "beasthood": 20,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "23000": {
+    "item_img": "yahar'gul_black_trousers.png",
+    "item_name": "Yahar'gul Black Trousers",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 60,
+      "thrust": 60,
+      "blood": 60
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 40,
+      "bolt": 40
+    },
+    "resistance": {
+      "slowPoison": 26,
+      "rapidPoison": 21,
+      "frenzy": 24
+    },
+    "beasthood": 21,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "30000": {
+    "item_img": "graveguard_mask.png",
+    "item_name": "Graveguard Mask",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 40,
+      "thrust": 50,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 40,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 16,
+      "rapidPoison": 16,
+      "frenzy": 32
+    },
+    "beasthood": 13,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "31000": {
+    "item_img": "graveguard_robe.png",
+    "item_name": "Graveguard Robe",
+    "physicalDefense": {
+      "physical": 80,
+      "blunt": 80,
+      "thrust": 90,
+      "blood": 80
+    },
+    "elementalDefense": {
+      "arcane": 100,
+      "fire": 80,
+      "bolt": 110
+    },
+    "resistance": {
+      "slowPoison": 50,
+      "rapidPoison": 49,
+      "frenzy": 49
+    },
+    "beasthood": 40,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "32000": {
+    "item_img": "graveguard_manchettes.png",
+    "item_name": "Graveguard Manchettes",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 50,
+      "thrust": 50,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 50,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 27,
+      "rapidPoison": 26,
+      "frenzy": 26
+    },
+    "beasthood": 22,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "33000": {
+    "item_img": "graveguard_kilt.png",
+    "item_name": "Graveguard Kilt",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 50,
+      "thrust": 60,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 60,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 29,
+      "rapidPoison": 28,
+      "frenzy": 28
+    },
+    "beasthood": 23,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "40000": {
+    "item_img": "bone_ash_mask.png",
+    "item_name": "Bone Ash Mask",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 30,
+      "thrust": 40,
+      "blood": 20
+    },
+    "elementalDefense": {
+      "arcane": 20,
+      "fire": 60,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 11,
+      "rapidPoison": 9,
+      "frenzy": 14
+    },
+    "beasthood": 8,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "41000": {
+    "item_img": "bone_ash_armor.png",
+    "item_name": "Bone Ash Armor",
+    "physicalDefense": {
+      "physical": 110,
+      "blunt": 80,
+      "thrust": 100,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 140,
+      "bolt": 140
+    },
+    "resistance": {
+      "slowPoison": 33,
+      "rapidPoison": 29,
+      "frenzy": 41
+    },
+    "beasthood": 25,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "42000": {
+    "item_img": "bone_ash_gauntlets.png",
+    "item_name": "Bone Ash Gauntlets",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 30,
+      "thrust": 50,
+      "blood": 30
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 70,
+      "bolt": 70
+    },
+    "resistance": {
+      "slowPoison": 17,
+      "rapidPoison": 15,
+      "frenzy": 22
+    },
+    "beasthood": 13,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "43000": {
+    "item_img": "bone_ash_leggings.png",
+    "item_name": "Bone Ash Leggings",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 40,
+      "thrust": 50,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 80,
+      "bolt": 70
+    },
+    "resistance": {
+      "slowPoison": 19,
+      "rapidPoison": 17,
+      "frenzy": 24
+    },
+    "beasthood": 15,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "50000": {
+    "item_img": "henryk's_hunter_cap.png",
+    "item_name": "Henryk's Hunter Cap",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 50,
+      "thrust": 40,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 20,
+      "fire": 30,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 7,
+      "rapidPoison": 14,
+      "frenzy": 15
+    },
+    "beasthood": 20,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "51000": {
+    "item_img": "henryk's_hunter_garb.png",
+    "item_name": "Henryk's Hunter Garb",
+    "physicalDefense": {
+      "physical": 100,
+      "blunt": 100,
+      "thrust": 80,
+      "blood": 80
+    },
+    "elementalDefense": {
+      "arcane": 70,
+      "fire": 100,
+      "bolt": 150
+    },
+    "resistance": {
+      "slowPoison": 21,
+      "rapidPoison": 41,
+      "frenzy": 45
+    },
+    "beasthood": 60,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "52000": {
+    "item_img": "henryk's_hunter_gloves.png",
+    "item_name": "Henryk's Hunter Gloves",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 40,
+      "thrust": 50,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 60,
+      "bolt": 70
+    },
+    "resistance": {
+      "slowPoison": 11,
+      "rapidPoison": 22,
+      "frenzy": 23
+    },
+    "beasthood": 32,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "53000": {
+    "item_img": "henryk's_hunter_trousers.png",
+    "item_name": "Henryk's Hunter Trousers",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 60,
+      "thrust": 60,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 60,
+      "bolt": 80
+    },
+    "resistance": {
+      "slowPoison": 12,
+      "rapidPoison": 24,
+      "frenzy": 25
+    },
+    "beasthood": 34,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "60000": {
+    "item_img": "yharnam_hunter_cap.png",
+    "item_name": "Yharnam Hunter Cap",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 40,
+      "thrust": 40,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 50,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 16,
+      "rapidPoison": 13,
+      "frenzy": 14
+    },
+    "beasthood": 16,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "61000": {
+    "item_img": "yharnam_hunter_garb.png",
+    "item_name": "Yharnam Hunter Garb",
+    "physicalDefense": {
+      "physical": 110,
+      "blunt": 80,
+      "thrust": 90,
+      "blood": 90
+    },
+    "elementalDefense": {
+      "arcane": 80,
+      "fire": 100,
+      "bolt": 90
+    },
+    "resistance": {
+      "slowPoison": 48,
+      "rapidPoison": 40,
+      "frenzy": 41
+    },
+    "beasthood": 48,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "62000": {
+    "item_img": "yharnam_hunter_trousers.png",
+    "item_name": "Yharnam Hunter Trousers",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 60,
+      "thrust": 60,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 60,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 27,
+      "rapidPoison": 23,
+      "frenzy": 24
+    },
+    "beasthood": 27,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "63000": {
+    "item_img": "yharnam_hunter_gloves.png",
+    "item_name": "Yharnam Hunter Gloves",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 50,
+      "thrust": 60,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 60,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 25,
+      "rapidPoison": 22,
+      "frenzy": 22
+    },
+    "beasthood": 25,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "70000": {
+    "item_img": "hunter_hat.png",
+    "item_name": "Hunter Hat",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 50,
+      "thrust": 40,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 20,
+      "fire": 50,
+      "bolt": 30
+    },
+    "resistance": {
+      "slowPoison": 5,
+      "rapidPoison": 11,
+      "frenzy": 14
+    },
+    "beasthood": 16,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "71000": {
+    "item_img": "hunter_garb_(cape).png",
+    "item_name": "Hunter Garb (Cape)",
+    "physicalDefense": {
+      "physical": 110,
+      "blunt": 110,
+      "thrust": 80,
+      "blood": 110
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 110,
+      "bolt": 70
+    },
+    "resistance": {
+      "slowPoison": 17,
+      "rapidPoison": 33,
+      "frenzy": 48
+    },
+    "beasthood": 44,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "72000": {
+    "item_img": "hunter_gloves.png",
+    "item_name": "Hunter Gloves",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 50,
+      "thrust": 50,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 60,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 9,
+      "rapidPoison": 17,
+      "frenzy": 27
+    },
+    "beasthood": 25,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "73000": {
+    "item_img": "hunter_trousers.png",
+    "item_name": "Hunter Trousers",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 60,
+      "thrust": 50,
+      "blood": 60
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 60,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 10,
+      "rapidPoison": 19,
+      "frenzy": 30
+    },
+    "beasthood": 27,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "80000": {
+    "item_img": "knight's_wig.png",
+    "item_name": "Knight's Wig",
+    "physicalDefense": {
+      "physical": 30,
+      "blunt": 40,
+      "thrust": 40,
+      "blood": 60
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 30,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 8,
+      "rapidPoison": 14,
+      "frenzy": 13
+    },
+    "beasthood": 12,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "81000": {
+    "item_img": "knight's_garb.png",
+    "item_name": "Knight's Garb",
+    "physicalDefense": {
+      "physical": 90,
+      "blunt": 70,
+      "thrust": 80,
+      "blood": 140
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 50,
+      "bolt": 80
+    },
+    "resistance": {
+      "slowPoison": 26,
+      "rapidPoison": 43,
+      "frenzy": 40
+    },
+    "beasthood": 36,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "82000": {
+    "item_img": "knight's_gloves.png",
+    "item_name": "Knight's Gloves",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 50,
+      "thrust": 50,
+      "blood": 70
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 40,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 13,
+      "rapidPoison": 22,
+      "frenzy": 21
+    },
+    "beasthood": 19,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "83000": {
+    "item_img": "knight's_trousers.png",
+    "item_name": "Knight's Trousers",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 50,
+      "thrust": 60,
+      "blood": 70
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 50,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 15,
+      "rapidPoison": 24,
+      "frenzy": 23
+    },
+    "beasthood": 21,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "90000": {
+    "item_img": "en5304.png",
+    "item_name": "[CUT] en5304.",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "91000": {
+    "item_img": "en5305.png",
+    "item_name": "[CUT] en5305 (FEMALE).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "100000": {
+    "item_img": "cainhurst_helmet.png",
+    "item_name": "Cainhurst Helmet",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 40,
+      "thrust": 40,
+      "blood": 60
+    },
+    "elementalDefense": {
+      "arcane": 20,
+      "fire": 40,
+      "bolt": 10
+    },
+    "resistance": {
+      "slowPoison": 12,
+      "rapidPoison": 13,
+      "frenzy": 8
+    },
+    "beasthood": 7,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "101000": {
+    "item_img": "cainhurst_armor.png",
+    "item_name": "Cainhurst Armor",
+    "physicalDefense": {
+      "physical": 120,
+      "blunt": 70,
+      "thrust": 110,
+      "blood": 120
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 80,
+      "bolt": 30
+    },
+    "resistance": {
+      "slowPoison": 36,
+      "rapidPoison": 40,
+      "frenzy": 26
+    },
+    "beasthood": 22,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "102000": {
+    "item_img": "cainhurst_gauntlets.png",
+    "item_name": "Cainhurst Gauntlets",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 30,
+      "thrust": 50,
+      "blood": 70
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 40,
+      "bolt": 30
+    },
+    "resistance": {
+      "slowPoison": 19,
+      "rapidPoison": 21,
+      "frenzy": 13
+    },
+    "beasthood": 11,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "103000": {
+    "item_img": "cainhurst_leggings.png",
+    "item_name": "Cainhurst Leggings",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 40,
+      "thrust": 60,
+      "blood": 70
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 40,
+      "bolt": 40
+    },
+    "resistance": {
+      "slowPoison": 21,
+      "rapidPoison": 23,
+      "frenzy": 15
+    },
+    "beasthood": 13,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "110000": {
+    "item_img": "black_church_hat.png",
+    "item_name": "Black Church Hat",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 40,
+      "thrust": 40,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 50,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 20,
+      "rapidPoison": 19,
+      "frenzy": 2
+    },
+    "beasthood": 13,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "111000": {
+    "item_img": "black_church_garb.png",
+    "item_name": "Black Church Garb",
+    "physicalDefense": {
+      "physical": 90,
+      "blunt": 90,
+      "thrust": 110,
+      "blood": 110
+    },
+    "elementalDefense": {
+      "arcane": 110,
+      "fire": 100,
+      "bolt": 110
+    },
+    "resistance": {
+      "slowPoison": 60,
+      "rapidPoison": 58,
+      "frenzy": 9
+    },
+    "beasthood": 40,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "112000": {
+    "item_img": "surgical_long_gloves.png",
+    "item_name": "Surgical Long Gloves",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 40,
+      "thrust": 50,
+      "blood": 70
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 50,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 32,
+      "rapidPoison": 31,
+      "frenzy": 4
+    },
+    "beasthood": 22,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "113000": {
+    "item_img": "black_church_trousers_or_dress.png",
+    "item_name": "Black Church Trousers/Dress",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 50,
+      "thrust": 60,
+      "blood": 70
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 60,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 34,
+      "rapidPoison": 33,
+      "frenzy": 5
+    },
+    "beasthood": 23,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "120000": {
+    "item_img": "blindfold_cap.png",
+    "item_name": "Blindfold Cap",
+    "physicalDefense": {
+      "physical": 30,
+      "blunt": 40,
+      "thrust": 40,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 70,
+      "fire": 50,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 15,
+      "rapidPoison": 13,
+      "frenzy": 4
+    },
+    "beasthood": 13,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "121000": {
+    "item_img": "choir_garb.png",
+    "item_name": "Choir Garb",
+    "physicalDefense": {
+      "physical": 80,
+      "blunt": 80,
+      "thrust": 80,
+      "blood": 80
+    },
+    "elementalDefense": {
+      "arcane": 150,
+      "fire": 110,
+      "bolt": 110
+    },
+    "resistance": {
+      "slowPoison": 46,
+      "rapidPoison": 38,
+      "frenzy": 16
+    },
+    "beasthood": 38,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "122000": {
+    "item_img": "choir_gloves.png",
+    "item_name": "Choir Gloves",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 40,
+      "thrust": 40,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 70,
+      "fire": 60,
+      "bolt": 70
+    },
+    "resistance": {
+      "slowPoison": 24,
+      "rapidPoison": 20,
+      "frenzy": 8
+    },
+    "beasthood": 20,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "123000": {
+    "item_img": "choir_trousers.png",
+    "item_name": "Choir Trousers",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 50,
+      "thrust": 50,
+      "blood": 60
+    },
+    "elementalDefense": {
+      "arcane": 80,
+      "fire": 60,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 26,
+      "rapidPoison": 22,
+      "frenzy": 9
+    },
+    "beasthood": 22,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "130000": {
+    "item_img": "gascoigne's_cap.png",
+    "item_name": "Gascoigne's Cap",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 40,
+      "thrust": 30,
+      "blood": 30
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 50,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 17,
+      "rapidPoison": 13,
+      "frenzy": 7
+    },
+    "beasthood": 15,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "131000": {
+    "item_img": "gascoigne's_garb.png",
+    "item_name": "Gascoigne's Garb",
+    "physicalDefense": {
+      "physical": 90,
+      "blunt": 110,
+      "thrust": 100,
+      "blood": 80
+    },
+    "elementalDefense": {
+      "arcane": 110,
+      "fire": 110,
+      "bolt": 100
+    },
+    "resistance": {
+      "slowPoison": 52,
+      "rapidPoison": 40,
+      "frenzy": 23
+    },
+    "beasthood": 45,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "132000": {
+    "item_img": "gascoigne's_gloves.png",
+    "item_name": "Gascoigne's Gloves",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 60,
+      "thrust": 60,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 60,
+      "bolt": 40
+    },
+    "resistance": {
+      "slowPoison": 28,
+      "rapidPoison": 21,
+      "frenzy": 12
+    },
+    "beasthood": 24,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "133000": {
+    "item_img": "gascoigne's_trousers.png",
+    "item_name": "Gascoigne's Trousers",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 60,
+      "thrust": 60,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 60,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 32,
+      "rapidPoison": 23,
+      "frenzy": 14
+    },
+    "beasthood": 26,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "140000": {
+    "item_img": "tomb_prospector_hood.png",
+    "item_name": "Tomb Prospector Hood",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 40,
+      "thrust": 50,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 50,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 18,
+      "rapidPoison": 16,
+      "frenzy": 4
+    },
+    "beasthood": 15,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "141000": {
+    "item_img": "tomb_prospector_garb.png",
+    "item_name": "Tomb Prospector Garb",
+    "physicalDefense": {
+      "physical": 90,
+      "blunt": 90,
+      "thrust": 100,
+      "blood": 90
+    },
+    "elementalDefense": {
+      "arcane": 120,
+      "fire": 100,
+      "bolt": 110
+    },
+    "resistance": {
+      "slowPoison": 55,
+      "rapidPoison": 57,
+      "frenzy": 13
+    },
+    "beasthood": 45,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "142000": {
+    "item_img": "tomb_prospector_gloves.png",
+    "item_name": "Tomb Prospector Gloves",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 40,
+      "thrust": 60,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 60,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 29,
+      "rapidPoison": 27,
+      "frenzy": 6
+    },
+    "beasthood": 24,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "143000": {
+    "item_img": "tomb_prospector_trousers.png",
+    "item_name": "Tomb Prospector Trousers",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 60,
+      "thrust": 60,
+      "blood": 60
+    },
+    "elementalDefense": {
+      "arcane": 70,
+      "fire": 60,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 31,
+      "rapidPoison": 29,
+      "frenzy": 8
+    },
+    "beasthood": 26,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "150000": {
+    "item_img": "gold_ardeo.png",
+    "item_name": "Gold Ardeo",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 40,
+      "thrust": 60,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 40,
+      "bolt": 70
+    },
+    "resistance": {
+      "slowPoison": 12,
+      "rapidPoison": 15,
+      "frenzy": 13
+    },
+    "beasthood": 16,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "151000": {
+    "item_img": "executioner_garb.png",
+    "item_name": "Executioner Garb",
+    "physicalDefense": {
+      "physical": 90,
+      "blunt": 120,
+      "thrust": 110,
+      "blood": 100
+    },
+    "elementalDefense": {
+      "arcane": 110,
+      "fire": 90,
+      "bolt": 100
+    },
+    "resistance": {
+      "slowPoison": 53,
+      "rapidPoison": 45,
+      "frenzy": 17
+    },
+    "beasthood": 45,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "152000": {
+    "item_img": "executioner_gauntlets.png",
+    "item_name": "Executioner Gauntlets",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 60,
+      "thrust": 40,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 50,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 26,
+      "rapidPoison": 24,
+      "frenzy": 9
+    },
+    "beasthood": 24,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "153000": {
+    "item_img": "executioner_trousers.png",
+    "item_name": "Executioner Trousers",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 70,
+      "thrust": 50,
+      "blood": 60
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 60,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 30,
+      "rapidPoison": 26,
+      "frenzy": 10
+    },
+    "beasthood": 26,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "160000": {
+    "item_img": "",
+    "item_name": "[CUT] Executioner Otto (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "161000": {
+    "item_img": "",
+    "item_name": "[CUT] Executioner Otto (Torso)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "162000": {
+    "item_img": "",
+    "item_name": "[CUT] Executioner Otto (Arms)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "163000": {
+    "item_img": "",
+    "item_name": "[CUT] Executioner Otto (Legs)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "170000": {
+    "item_img": "",
+    "item_name": "[CUT] Yharnam Spy (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "171000": {
+    "item_img": "",
+    "item_name": "[CUT] Yharnam Spy (Torso)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "172000": {
+    "item_img": "",
+    "item_name": "[CUT] Yharnam Spy (Arms)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "173000": {
+    "item_img": "",
+    "item_name": "[CUT] Yharnam Spy (Legs)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "180000": {
+    "item_img": "beak_mask.png",
+    "item_name": "Beak Mask",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 40,
+      "thrust": 40,
+      "blood": 60
+    },
+    "elementalDefense": {
+      "arcane": 30,
+      "fire": 40,
+      "bolt": 30
+    },
+    "resistance": {
+      "slowPoison": 8,
+      "rapidPoison": 10,
+      "frenzy": 40
+    },
+    "beasthood": 2,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "181000": {
+    "item_img": "crowfeather_garb.png",
+    "item_name": "Crowfeather Garb",
+    "physicalDefense": {
+      "physical": 100,
+      "blunt": 110,
+      "thrust": 80,
+      "blood": 120
+    },
+    "elementalDefense": {
+      "arcane": 70,
+      "fire": 80,
+      "bolt": 70
+    },
+    "resistance": {
+      "slowPoison": 29,
+      "rapidPoison": 37,
+      "frenzy": 46
+    },
+    "beasthood": 21,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "182000": {
+    "item_img": "crowfeather_manchettes.png",
+    "item_name": "Crowfeather Manchettes",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 60,
+      "thrust": 50,
+      "blood": 70
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 50,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 15,
+      "rapidPoison": 20,
+      "frenzy": 25
+    },
+    "beasthood": 11,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "183000": {
+    "item_img": "crowfeather_trousers.png",
+    "item_name": "Crowfeather Trousers",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 70,
+      "thrust": 50,
+      "blood": 70
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 50,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 17,
+      "rapidPoison": 21,
+      "frenzy": 27
+    },
+    "beasthood": 12,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "190000": {
+    "item_img": "mensis_cage.png",
+    "item_name": "Mensis Cage",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 20,
+      "thrust": 10,
+      "blood": 30
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 20,
+      "bolt": 10
+    },
+    "resistance": {
+      "slowPoison": 8,
+      "rapidPoison": 13,
+      "frenzy": 2
+    },
+    "beasthood": 5,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "191000": {
+    "item_img": "student_uniform.png",
+    "item_name": "Student Uniform",
+    "physicalDefense": {
+      "physical": 70,
+      "blunt": 60,
+      "thrust": 60,
+      "blood": 90
+    },
+    "elementalDefense": {
+      "arcane": 140,
+      "fire": 60,
+      "bolt": 70
+    },
+    "resistance": {
+      "slowPoison": 42,
+      "rapidPoison": 31,
+      "frenzy": 35
+    },
+    "beasthood": 45,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "192000": {
+    "item_img": "",
+    "item_name": "[CUT] Nightmare Lord (Arms)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "193000": {
+    "item_img": "student_trousers.png",
+    "item_name": "Student Trousers",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 50,
+      "thrust": 50,
+      "blood": 60
+    },
+    "elementalDefense": {
+      "arcane": 70,
+      "fire": 50,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 24,
+      "rapidPoison": 18,
+      "frenzy": 19
+    },
+    "beasthood": 19,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "200000": {
+    "item_img": "gehrman's_hunter_cap.png",
+    "item_name": "Gehrman's Hunter Cap",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 40,
+      "thrust": 40,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 30,
+      "fire": 40,
+      "bolt": 30
+    },
+    "resistance": {
+      "slowPoison": 11,
+      "rapidPoison": 12,
+      "frenzy": 17
+    },
+    "beasthood": 15,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "201000": {
+    "item_img": "gehrman's_hunter_garb.png",
+    "item_name": "Gehrman's Hunter Garb",
+    "physicalDefense": {
+      "physical": 100,
+      "blunt": 80,
+      "thrust": 80,
+      "blood": 100
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 80,
+      "bolt": 70
+    },
+    "resistance": {
+      "slowPoison": 33,
+      "rapidPoison": 37,
+      "frenzy": 52
+    },
+    "beasthood": 46,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "203000": {
+    "item_img": "gehrman's_hunter_trousers.png",
+    "item_name": "Gehrman's Hunter Trousers",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 50,
+      "thrust": 50,
+      "blood": 60
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 50,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 19,
+      "rapidPoison": 21,
+      "frenzy": 29
+    },
+    "beasthood": 27,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "210000": {
+    "item_img": "madman_hood.png",
+    "item_name": "Madman Hood",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 30,
+      "thrust": 40,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 50,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 18,
+      "rapidPoison": 17,
+      "frenzy": 1
+    },
+    "beasthood": 9,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "211000": {
+    "item_img": "madman_garb.png",
+    "item_name": "Madman Garb",
+    "physicalDefense": {
+      "physical": 80,
+      "blunt": 70,
+      "thrust": 80,
+      "blood": 80
+    },
+    "elementalDefense": {
+      "arcane": 120,
+      "fire": 110,
+      "bolt": 110
+    },
+    "resistance": {
+      "slowPoison": 59,
+      "rapidPoison": 52,
+      "frenzy": 4
+    },
+    "beasthood": 29,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "212000": {
+    "item_img": "madman_manchettes.png",
+    "item_name": "Madman Manchettes",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 40,
+      "thrust": 50,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 60,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 29,
+      "rapidPoison": 27,
+      "frenzy": 1
+    },
+    "beasthood": 15,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "213000": {
+    "item_img": "madman_leggings.png",
+    "item_name": "Madman Leggings",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 50,
+      "thrust": 60,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 70,
+      "fire": 40,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 33,
+      "rapidPoison": 29,
+      "frenzy": 2
+    },
+    "beasthood": 17,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "220000": {
+    "item_img": "doll_hat.png",
+    "item_name": "Doll Hat",
+    "physicalDefense": {
+      "physical": 10,
+      "blunt": 10,
+      "thrust": 10,
+      "blood": 20
+    },
+    "elementalDefense": {
+      "arcane": 20,
+      "fire": 30,
+      "bolt": 20
+    },
+    "resistance": {
+      "slowPoison": 14,
+      "rapidPoison": 10,
+      "frenzy": 13
+    },
+    "beasthood": 10,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "221000": {
+    "item_img": "doll_clothes.png",
+    "item_name": "Doll Clothes",
+    "physicalDefense": {
+      "physical": 30,
+      "blunt": 30,
+      "thrust": 30,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 50,
+      "bolt": 40
+    },
+    "resistance": {
+      "slowPoison": 42,
+      "rapidPoison": 31,
+      "frenzy": 38
+    },
+    "beasthood": 31,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "222000": {
+    "item_img": "doll_gloves.png",
+    "item_name": "Doll Gloves",
+    "physicalDefense": {
+      "physical": 30,
+      "blunt": 30,
+      "thrust": 30,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 50,
+      "bolt": 40
+    },
+    "resistance": {
+      "slowPoison": 22,
+      "rapidPoison": 16,
+      "frenzy": 20
+    },
+    "beasthood": 16,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "223000": {
+    "item_img": "doll_skirt.png",
+    "item_name": "Doll Skirt",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 40,
+      "thrust": 40,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 60,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 24,
+      "rapidPoison": 18,
+      "frenzy": 22
+    },
+    "beasthood": 18,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "230000": {
+    "item_img": "black_hood.png",
+    "item_name": "Black Hood",
+    "physicalDefense": {
+      "physical": 20,
+      "blunt": 30,
+      "thrust": 20,
+      "blood": 30
+    },
+    "elementalDefense": {
+      "arcane": 20,
+      "fire": 30,
+      "bolt": 30
+    },
+    "resistance": {
+      "slowPoison": 8,
+      "rapidPoison": 6,
+      "frenzy": 8
+    },
+    "beasthood": 4,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "231000": {
+    "item_img": "foreign_garb.png",
+    "item_name": "Foreign Garb",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 60,
+      "thrust": 40,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 60,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 27,
+      "rapidPoison": 19,
+      "frenzy": 27
+    },
+    "beasthood": 16,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "232000": {
+    "item_img": "sullied_bandage.png",
+    "item_name": "Sullied Bandage",
+    "physicalDefense": {
+      "physical": 30,
+      "blunt": 40,
+      "thrust": 30,
+      "blood": 30
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 40,
+      "bolt": 40
+    },
+    "resistance": {
+      "slowPoison": 14,
+      "rapidPoison": 10,
+      "frenzy": 14
+    },
+    "beasthood": 8,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "233000": {
+    "item_img": "foreign_trousers.png",
+    "item_name": "Foreign Trousers",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 50,
+      "thrust": 40,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 50,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 16,
+      "rapidPoison": 11,
+      "frenzy": 16
+    },
+    "beasthood": 9,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "240000": {
+    "item_img": "",
+    "item_name": "[CUT] Stealth (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "241000": {
+    "item_img": "ashen_hunter_garb.png",
+    "item_name": "Ashen Hunter Garb",
+    "physicalDefense": {
+      "physical": 100,
+      "blunt": 110,
+      "thrust": 80,
+      "blood": 110
+    },
+    "elementalDefense": {
+      "arcane": 70,
+      "fire": 50,
+      "bolt": 70
+    },
+    "resistance": {
+      "slowPoison": 25,
+      "rapidPoison": 45,
+      "frenzy": 60
+    },
+    "beasthood": 70,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "242000": {
+    "item_img": "ashen_hunter_gloves.png",
+    "item_name": "Ashen Hunter Gloves",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 60,
+      "thrust": 50,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 40,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 13,
+      "rapidPoison": 24,
+      "frenzy": 28
+    },
+    "beasthood": 32,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "243000": {
+    "item_img": "ashen_hunter_trousers.png",
+    "item_name": "Ashen Hunter Trousers",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 50,
+      "thrust": 50,
+      "blood": 60
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 50,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 15,
+      "rapidPoison": 26,
+      "frenzy": 30
+    },
+    "beasthood": 37,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "250000": {
+    "item_img": "crown_of_illusions.png",
+    "item_name": "Crown of Illusions",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 30,
+      "thrust": 20,
+      "blood": 70
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 30,
+      "bolt": 20
+    },
+    "resistance": {
+      "slowPoison": 7,
+      "rapidPoison": 7,
+      "frenzy": 4
+    },
+    "beasthood": 4,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "260000": {
+    "item_img": "master's_iron_helm.png",
+    "item_name": "Master's Iron Helm",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 20,
+      "thrust": 50,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 20,
+      "fire": 30,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 6,
+      "rapidPoison": 10,
+      "frenzy": 13
+    },
+    "beasthood": 23,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "270000": {
+    "item_img": "iron_yahar'gul_helm.png",
+    "item_name": "Iron Yahar'gul Helm",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 40,
+      "thrust": 10,
+      "blood": 20
+    },
+    "elementalDefense": {
+      "arcane": 20,
+      "fire": 30,
+      "bolt": 10
+    },
+    "resistance": {
+      "slowPoison": 5,
+      "rapidPoison": 7,
+      "frenzy": 9
+    },
+    "beasthood": 12,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "280000": {
+    "item_img": "top_hat.png",
+    "item_name": "Top Hat",
+    "physicalDefense": {
+      "physical": 30,
+      "blunt": 70,
+      "thrust": 40,
+      "blood": 20
+    },
+    "elementalDefense": {
+      "arcane": 20,
+      "fire": 30,
+      "bolt": 40
+    },
+    "resistance": {
+      "slowPoison": 14,
+      "rapidPoison": 13,
+      "frenzy": 10
+    },
+    "beasthood": 8,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "281000": {
+    "item_img": "hunter_garb.png",
+    "item_name": "Hunter Garb",
+    "physicalDefense": {
+      "physical": 110,
+      "blunt": 100,
+      "thrust": 80,
+      "blood": 110
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 110,
+      "bolt": 70
+    },
+    "resistance": {
+      "slowPoison": 17,
+      "rapidPoison": 33,
+      "frenzy": 56
+    },
+    "beasthood": 58,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "290000": {
+    "item_img": "white_church_hat.png",
+    "item_name": "White Church Hat",
+    "physicalDefense": {
+      "physical": 30,
+      "blunt": 40,
+      "thrust": 40,
+      "blood": 60
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 60,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 21,
+      "rapidPoison": 18,
+      "frenzy": 3
+    },
+    "beasthood": 12,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "291000": {
+    "item_img": "white_church_garb.png",
+    "item_name": "White Church Garb",
+    "physicalDefense": {
+      "physical": 80,
+      "blunt": 80,
+      "thrust": 110,
+      "blood": 120
+    },
+    "elementalDefense": {
+      "arcane": 110,
+      "fire": 100,
+      "bolt": 110
+    },
+    "resistance": {
+      "slowPoison": 63,
+      "rapidPoison": 53,
+      "frenzy": 11
+    },
+    "beasthood": 36,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "293000": {
+    "item_img": "white_church_trousers_or_dress.png",
+    "item_name": "White Church Trousers/Dress",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 40,
+      "thrust": 50,
+      "blood": 80
+    },
+    "elementalDefense": {
+      "arcane": 70,
+      "fire": 60,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 36,
+      "rapidPoison": 31,
+      "frenzy": 7
+    },
+    "beasthood": 21,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "301000": {
+    "item_img": "student_uniform_(cape).png",
+    "item_name": "Student Uniform (Cape)",
+    "physicalDefense": {
+      "physical": 70,
+      "blunt": 70,
+      "thrust": 70,
+      "blood": 100
+    },
+    "elementalDefense": {
+      "arcane": 140,
+      "fire": 60,
+      "bolt": 70
+    },
+    "resistance": {
+      "slowPoison": 42,
+      "rapidPoison": 31,
+      "frenzy": 35
+    },
+    "beasthood": 35,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "311000": {
+    "item_img": "noble_dress.png",
+    "item_name": "Noble Dress",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 60,
+      "thrust": 40,
+      "blood": 130
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 40,
+      "bolt": 70
+    },
+    "resistance": {
+      "slowPoison": 23,
+      "rapidPoison": 31,
+      "frenzy": 27
+    },
+    "beasthood": 38,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "313000": {
+    "item_img": "arianna's_shoes.png",
+    "item_name": "Arianna's Shoes",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 50,
+      "thrust": 40,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 40,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 14,
+      "rapidPoison": 18,
+      "frenzy": 16
+    },
+    "beasthood": 22,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "320000": {
+    "item_img": "rumpled_yharnam_hat.png",
+    "item_name": "Rumpled Yharnam Hat",
+    "physicalDefense": {
+      "physical": 20,
+      "blunt": 20,
+      "thrust": 20,
+      "blood": 10
+    },
+    "elementalDefense": {
+      "arcane": 20,
+      "fire": 60,
+      "bolt": 30
+    },
+    "resistance": {
+      "slowPoison": 8,
+      "rapidPoison": 11,
+      "frenzy": 13
+    },
+    "beasthood": 8,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "321000": {
+    "item_img": "sweaty_clothes.png",
+    "item_name": "Sweaty Clothes",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 50,
+      "thrust": 50,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 100,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 27,
+      "rapidPoison": 35,
+      "frenzy": 38
+    },
+    "beasthood": 27,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "330000": {
+    "item_img": "butcher_mask.png",
+    "item_name": "Butcher Mask",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 30,
+      "thrust": 50,
+      "blood": 30
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 30,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 20,
+      "rapidPoison": 19,
+      "frenzy": 11
+    },
+    "beasthood": 9,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "331000": {
+    "item_img": "butcher_garb.png",
+    "item_name": "Butcher Garb",
+    "physicalDefense": {
+      "physical": 100,
+      "blunt": 60,
+      "thrust": 100,
+      "blood": 60
+    },
+    "elementalDefense": {
+      "arcane": 90,
+      "fire": 70,
+      "bolt": 110
+    },
+    "resistance": {
+      "slowPoison": 53,
+      "rapidPoison": 59,
+      "frenzy": 33
+    },
+    "beasthood": 29,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "332000": {
+    "item_img": "butcher_gloves.png",
+    "item_name": "Butcher Gloves",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 40,
+      "thrust": 60,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 40,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 27,
+      "rapidPoison": 31,
+      "frenzy": 17
+    },
+    "beasthood": 15,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "333000": {
+    "item_img": "butcher_trousers.png",
+    "item_name": "Butcher Trousers",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 40,
+      "thrust": 60,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 50,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 32,
+      "rapidPoison": 34,
+      "frenzy": 19
+    },
+    "beasthood": 17,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "340000": {
+    "item_img": "harrowed_hood.png",
+    "item_name": "Harrowed Hood",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 40,
+      "thrust": 50,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 50,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 20,
+      "rapidPoison": 19,
+      "frenzy": 2
+    },
+    "beasthood": 18,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "341000": {
+    "item_img": "harrowed_garb.png",
+    "item_name": "Harrowed Garb",
+    "physicalDefense": {
+      "physical": 120,
+      "blunt": 80,
+      "thrust": 90,
+      "blood": 90
+    },
+    "elementalDefense": {
+      "arcane": 110,
+      "fire": 90,
+      "bolt": 110
+    },
+    "resistance": {
+      "slowPoison": 56,
+      "rapidPoison": 58,
+      "frenzy": 9
+    },
+    "beasthood": 44,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "342000": {
+    "item_img": "harrowed_gloves.png",
+    "item_name": "Harrowed Gloves",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 40,
+      "thrust": 40,
+      "blood": 60
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 40,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 35,
+      "rapidPoison": 31,
+      "frenzy": 4
+    },
+    "beasthood": 25,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "343000": {
+    "item_img": "harrowed_trousers.png",
+    "item_name": "Harrowed Trousers",
+    "physicalDefense": {
+      "physical": 70,
+      "blunt": 50,
+      "thrust": 50,
+      "blood": 60
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 50,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 38,
+      "rapidPoison": 33,
+      "frenzy": 5
+    },
+    "beasthood": 27,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "350000": {
+    "item_img": "old_hunter_cap.png",
+    "item_name": "Old Hunter Cap",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 30,
+      "thrust": 40,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 30,
+      "fire": 60,
+      "bolt": 20
+    },
+    "resistance": {
+      "slowPoison": 11,
+      "rapidPoison": 5,
+      "frenzy": 13
+    },
+    "beasthood": 19,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "351000": {
+    "item_img": "old_hunter_garb.png",
+    "item_name": "Old Hunter Garb",
+    "physicalDefense": {
+      "physical": 100,
+      "blunt": 70,
+      "thrust": 80,
+      "blood": 100
+    },
+    "elementalDefense": {
+      "arcane": 70,
+      "fire": 120,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 36,
+      "rapidPoison": 19,
+      "frenzy": 44
+    },
+    "beasthood": 48,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "352000": {
+    "item_img": "old_hunter_gloves.png",
+    "item_name": "Old Hunter Gloves",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 50,
+      "thrust": 50,
+      "blood": 60
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 70,
+      "bolt": 40
+    },
+    "resistance": {
+      "slowPoison": 19,
+      "rapidPoison": 10,
+      "frenzy": 23
+    },
+    "beasthood": 29,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "353000": {
+    "item_img": "old_hunter_trousers.png",
+    "item_name": "Old Hunter Trousers",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 50,
+      "thrust": 60,
+      "blood": 60
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 70,
+      "bolt": 40
+    },
+    "resistance": {
+      "slowPoison": 20,
+      "rapidPoison": 11,
+      "frenzy": 25
+    },
+    "beasthood": 33,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "360000": {
+    "item_img": "old_hunter_top_hat.png",
+    "item_name": "Old Hunter Top Hat",
+    "physicalDefense": {
+      "physical": 30,
+      "blunt": 60,
+      "thrust": 40,
+      "blood": 30
+    },
+    "elementalDefense": {
+      "arcane": 30,
+      "fire": 20,
+      "bolt": 40
+    },
+    "resistance": {
+      "slowPoison": 8,
+      "rapidPoison": 5,
+      "frenzy": 17
+    },
+    "beasthood": 13,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "361000": {
+    "item_img": "decorative_old_hunter_garb.png",
+    "item_name": "Decorative Old Hunter Garb",
+    "physicalDefense": {
+      "physical": 110,
+      "blunt": 70,
+      "thrust": 80,
+      "blood": 110
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 120,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 36,
+      "rapidPoison": 23,
+      "frenzy": 38
+    },
+    "beasthood": 48,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "363000": {
+    "item_img": "decorative_old_hunter_trousers.png",
+    "item_name": "Decorative Old Hunter Trousers",
+    "physicalDefense": {
+      "physical": 70,
+      "blunt": 50,
+      "thrust": 50,
+      "blood": 70
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 70,
+      "bolt": 40
+    },
+    "resistance": {
+      "slowPoison": 19,
+      "rapidPoison": 13,
+      "frenzy": 20
+    },
+    "beasthood": 29,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "370000": {
+    "item_img": "maria_hunter_cap.png",
+    "item_name": "Maria Hunter Cap",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 40,
+      "thrust": 40,
+      "blood": 70
+    },
+    "elementalDefense": {
+      "arcane": 30,
+      "fire": 40,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 6,
+      "rapidPoison": 17,
+      "frenzy": 10
+    },
+    "beasthood": 4,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "371000": {
+    "item_img": "maria_hunter_garb.png",
+    "item_name": "Maria Hunter Garb",
+    "physicalDefense": {
+      "physical": 80,
+      "blunt": 70,
+      "thrust": 80,
+      "blood": 150
+    },
+    "elementalDefense": {
+      "arcane": 70,
+      "fire": 60,
+      "bolt": 80
+    },
+    "resistance": {
+      "slowPoison": 20,
+      "rapidPoison": 51,
+      "frenzy": 30
+    },
+    "beasthood": 16,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "372000": {
+    "item_img": "maria_hunter_gloves.png",
+    "item_name": "Maria Hunter Gloves",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 50,
+      "thrust": 50,
+      "blood": 70
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 50,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 10,
+      "rapidPoison": 27,
+      "frenzy": 15
+    },
+    "beasthood": 8,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "373000": {
+    "item_img": "maria_hunter_trousers.png",
+    "item_name": "Maria Hunter Trousers",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 50,
+      "thrust": 60,
+      "blood": 80
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 50,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 11,
+      "rapidPoison": 30,
+      "frenzy": 17
+    },
+    "beasthood": 9,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "380000": {
+    "item_img": "master's_iron_helm.png",
+    "item_name": "One-eyed Iron Helm",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 20,
+      "thrust": 50,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 20,
+      "fire": 30,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 6,
+      "rapidPoison": 10,
+      "frenzy": 13
+    },
+    "beasthood": 23,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "381000": {
+    "item_img": "constable's_garb.png",
+    "item_name": "Constable's Garb",
+    "physicalDefense": {
+      "physical": 90,
+      "blunt": 100,
+      "thrust": 70,
+      "blood": 80
+    },
+    "elementalDefense": {
+      "arcane": 100,
+      "fire": 110,
+      "bolt": 120
+    },
+    "resistance": {
+      "slowPoison": 44,
+      "rapidPoison": 35,
+      "frenzy": 23
+    },
+    "beasthood": 52,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "382000": {
+    "item_img": "constable's_gloves.png",
+    "item_name": "Constable's Gloves",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 60,
+      "thrust": 50,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 60,
+      "bolt": 60
+    },
+    "resistance": {
+      "slowPoison": 23,
+      "rapidPoison": 17,
+      "frenzy": 12
+    },
+    "beasthood": 31,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "383000": {
+    "item_img": "constable's_trousers.png",
+    "item_name": "Constable's Trousers",
+    "physicalDefense": {
+      "physical": 60,
+      "blunt": 60,
+      "thrust": 50,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 60,
+      "bolt": 70
+    },
+    "resistance": {
+      "slowPoison": 25,
+      "rapidPoison": 18,
+      "frenzy": 14
+    },
+    "beasthood": 35,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "390000": {
+    "item_img": "brador's_testimony.png",
+    "item_name": "Brador's Testimony",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 60,
+      "thrust": 50,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 20,
+      "fire": 20,
+      "bolt": 30
+    },
+    "resistance": {
+      "slowPoison": 18,
+      "rapidPoison": 10,
+      "frenzy": 6
+    },
+    "beasthood": 56,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "391000": {
+    "item_img": "beast_hide_garb.png",
+    "item_name": "Beast Hide Garb",
+    "physicalDefense": {
+      "physical": 120,
+      "blunt": 120,
+      "thrust": 70,
+      "blood": 80
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 40,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 38,
+      "rapidPoison": 31,
+      "frenzy": 20
+    },
+    "beasthood": 66,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "392000": {
+    "item_img": "bloodied_arm_bands.png",
+    "item_name": "Bloodied Arm Bands",
+    "physicalDefense": {
+      "physical": 30,
+      "blunt": 40,
+      "thrust": 30,
+      "blood": 40
+    },
+    "elementalDefense": {
+      "arcane": 40,
+      "fire": 30,
+      "bolt": 40
+    },
+    "resistance": {
+      "slowPoison": 10,
+      "rapidPoison": 14,
+      "frenzy": 14
+    },
+    "beasthood": 36,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "393000": {
+    "item_img": "bloodied_trousers.png",
+    "item_name": "Bloodied Trousers",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 50,
+      "thrust": 40,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 40,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 11,
+      "rapidPoison": 16,
+      "frenzy": 16
+    },
+    "beasthood": 46,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "400000": {
+    "item_img": "yamamura_hunter_hat.png",
+    "item_name": "Yamamura Hunter Hat",
+    "physicalDefense": {
+      "physical": 50,
+      "blunt": 30,
+      "thrust": 40,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 30,
+      "fire": 60,
+      "bolt": 20
+    },
+    "resistance": {
+      "slowPoison": 5,
+      "rapidPoison": 11,
+      "frenzy": 19
+    },
+    "beasthood": 13,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "401000": {
+    "item_img": "khaki_haori.png",
+    "item_name": "Khaki Haori",
+    "physicalDefense": {
+      "physical": 80,
+      "blunt": 60,
+      "thrust": 70,
+      "blood": 90
+    },
+    "elementalDefense": {
+      "arcane": 80,
+      "fire": 130,
+      "bolt": 70
+    },
+    "resistance": {
+      "slowPoison": 37,
+      "rapidPoison": 34,
+      "frenzy": 25
+    },
+    "beasthood": 18,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "402000": {
+    "item_img": "old_hunter_arm_bands.png",
+    "item_name": "Old Hunter Arm Bands",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 40,
+      "thrust": 40,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 90,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 19,
+      "rapidPoison": 17,
+      "frenzy": 12
+    },
+    "beasthood": 11,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "403000": {
+    "item_img": "wine_hakama.png",
+    "item_name": "Wine Hakama",
+    "physicalDefense": {
+      "physical": 40,
+      "blunt": 40,
+      "thrust": 50,
+      "blood": 50
+    },
+    "elementalDefense": {
+      "arcane": 60,
+      "fire": 90,
+      "bolt": 50
+    },
+    "resistance": {
+      "slowPoison": 21,
+      "rapidPoison": 19,
+      "frenzy": 19
+    },
+    "beasthood": 15,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "410000": {
+    "item_img": "",
+    "item_name": "[CUT] Beast head.",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "411000": {
+    "item_img": "",
+    "item_name": "[CUT] Beast body.",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "412000": {
+    "item_img": "",
+    "item_name": "[CUT] Beast arms.",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "413000": {
+    "item_img": "",
+    "item_name": "[CUT] Beast legs.",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "420000": {
+    "item_img": "",
+    "item_name": "[CUT] Kin transform (Head).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "421000": {
+    "item_img": "",
+    "item_name": "[CUT] Kin transform (Body).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "422000": {
+    "item_img": "",
+    "item_name": "[CUT] Kin transform (Arms).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "423000": {
+    "item_img": "",
+    "item_name": "[CUT] Kin transform (Legs).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "430000": {
+    "item_img": "enlarged_head.png",
+    "item_name": "Enlarged Head",
+    "physicalDefense": {
+      "physical": 20,
+      "blunt": 60,
+      "thrust": 0,
+      "blood": 20
+    },
+    "elementalDefense": {
+      "arcane": 50,
+      "fire": 20,
+      "bolt": 20
+    },
+    "resistance": {
+      "slowPoison": 6,
+      "rapidPoison": 6,
+      "frenzy": 1
+    },
+    "beasthood": 0,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "440000": {
+    "item_img": "",
+    "item_name": "[CUT] Madman? (GHOST) (Head).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "441000": {
+    "item_img": "",
+    "item_name": "[CUT] Madman? (GHOST) (Chest).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "442000": {
+    "item_img": "",
+    "item_name": "[CUT] Madman? (GHOST) (Arms).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "443000": {
+    "item_img": "",
+    "item_name": "[CUT] Madman? (GHOST) (Legs).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "450000": {
+    "item_img": "",
+    "item_name": "[CUT] Harrowed (GHOST) (Head).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "451000": {
+    "item_img": "",
+    "item_name": "[CUT] Harrowed (GHOST) (Body).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "452000": {
+    "item_img": "",
+    "item_name": "[CUT] Harrowed (GHOST) (Arms).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "453000": {
+    "item_img": "",
+    "item_name": "[CUT] Harrowed (GHOST) (Legs).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "460000": {
+    "item_img": "",
+    "item_name": "[CUT] Maria Hunter (GHOST) (Head).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "461000": {
+    "item_img": "",
+    "item_name": "[CUT] Maria Hunter (GHOST) (Body).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "470000": {
+    "item_img": "",
+    "item_name": "[CUT] Master's iron helm (GHOST) (Head).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "471000": {
+    "item_img": "",
+    "item_name": "[CUT] ? (GHOST) (Body).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "480000": {
+    "item_img": "",
+    "item_name": "[CUT] Bloody Executioner (MALE) (Head).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "481000": {
+    "item_img": "",
+    "item_name": "[CUT] Bloody Executioner (MALE) (Body).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "482000": {
+    "item_img": "",
+    "item_name": "[CUT] Bloody Executioner (MALE) (Arms).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "483000": {
+    "item_img": "",
+    "item_name": "[CUT] Bloody Executioner (MALE) (Legs).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "490000": {
+    "item_img": "",
+    "item_name": "[CUT] Bloody Eileen (FEMALE) (Head).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "491000": {
+    "item_img": "",
+    "item_name": "[CUT] Bloody Eileen (FEMALE) (Body).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "492000": {
+    "item_img": "",
+    "item_name": "[CUT] Bloody Eileen (FEMALE) (Arms).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "493000": {
+    "item_img": "",
+    "item_name": "[CUT] Bloody Eileen (FEMALE) (Legs).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "503000": {
+    "item_img": "",
+    "item_name": "[CUT] Iosefka's Skirt Barefoot (FEMALE) (Legs).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "511000": {
+    "item_img": "",
+    "item_name": "[CUT] Arianna's Pregnant (FEMALE) (Body).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "521000": {
+    "item_img": "",
+    "item_name": "[CUT] Old Woman Clothes (FEMALE) (Body).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "531000": {
+    "item_img": "",
+    "item_name": "[CUT] BECOME ANNALISE (FEMALE) (Body).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "541000": {
+    "item_img": "",
+    "item_name": "[CUT] Bloody Adella Robe (FEMALE).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "542000": {
+    "item_img": "",
+    "item_name": "[CUT] Bloody Adella Gloves (FEMALE).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "543000": {
+    "item_img": "",
+    "item_name": "[CUT] Bloody Adella Skirt (FEMALE).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "550000": {
+    "item_img": "",
+    "item_name": "[CUT] Suspicious Beggar Headpiece (MALE).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "563000": {
+    "item_img": "",
+    "item_name": "[CUT] Mad Heretic (Bloodstained) (Legs)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "571000": {
+    "item_img": "",
+    "item_name": "[CUT] Bloody Arianna Dress (FEMALE).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "573000": {
+    "item_img": "",
+    "item_name": "[CUT] Prostitute (Post-Birth) (Legs)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "581000": {
+    "item_img": "",
+    "item_name": "[CUT] WHITE CHURCH SET? (Body).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "582000": {
+    "item_img": "",
+    "item_name": "[CUT] BLACK UNTEXTURED (Arms).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "592000": {
+    "item_img": "",
+    "item_name": "[CUT] UNTEXTURED BEAST ARMS (Arms).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "600000": {
+    "item_img": "",
+    "item_name": "[CUT] Black Iron Hood (GHOST).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "602000": {
+    "item_img": "",
+    "item_name": "[CUT] Black Iron Arms (GHOST).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Hands",
+    "item_desc": ""
+  },
+  "610000": {
+    "item_img": "",
+    "item_name": "[CUT] Graveguard Hood (GHOST).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "611000": {
+    "item_img": "",
+    "item_name": "[CUT] Graveguard Robe (GHOST).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "620000": {
+    "item_img": "",
+    "item_name": "[CUT] Bone Ash Hat (GHOST).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "621000": {
+    "item_img": "",
+    "item_name": "[CUT] Bone Ash Body (GHOST).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "623000": {
+    "item_img": "",
+    "item_name": "[CUT] Bone Ash Leggings (GHOST).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "630000": {
+    "item_img": "",
+    "item_name": "[CUT] Knight Wig (GHOST).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Head",
+    "item_desc": ""
+  },
+  "631000": {
+    "item_img": "",
+    "item_name": "[CUT] Knight Armor (GHOST).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "633000": {
+    "item_img": "",
+    "item_name": "[CUT] Knight Leggings (GHOST).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Legs",
+    "item_desc": ""
+  },
+  "641000": {
+    "item_img": "",
+    "item_name": "[CUT] Dress (GHOST).",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "Chest",
+    "item_desc": ""
+  },
+  "650000": {
+    "item_img": "",
+    "item_name": "[CUT] Vampire Knight (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "651000": {
+    "item_img": "",
+    "item_name": "[CUT] Vampire Knight (Torso)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "653000": {
+    "item_img": "",
+    "item_name": "[CUT] Vampire Knight (Legs)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "660000": {
+    "item_img": "",
+    "item_name": "[CUT] Choir (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "661000": {
+    "item_img": "",
+    "item_name": "[CUT] Choir (Torso)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "671000": {
+    "item_img": "",
+    "item_name": "[CUT] Church Hunter (Torso)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "680000": {
+    "item_img": "",
+    "item_name": "[CUT] Bloodline Hunter (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "682000": {
+    "item_img": "",
+    "item_name": "[CUT] Bloodline Hunter (Arms)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "690000": {
+    "item_img": "",
+    "item_name": "[CUT] Executioner (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "700000": {
+    "item_img": "",
+    "item_name": "[CUT] Beggar Hunter (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "701000": {
+    "item_img": "",
+    "item_name": "[CUT] Beggar Hunter (Torso)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "703000": {
+    "item_img": "",
+    "item_name": "[CUT] Beggar Hunter (Legs)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "710000": {
+    "item_img": "",
+    "item_name": "[CUT] Nightmare Lord (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "712000": {
+    "item_img": "",
+    "item_name": "[CUT] Nightmare Lord (Arms)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "723000": {
+    "item_img": "",
+    "item_name": "[CUT] Base Elder (Legs)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "730000": {
+    "item_img": "",
+    "item_name": "[CUT] Mad Heretic (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "732000": {
+    "item_img": "",
+    "item_name": "[CUT] Mad Heretic (Arms)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "740000": {
+    "item_img": "",
+    "item_name": "[CUT] Doll Heroine (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "741000": {
+    "item_img": "",
+    "item_name": "[CUT] Doll Heroine (Torso)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "743000": {
+    "item_img": "",
+    "item_name": "[CUT] Doll Heroine (Legs)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "750000": {
+    "item_img": "",
+    "item_name": "[CUT] Starter Gear (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "751000": {
+    "item_img": "",
+    "item_name": "[CUT] Starter Gear (Torso)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "762000": {
+    "item_img": "",
+    "item_name": "[CUT] Starter Gear (Arms)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "772000": {
+    "item_img": "",
+    "item_name": "[CUT] Fist Beast (Pre-Transformation) (Arms)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "782000": {
+    "item_img": "",
+    "item_name": "[CUT] Fist Beast (Post-Transformation) (Arms)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "790000": {
+    "item_img": "",
+    "item_name": "[CUT] Castle Boss (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "800000": {
+    "item_img": "",
+    "item_name": "[CUT] Spider Cthulhu (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "811000": {
+    "item_img": "",
+    "item_name": "[CUT] Prostitute (Torso)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "813000": {
+    "item_img": "",
+    "item_name": "[CUT] Prostitute (Legs)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "820000": {
+    "item_img": "",
+    "item_name": "[CUT] Cranky Old Man (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "821000": {
+    "item_img": "",
+    "item_name": "[CUT] Cranky Old Man (Torso)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "831000": {
+    "item_img": "",
+    "item_name": "[CUT] Lonely Old Woman (Torso)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "900000": {
+    "item_img": "",
+    "item_name": "[CUT] Head",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "901000": {
+    "item_img": "",
+    "item_name": "[CUT] Body",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "902000": {
+    "item_img": "",
+    "item_name": "[CUT] Arms",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "903000": {
+    "item_img": "",
+    "item_name": "[CUT] Legs",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "910000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Naked (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "911000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Naked (Torso)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "912000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Naked (Arms)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "913000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Naked (Legs)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "920000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Old Hunter (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "921000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Old Hunter (Torso)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "930000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Immortal Pilgrim (No Hood) (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "940000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Gascoigne (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "950000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Lower Hunter (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "951000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Lower Hunter (Torso)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "952000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Lower Hunter (Arms)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "953000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Lower Hunter (Legs)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "960000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment City Hunter (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "961000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment City Hunter (Torso)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "962000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment City Hunter (Arms)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "963000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment City Hunter (Legs)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "970000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Ripper Jack (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "971000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Ripper Jack (Torso)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "972000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Ripper Jack (Arms)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "973000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Ripper Jack (Legs)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "980000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Church Servant (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "981000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Church Servant (Torso)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "982000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Church Servant (Arms)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "983000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Church Servant (Legs)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "990000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Hunter (Head)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "991000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Hunter (Torso)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "992000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Hunter (Arms)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  },
+  "993000": {
+    "item_img": "",
+    "item_name": "[CUT][GHOST] Equipment Hunter (Legs)",
+    "physicalDefense": {
+      "physical": 0,
+      "blunt": 0,
+      "thrust": 0,
+      "blood": 0
+    },
+    "elementalDefense": {
+      "arcane": 0,
+      "fire": 0,
+      "bolt": 0
+    },
+    "resistance": {
+      "slowPoison": 0,
+      "rapidPoison": 0,
+      "frenzy": 0
+    },
+    "beasthood": 0,
+    "type": "",
+    "item_desc": ""
+  }
+}

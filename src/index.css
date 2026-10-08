@@ -1,0 +1,174 @@
+html {
+  font-size: 14px;
+  color-scheme: dark;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family:
+    "Microsoft YaHei UI", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: #dbd9d5;
+}
+
+button {
+  cursor: pointer;
+  background: none;
+  border: none;
+  font-family: "Microsoft YaHei UI", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+  color: #dbd9d5;
+  font-size: 14px;
+
+  &:active {
+    opacity: 0.7;
+  }
+
+  &:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+}
+
+.buttonBg {
+  background: url("/assets/button2.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+
+input {
+  font-family: "Microsoft YaHei UI", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+  background: #00000081;
+  color: #dbd9d5;
+  font-size: 16px;
+  border: none;
+  &:disabled {
+    color: #fcfcfc4e;
+  }
+  &:focus {
+    outline: none;
+  }
+  &::-webkit-outer-spin-button,
+  &::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+}
+
+/* General scrollbar customization */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track - the background of the scrollbar */
+::-webkit-scrollbar-track {
+  /* background-color: #1b1a1c; */
+  background: url("/assets/itemsBg/statsBg.png");
+  background-size: 10% 100%;
+  border: 1px solid #6f634b;
+}
+
+/* Thumb - the draggable part of the scrollbar */
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(
+    90deg,
+    rgba(247, 248, 223, 1) 50%,
+    rgba(0, 0, 0, 1) 100%
+  );
+
+  border: 2px solid transparent;
+  background-clip: content-box;
+}
+
+.fade-out {
+  animation: fade-out 500ms ease-in forwards;
+}
+
+@keyframes fade-out {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+    pointer-events: none;
+  }
+}
+
+.spinner {
+  margin-top: 30px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background:
+    radial-gradient(farthest-side, #9b9ca1 94%, #0000) top/5px 5px no-repeat,
+    conic-gradient(#0000 30%, #ffffff96);
+  -webkit-mask: radial-gradient(farthest-side, #0000 calc(100% - 5px), #000 0);
+  animation: spinner-c7wet2 1s infinite linear;
+}
+
+@keyframes spinner-c7wet2 {
+  100% {
+    transform: rotate(1turn);
+  }
+}
+
+/* Thumb on hover */
+/* ::-webkit-scrollbar-thumb:hover {
+  background: #777;
+} */
+
+.btn-underline::before {
+  position: absolute;
+  top: 0;
+  left: -10%;
+  content: "";
+  background: url("/assets/botoncito.png");
+  background-repeat: no-repeat;
+  background-size: 100% 10px;
+  background-position: 50% 90%;
+  width: 120%;
+  height: 100%;
+}
+
+.selected {
+  position: relative;
+  &::before {
+    content: "";
+    position: absolute;
+    background: url("/assets/botoncito.png");
+    background-repeat: no-repeat;
+    width: 159px;
+    height: 10px;
+    bottom: -5px;
+    left: 20.5px;
+  }
+}
+
+.selected-slot {
+  position: absolute;
+  pointer-events: none;
+  width: 207px;
+  height: 207px;
+  background: linear-gradient(#679aff, 1%, transparent);
+  border: 2px solid;
+  z-index: 10;
+  border-radius: 2px;
+  animation: hover-fade 1000ms ease-in alternate infinite;
+}
+
+/* Shared typography and focus only; pixel-based dialogs own their sizing. */
+body { background: #121619; line-height: 1.5; }
+button, input, select { font-family: inherit; line-height: 1.5; }
+button:focus-visible, a:focus-visible, select:focus-visible, input:focus-visible { outline: 2px solid #d5b77b; outline-offset: 3px; }
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: #171c20; border: none; }
+::-webkit-scrollbar-thumb { background: #596269; border: 2px solid #171c20; border-radius: 6px; }
+::-webkit-scrollbar-thumb:hover { background: #79848c; }

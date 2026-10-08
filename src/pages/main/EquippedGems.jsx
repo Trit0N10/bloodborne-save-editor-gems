@@ -1,0 +1,133 @@
+import { useLocale } from "../../localization/i18n.jsx";
+import { tr } from "../../localization/zh.js";
+import { useContext, useEffect, useState } from "react";
+import { useLocation, useNavigate } from "react-router-dom";
+import Item from "../../components/Item";
+import EditUpgrade from "../../components/EditUpgrade";
+import { ImagesContext } from "../../context/imagesContext";
+import EquippedGem from "./EquippedGem";
+import useDraw from "../../utils/useDraw";
+import { SaveContext } from "../../context/context";
+import ChangeGemScreen from "./ChangeGemScreen";
+
+function EquippedGems() {
+  const locale = useLocale();
+  const { images } = useContext(ImagesContext);
+  const { save } = useContext(SaveContext);
+  const { getGemPath, loadImage } = useDraw();
+
+  const {
+    state: { selected, isStorage },
+  } = useLocation();
+  const [article, setArticle] = useState(selected);
+  const [selectedRef, setSelectedRef] = useState(null);
+  const [editScreen, setEditScreen] = useState(false);
+  const [changeScreen, setChangeScreen] = useState(false);
+  const [selectedGem, setSelectedGem] = useState(null);
+  const nav = useNavigate();
+
+  useEffect(() => {
+    if (!selected) {
+      nav("/");
+    }
+    console.log(selected);
+  }, [selected]);
+
+  return (
+    <>
+      {changeScreen ? (
+        <ChangeGemScreen
+          slotIndex={selectedGem.index}
+          article={article}
+          setArticle={setArticle}
+          setSelected={setSelectedGem}
+          setScreen={setChangeScreen}
+          isStorage={isStorage}
+        />
+      ) : null}
+      {editScreen ? (
+        <EditUpgrade
+          setSelected={setSelectedGem}
+          selected={selectedGem.gem}
+          selectedRef={selectedRef}
+          setEditScreen={setEditScreen}
+          isStorage={isStorage}
+          equipped={article}
+          slot={selectedGem.index}
+          confirmCb={(newGem) => {
+            setArticle((prev) => {
+              const index = prev.slots.findIndex(
+                (x) => x.gem?.id === selectedGem.gem.id
+              );
+              prev.slots[index].gem = newGem;
+              return JSON.parse(JSON.stringify(prev));
+            });
+
+            setSelectedGem(null);
+          }}
+        />
+      ) : null}
+      <div className="equipped-page">
+        {/* Selected Weapon */}
+        <div
+          style={{
+            marginBottom: "0",
+          }}
+        >
+          <Item item={article} index={0} />
+        </div>
+        {/* Gems */}
+        <div
+          style={{
+            display: "flex",
+            position: "relative",
+          }}
+        >
+          <div
+            className="selected-slot"
+            style={{
+              display: selectedGem !== null ? "block" : "none",
+              left: `${selectedGem?.index * 207}px`,
+            }}
+          ></div>
+          {article.slots.map((slot, i) => (
+            <EquippedGem
+              gem={slot?.gem}
+              shape={slot.shape}
+              setRef={setSelectedRef}
+              setSelected={setSelectedGem}
+              isStorage={isStorage}
+              article={article}
+              setArticle={setArticle}
+              index={i}
+              key={i}
+            />
+          ))}
+        </div>
+        {/* Buttons */}
+        <div
+          style={{
+            marginTop: "5rem",
+          }}
+        >
+          <button onClick={() => nav("/")}>{tr("返回")}</button>
+          <button
+            style={{ margin: "0 2rem" }}
+            onClick={() => {
+              setChangeScreen(true);
+            }}
+            disabled={!selectedGem}
+          >{tr("更换")}</button>
+          <button
+            onClick={() => {
+              setEditScreen(true);
+            }}
+            disabled={!selectedGem?.gem}
+          >{tr("编辑")}</button>
+        </div>
+      </div>
+    </>
+  );
+}
+
+export default EquippedGems;

@@ -1,0 +1,72 @@
+{
+  "version": "0.11.0",
+  "validatedAt": "2026-10-08T03:40:48.396Z",
+  "upstream": {
+    "repository": "Noxde/Bloodborne-save-editor",
+    "tag": "0.10.0",
+    "commit": "3759062d9629631683868d33d006c5633b3bbb56"
+  },
+  "native": {
+    "target": "Windows x64",
+    "build": "passed after final UI source freeze",
+    "bytes": 20838912,
+    "sha256": "e78c4de31ff656016838bc6d44779b1fb080146f38a119c8bef615abd6a55c9b",
+    "frontendAssets": [
+      {
+        "name": "index-CM2oJzHh.js",
+        "sha256": "fb15b5cc6e5e488fbc58df0ddb4ae493e403c121737fae976e74c3e6f9dddcb0"
+      }
+    ],
+    "imports": "Windows system and UCRT libraries; WebView2 Runtime required",
+    "signed": false
+  },
+  "checks": {
+    "localization": {
+      "passed": true,
+      "chineseUiLiterals": 227,
+      "backendMessages": 68,
+      "presets": 117,
+      "unchangedInvokeArgumentTrees": 34,
+      "unchangedOriginalNumericLiterals": 800
+    },
+    "syntheticRust": {
+      "command": "cargo test --locked --offline --manifest-path src-tauri/Cargo.toml --lib publication_ -- --test-threads=1",
+      "passed": 5,
+      "failed": 0,
+      "ignored": 0,
+      "filteredOut": 52,
+      "scope": "Authored memory buffers only; all117 presets/132 shape combinations; registry bounds/capacity and add-delete-readd lifecycle"
+    },
+    "legacyFixtureTests": {
+      "excluded": true,
+      "reason": "Upstream save files omitted; no passing claims for excluded tests",
+      "explicitlyIgnoredGemTests": 10
+    },
+    "artwork": {
+      "passed": true,
+      "authoredAssets": 974,
+      "compressionPortabilityRegressions": 10,
+      "committedHashesVerified": true,
+      "regeneration": "Decoded pixels and PNG/ICO/ICNS structure; exact recorded file SHA-256 retained"
+    },
+    "browserPreview": {
+      "syntheticDataOnly": true,
+      "englishDefault": true,
+      "localePersistenceAfterReload": true,
+      "quantityAndEchoesDraftsSurviveSwitch": true,
+      "gemModalQuantitySurvivesSwitch": true,
+      "englishAddDeleteFeedbackSwitchesToChinese": true,
+      "loadedSaveRetained": true,
+      "characterNameDynamicAssertion": "Not claimed; browser observations redact the name field"
+    },
+    "publicationSourceScan": {
+      "passed": true
+    }
+  },
+  "limitations": {
+    "realSavesAccessed": false,
+    "gameplayValidated": false,
+    "nativeGuiValidated": false,
+    "allUpstreamFeaturesValidated": false
+  }
+}

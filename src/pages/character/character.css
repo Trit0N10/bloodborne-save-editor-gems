@@ -1,0 +1,33 @@
+select {
+  display: block;
+  appearance: none;
+  background-color: #00000081;
+  color: #dbd9d5;
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 10px;
+  padding-right: 30px;
+  border: none;
+  cursor: pointer;
+}
+
+.select-wrapper {
+  position: relative;
+  margin-right: 2px;
+}
+
+.select-wrapper::after {
+  content: "▼";
+  pointer-events: none;
+  color: white;
+  font-size: 15px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 5px;
+  z-index: 9999;
+}
+
+option {
+  cursor: pointer;
+}
