@@ -6,8 +6,8 @@ $version = $config.version
 if (-not $Executable) { $Executable = Join-Path $projectRoot ('src-tauri\target\release\' + $config.mainBinaryName + '.exe') }
 $Executable = (Resolve-Path -LiteralPath $Executable).Path
 $releaseRoot = Join-Path $projectRoot 'release'
-$stageRoot = Join-Path $releaseRoot ('Bloodborne-Save-Editor-Gems-' + $version + '-windows-x64')
-if (Test-Path -LiteralPath $stageRoot) { throw 'Existing package staging directory; choose a fresh version or move it before rebuilding.' }
+$stageParent = Join-Path $releaseRoot ('_stage-' + [Guid]::NewGuid().ToString('N'))
+$stageRoot = Join-Path $stageParent ('Bloodborne-Save-Editor-Gems-' + $version + '-windows-x64')
 New-Item -ItemType Directory -Path $stageRoot -Force | Out-Null
 Copy-Item -LiteralPath $Executable -Destination (Join-Path $stageRoot ($config.mainBinaryName + '.exe'))
 Copy-Item -LiteralPath (Join-Path $projectRoot 'src-tauri\resources') -Destination $stageRoot -Recurse
@@ -15,11 +15,13 @@ foreach ($name in @('LICENSE','NOTICE.md','README.md','README.zh-CN.md')) { Copy
 Copy-Item -LiteralPath (Join-Path $projectRoot 'licenses') -Destination $stageRoot -Recurse
 Copy-Item -LiteralPath (Join-Path $projectRoot 'docs') -Destination $stageRoot -Recurse
 $binaryZip = Join-Path $releaseRoot ('Bloodborne-Save-Editor-Gems-' + $version + '-windows-x64.zip')
-Compress-Archive -LiteralPath $stageRoot -DestinationPath $binaryZip
+foreach ($file in Get-ChildItem -LiteralPath $stageRoot -File -Recurse) { $file.LastWriteTimeUtc = [DateTime]::SpecifyKind([DateTime]::new(2000,1,1), [DateTimeKind]::Utc) }
+Compress-Archive -LiteralPath $stageRoot -DestinationPath $binaryZip -Force
 $sourceZip = Join-Path $releaseRoot ('Bloodborne-Save-Editor-Gems-' + $version + '-source.zip')
 Push-Location $projectRoot
 try {
-    git archive --format=zip --prefix=('bloodborne-save-editor-gems-' + $version + '/') -o $sourceZip HEAD
+    $sourcePrefix = '--prefix=bloodborne-save-editor-gems-' + $version + '/'
+    git archive --format=zip $sourcePrefix -o $sourceZip HEAD
     if ($LASTEXITCODE -ne 0) { throw 'Source archive failed; commit the reviewed source first.' }
 } finally { Pop-Location }
 $checksumLines = foreach ($path in @($binaryZip,$sourceZip)) { (Get-FileHash -LiteralPath $path -Algorithm SHA256).Hash.ToLowerInvariant() + '  ' + (Split-Path -Leaf $path) }
