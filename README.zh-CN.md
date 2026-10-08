@@ -1,6 +1,8 @@
 # 血源存档编辑器 · 血宝石版
 
-[English](README.md) · [下载](https://github.com/Trit0N10/bloodborne-save-editor-gems/releases/latest)
+[English](README.md) | **简体中文**
+
+[下载](https://github.com/Trit0N10/bloodborne-save-editor-gems/releases/latest)
 
 用于编辑已解密《血源诅咒》角色存档的桌面工具，支持英语和简体中文。内置 117 个血宝石预设，可检索、批量添加或删除背包与仓库中的宝石。
 

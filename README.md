@@ -1,6 +1,8 @@
 # Bloodborne Save Editor Gems
 
-[简体中文](README.zh-CN.md) · [Download](https://github.com/Trit0N10/bloodborne-save-editor-gems/releases/latest)
+**English** | [简体中文](README.zh-CN.md)
+
+[Download](https://github.com/Trit0N10/bloodborne-save-editor-gems/releases/latest)
 
 A desktop editor for decrypted Bloodborne character saves, with a searchable blood-gem catalog and English / Simplified Chinese interfaces. It includes 117 gem presets and lets you add or remove gems in your inventory and storage.
 
