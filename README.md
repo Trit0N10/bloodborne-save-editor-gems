@@ -1,42 +1,49 @@
 # Bloodborne Save Editor Gems
 
-[简体中文](README.zh-CN.md)
+[简体中文](README.zh-CN.md) · [Download](https://github.com/Trit0N10/bloodborne-save-editor-gems/releases/latest)
 
-A desktop save editor with a searchable blood-gem preset catalog, English and Simplified Chinese interfaces, and original geometric graphics. Maintained by [Trit0N10](https://github.com/Trit0N10).
+A desktop editor for decrypted Bloodborne character saves, with a searchable blood-gem catalog and English / Simplified Chinese interfaces. It includes 117 gem presets and lets you add or remove gems in your inventory and storage.
 
-This is an unofficial derivative of [Noxde/Bloodborne-save-editor 0.10.0](https://github.com/Noxde/Bloodborne-save-editor). The upstream project supplies the save parser and most editing features. This repository maintains the gem workflow, bilingual presentation, publication tooling, and artwork changes described below. It is not affiliated with Sony Interactive Entertainment or FromSoftware.
+Maintained by [Trit0N10](https://github.com/Trit0N10), based on [Noxde/Bloodborne-save-editor 0.10.0](https://github.com/Noxde/Bloodborne-save-editor). The save parser and most basic editing features come from the upstream project. This fork adds and maintains the expanded gem workflow, language switching, original graphics, and release tooling.
 
-![English gem manager preview](docs/screenshots/gems.en.jpg)
+![English gem manager](docs/screenshots/gems.en.jpg)
 
-Screenshot uses synthetic preview data and authored geometric graphics. [Simplified Chinese preview](docs/screenshots/gems.zh-CN.jpg).
+The screenshot uses synthetic data. [View the Simplified Chinese interface](docs/screenshots/gems.zh-CN.jpg).
+
+## Features
+
+- Search 117 blood-gem presets, filter by shape, and choose from 132 preset/shape combinations.
+- Add gems by quantity or remove owned gems from inventory and storage. Capacity checks and independent record allocation help keep gem references consistent; unsupported layouts are rejected.
+- Edit ordinary items, stats, character details, bosses, and event flags using the upstream editor's features.
+- Switch between English and Simplified Chinese without reopening the save. English is the default on first launch; the language choice is remembered locally.
+- Use original geometric icons. Game artwork, fonts, and narrative item descriptions are not included.
 
 ## Download and use
 
-Download the **Windows x64 portable ZIP** from [Releases](https://github.com/Trit0N10/bloodborne-save-editor-gems/releases). Extract the whole archive, keep `resources` beside the executable, and run **Bloodborne Save Editor Gems.exe**. Windows requires Microsoft Edge WebView2 Runtime; install it from [Microsoft](https://developer.microsoft.com/en-us/microsoft-edge/webview2/) if it is missing.
+Download the **Windows x64 portable ZIP** from [the latest release](https://github.com/Trit0N10/bloodborne-save-editor-gems/releases/latest). Extract the entire archive, keep the `resources` folder beside **Bloodborne Save Editor Gems.exe**, and run the executable.
 
-1. Exit the game and make an independent backup of the save you intend to edit.
-2. Open a **decrypted character file**, such as `userdata0000`. `userdata0010` is system data and is not a character save. The editor does not decrypt console saves.
-3. Select the inventory, storage, stats, character, boss, or flag page. Use **Manage blood gems** to search presets, filter shapes, add a quantity, or remove an owned gem.
-4. Click **Save file** and choose the output explicitly. Editing in the interface does not write changes until you save.
+The app requires **Microsoft Edge WebView2 Runtime**. If it is missing, install it from [Microsoft](https://developer.microsoft.com/en-us/microsoft-edge/webview2/).
 
-The upstream file loader creates `<input>.bak` when opening a supported file. That backup can be overwritten when you reopen the same input; keep your own recovery copy. Avoid editing a file while the game is running. Use the toolbar language selector for **English / 简体中文**; English is the first-launch default, and the choice is remembered locally.
+1. Exit the game and keep a separate backup of the save you want to edit.
+2. Open a **decrypted character file**, such as `userdata0000`. `userdata0010` contains system data. The editor does not decrypt console saves.
+3. Make your changes. **Manage blood gems** opens the preset search, shape filters, quantity controls, and gem deletion tools.
+4. Click **Save file** and choose where to write the edited save. Changes stay in memory until you save.
 
-## Features and contribution boundaries
+Opening a supported file creates an `<input>.bak` backup. Reopening that input may overwrite the backup, so keep a separate recovery copy. Do not edit a save while the game is using it.
 
-| Area | Origin / changes maintained here |
-| --- | --- |
-| Save parsing, ordinary item/stat/character/boss/flag editing | Based on the upstream editor; original attribution retained |
-| Blood-gem catalog | 117 curated presets, 132 preset/shape combinations, documented source links and English names |
-| Gem management | Shape filtering, quantity-aware capacity checks, independent registry allocation, and deletion workflow; unsupported layouts fail validation |
-| UI | English-first and Simplified Chinese presentation, desktop navigation and text-based inventory views |
-| Visual assets | Authored geometric replacements; no bundled game screenshots, extracted item images, or fonts |
-| Publication | Locked dependency builds, synthetic checks, portable packaging, source archive and SHA-256 checksums |
+The release includes a source archive and `SHA256SUMS.txt`. Updates are downloaded from this repository's releases; automatic updates are disabled.
 
-This is a save editor, not a PC port, emulator, server, or online-play client. Numeric IDs and save-format metadata remain necessary for compatibility. Narrative item descriptions are omitted from this publication build. See [NOTICE](NOTICE.md) for upstream credits and [architecture](docs/architecture.md) for implementation details.
+## Compatibility and testing
 
-## Build
+The release target is **Windows x64**. The app works with decrypted character files in the formats supported by the upstream parser. Gem creation also requires a supported registry layout; the editor rejects layouts it cannot validate.
 
-Install **Node.js 22.12 or newer**, a stable Rust toolchain, and the [Tauri Windows prerequisites](https://v2.tauri.app/start/prerequisites/), including the MSVC C++ build tools and WebView2 Runtime. The release target is Windows x64.
+Checks cover preset consistency, localization, selected gem allocation and deletion behavior using synthetic buffers, and frontend and native Windows builds. Interface checks use synthetic preview data. These checks do not cover every editing feature or establish compatibility with every save or game version. Real-save and in-game testing have not been completed for this release. See [testing details](docs/testing.md) and [the validation record](docs/release-validation.json).
+
+The executable is unsigned. Test changes on a backed-up copy before replacing a save you rely on. No saves or game files are included.
+
+## Build from source
+
+Install **Node.js 22.12 or newer**, stable Rust, and the [Tauri Windows prerequisites](https://v2.tauri.app/start/prerequisites/), including MSVC C++ build tools and WebView2 Runtime. A game installation is not needed to build.
 
 ```powershell
 npm ci
@@ -46,16 +53,14 @@ cargo test --locked --manifest-path src-tauri/Cargo.toml --lib publication_
 npm run tauri -- build --no-bundle -- --locked
 ```
 
-Alternatively, `./scripts/build-windows.ps1` runs these checks and builds the executable. Use `./scripts/package-release.ps1` to create portable and corresponding-source archives plus `SHA256SUMS.txt` in the ignored `release` directory.
+`./scripts/build-windows.ps1` runs the checks and builds the executable. `./scripts/package-release.ps1` packages the Windows app, corresponding source, and checksums in the ignored `release` directory.
 
-The geometric graphics are checked in and can be regenerated with `node scripts/generate-artwork.mjs`. No game install is required to build. See [testing](docs/testing.md) and [asset provenance](docs/assets.md).
+The graphics are included in the source and can be regenerated with `node scripts/generate-artwork.mjs`. See [architecture](docs/architecture.md) and [asset provenance](docs/assets.md) for details.
 
-## Validation and limitations
+## Credits and license
 
-Synthetic tests check catalog consistency, selected registry/mutation behavior and localization; the frontend and native Windows builds are checked separately. These checks do **not** establish that every editing feature works with every save or that edits are accepted by the game. Upstream tests requiring omitted save fixtures are explicitly excluded from publication acceptance. There are no personal saves in this repository.
+The upstream editor was created by **Noxde** and **Valentino Amato**. Their credits and the sources used for game-format metadata are preserved in [NOTICE](NOTICE.md). Gem presets also include reference links in the catalog.
 
-The release is unsigned. The registry-based gem workflow intentionally rejects unverified layouts instead of guessing offsets. Game/version compatibility and unusual save states still need user validation on backed-up copies. Automatic updates are disabled; download updates from this repository's releases.
+This project is licensed under **GPL-3.0**; see [LICENSE](LICENSE). Redistributed binaries require corresponding source under the applicable GPL terms. Third-party dependencies retain their own licenses.
 
-## License
-
-GPL-3.0; see [LICENSE](LICENSE). Preserve notices when redistributing a derivative and provide corresponding source for distributed binaries under the applicable GPL terms. Third-party dependencies retain their own licenses. The project does not grant rights to game content or trademarks.
+This is an unofficial project, with no affiliation to Sony Interactive Entertainment or FromSoftware. Bloodborne and related trademarks belong to their respective owners; the software license does not grant rights to game content or trademarks.

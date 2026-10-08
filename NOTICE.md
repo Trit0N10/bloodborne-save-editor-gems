@@ -5,7 +5,7 @@
 This repository derives from **Noxde/Bloodborne-save-editor 0.10.0**:
 https://github.com/Noxde/Bloodborne-save-editor
 
-The upstream Rust manifest credits **Noxde** and **Valentino Amato**. The save parser and much of the editing logic and component structure originate there. GPL-3.0 and upstream notices are retained. New publication work is maintained by Trit0N10; it does not imply authorship of the upstream parser or game.
+The upstream Rust manifest credits **Noxde** and **Valentino Amato**. The save parser and much of the editing logic and component structure originate there. GPL-3.0 and upstream notices are retained. Trit0N10 maintains this fork's expanded gem workflow, bilingual interface, original graphics, and release tooling.
 
 The original upstream acknowledgments credit Meph and Bloodborne Wiki for reference metadata, foxyhooligan for effect IDs and flags, PlayingUnfairly for editing tutorials, xtrin for gem-display information, and n3r4_ for boss flags. Reference: https://github.com/Noxde/Bloodborne-save-editor#4-attributions
 

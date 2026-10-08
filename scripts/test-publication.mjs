@@ -45,6 +45,13 @@ const config = JSON.parse(fs.readFileSync(path.join(root, 'src-tauri/tauri.conf.
 const pkg = JSON.parse(fs.readFileSync(path.join(root, 'package.json')));
 const npmLock = JSON.parse(fs.readFileSync(path.join(root, 'package-lock.json')));
 assert.equal(config.version, '0.11.0'); assert.equal(pkg.version, config.version); assert.equal(npmLock.version, config.version);
+const rustTauri = fs.readFileSync(path.join(root, 'src-tauri/Cargo.lock'), 'utf8')
+  .split('[[package]]').find(block => /^name = "tauri"$/m.test(block));
+const rustTauriVersion = rustTauri?.match(/^version = "([^"]+)"$/m)?.[1];
+const apiVersion = npmLock.packages['node_modules/@tauri-apps/api']?.version;
+assert(rustTauriVersion && apiVersion, 'Locked Rust and JavaScript Tauri versions are required');
+assert.equal(apiVersion.split('.').slice(0, 2).join('.'), rustTauriVersion.split('.').slice(0, 2).join('.'),
+  'Tauri JavaScript API and Rust crate must use the same major/minor release');
 assert.equal(config.identifier, 'io.github.trit0n10.bloodborne-save-editor-gems');
 assert.equal(config.app.windows[0].title, 'Bloodborne Save Editor Gems');
 assert(!JSON.stringify(pkg).includes('@tauri-apps/plugin-updater'));

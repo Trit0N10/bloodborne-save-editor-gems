@@ -228,11 +228,11 @@
     {
       "ecosystem": "npm",
       "name": "@tauri-apps/api",
-      "version": "2.10.1",
+      "version": "2.11.1",
       "license": "Apache-2.0 OR MIT",
       "notices": [
-        "licenses/npm__tauri-apps_api_2.10.1__LICENSE_APACHE-2.0",
-        "licenses/npm__tauri-apps_api_2.10.1__LICENSE_MIT"
+        "licenses/npm__tauri-apps_api_2.11.1__LICENSE_APACHE-2.0",
+        "licenses/npm__tauri-apps_api_2.11.1__LICENSE_MIT"
       ]
     },
     {
@@ -333,31 +333,11 @@
     },
     {
       "ecosystem": "npm",
-      "name": "@tauri-apps/api",
-      "version": "2.11.1",
-      "license": "Apache-2.0 OR MIT",
-      "notices": [
-        "licenses/npm__tauri-apps_api_2.11.1__LICENSE_APACHE-2.0",
-        "licenses/npm__tauri-apps_api_2.11.1__LICENSE_MIT"
-      ]
-    },
-    {
-      "ecosystem": "npm",
       "name": "@tauri-apps/plugin-fs",
       "version": "2.5.1",
       "license": "MIT OR Apache-2.0",
       "notices": [
         "licenses/npm__tauri-apps_plugin-fs_2.5.1__LICENSE.spdx"
-      ]
-    },
-    {
-      "ecosystem": "npm",
-      "name": "@tauri-apps/api",
-      "version": "2.11.1",
-      "license": "Apache-2.0 OR MIT",
-      "notices": [
-        "licenses/npm__tauri-apps_api_2.11.1__LICENSE_APACHE-2.0",
-        "licenses/npm__tauri-apps_api_2.11.1__LICENSE_MIT"
       ]
     },
     {

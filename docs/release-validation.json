@@ -1,6 +1,6 @@
 {
   "version": "0.11.0",
-  "validatedAt": "2026-10-08T03:40:48.396Z",
+  "validatedAt": "2026-10-08T03:55:05.800Z",
   "upstream": {
     "repository": "Noxde/Bloodborne-save-editor",
     "tag": "0.10.0",
@@ -8,13 +8,13 @@
   },
   "native": {
     "target": "Windows x64",
-    "build": "passed after final UI source freeze",
+    "build": "passed after final Tauri API alignment",
     "bytes": 20838912,
-    "sha256": "e78c4de31ff656016838bc6d44779b1fb080146f38a119c8bef615abd6a55c9b",
+    "sha256": "20e8b4cbe6328d5b728f1c3c1de287f251bcd8d88953c53920e9678df58282e0",
     "frontendAssets": [
       {
-        "name": "index-CM2oJzHh.js",
-        "sha256": "fb15b5cc6e5e488fbc58df0ddb4ae493e403c121737fae976e74c3e6f9dddcb0"
+        "name": "index-BUuwc0CY.js",
+        "sha256": "a18311b5949b1f5a340b3bc5fa5f27c6b6294e34cf7979051ea71d1a7e41eaae"
       }
     ],
     "imports": "Windows system and UCRT libraries; WebView2 Runtime required",
@@ -61,6 +61,12 @@
     },
     "publicationSourceScan": {
       "passed": true
+    },
+    "tauriVersionAlignment": {
+      "passed": true,
+      "rust": "2.11.6",
+      "javascriptApi": "2.11.1",
+      "lockedMajorMinorCheck": true
     }
   },
   "limitations": {
